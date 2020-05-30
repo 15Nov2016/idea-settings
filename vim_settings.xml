@@ -60,10 +60,11 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590829365089">
-        <mark key="[" line="518" column="0" />
-        <mark key="]" line="518" column="0" />
-        <mark key="." line="518" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590832976244">
+        <mark key="[" line="533" column="69" />
+        <mark key="]" line="536" column="0" />
+        <mark key="." line="536" column="0" />
+        <mark key="^" line="533" column="98" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
@@ -144,43 +145,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>VIRTUAL_LINE</text>
+        <text>: Map[(LineOnIr, Orientation), Seq[LaneBorder]]</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIExhbmVMaW5lVHlwZS5WSVJUVUFMX0xJTkUgPT4gcHJvdG8uTGFuZU91dGVyQ2xhc3MuTGFuZUJvdW5kYXJ5LkxpbmVUeXBlLlZJUlRVQUwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnRPZmZzZXQgPSBwbC5wcm9qZWN0T2Zmc2V0RnVsbFJhbmdlKGxiLmdlb21ldHJ5LnB0cy5oZWFkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhbGxMYi5leGlzdHMoXy5pZC51bmRlcmx5aW5nID09IDIwNjE1KSl7CiAgICAgICAgICB2YWwgYSA9IDEKICAgICAgICB9</text>
+        <text encoding="base64">Ly8gICAgICAubWFwKGkgPT4gaS5fMSAtPmkuXzIuZmxhdHRlbi5kaXN0aW5jdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRvU2VxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHZCb3JkZXJTaW1wbGVMaW5lT3JpID0gdkJvcmRlclRMaW5lT3JpLmZsYXRNYXAoaSA9PiBzZXBhcmF0ZVRMaW5lKGkuXzEuXzEpLm1hcChqID0+IChqLCBpLl8xLl8yKSAtPiBpLl8yKSkuZ3JvdXBCeShfLl8xKS50cmFuc2Zvcm0oKGssIHYpID0+IHYubWFwKF8uXzIpKQovLyAgICAgIC50b1NlcQovLyAgICAgIC5tYXAoaSA9PiBpLl8xIC0+aS5fMi5mbGF0dGVuLmRpc3RpbmN0KQovLyAgICB2Qm9yZGVyU2ltcGxlTGluZU9yaS50b01hcA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigia2tra2tra2trIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWMK</text>
+        <text encoding="base64">ICAgICAgICBpZihhbGxMYi5leGlzdHMoXy5pZC51bmRlcmx5aW5nID09IDIwNjE1KSl7CiAgICAgICAgICB2YWwgYSA9IDEKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMucmVzZGRkZG91cmNlcy5jdAo=</text>
+        <text encoding="base64">ICAgICAgLnRvU2VxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmZsYXRNYXAoaSA9PiBpLl8xLm1hcChqID0+IGogLT4gaS5fMikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigia2tra2tra2trIikK</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
