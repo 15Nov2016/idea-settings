@@ -55,23 +55,28 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1590835554886" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/LaneChange.scala" timestamp="1590406757433">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590834224198">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="533" column="98" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590836985237">
+        <mark key="[" line="401" column="11" />
+        <mark key="]" line="399" column="12" />
+        <mark key="." line="399" column="12" />
+        <mark key="^" line="541" column="98" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1590834326038" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1590835065731">
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1590550420896">
         <mark key="[" line="137" column="0" />
       </file>
@@ -81,17 +86,17 @@
         <mark key="^" line="512" column="56" />
         <mark key="." line="247" column="17" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1590831159653">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1590836843019">
         <mark key="[" line="340" column="0" />
         <mark key="]" line="340" column="0" />
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1590830362209">
+      <file name="/fragment.java" timestamp="1590836182581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1590732329281">
-        <mark key="[" line="48" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1590836517994">
+        <mark key="[" line="249" column="15" />
         <mark key="]" line="48" column="17" />
         <mark key="." line="48" column="17" />
         <mark key="^" line="241" column="39" />
@@ -146,10 +151,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1e-1</text>
+        <text>filterLbs</text>
       </register>
       <register name="-" type="4">
-        <text>1e-1</text>
+        <text>filterLbs</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -158,31 +163,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgc3RhcnRPZmZzZXQgPSBwbC5wcm9qZWN0T2Zmc2V0RnVsbFJhbmdlKGxiLmdlb21ldHJ5LnB0cy5oZWFkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
+        <text encoding="base64">ICAgICAgZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKGkgPT4gaS5fMSAtPmkuXzIuZmxhdHRlbi5kaXN0aW5jdCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlcwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHZCb3JkZXJTaW1wbGVMaW5lT3JpID0gdkJvcmRlclRMaW5lT3JpLmZsYXRNYXAoaSA9PiBzZXBhcmF0ZVRMaW5lKGkuXzEuXzEpLm1hcChqID0+IChqLCBpLl8xLl8yKSAtPiBpLl8yKSkuZ3JvdXBCeShfLl8xKS50cmFuc2Zvcm0oKGssIHYpID0+IHYubWFwKF8uXzIpKQovLyAgICAgIC50b1NlcQovLyAgICAgIC5tYXAoaSA9PiBpLl8xIC0+aS5fMi5mbGF0dGVuLmRpc3RpbmN0KQovLyAgICB2Qm9yZGVyU2ltcGxlTGluZU9yaS50b01hcA==</text>
+        <text encoding="base64">Ly8gICAgICAubWFwKGkgPT4gaS5fMSAtPmkuXzIuZmxhdHRlbi5kaXN0aW5jdCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhbGxMYi5leGlzdHMoXy5pZC51bmRlcmx5aW5nID09IDIwNjE1KSl7CiAgICAgICAgICB2YWwgYSA9IDEKICAgICAgICB9</text>
+        <text encoding="base64">Ly8gICAgdmFsIHZCb3JkZXJTaW1wbGVMaW5lT3JpID0gdkJvcmRlclRMaW5lT3JpLmZsYXRNYXAoaSA9PiBzZXBhcmF0ZVRMaW5lKGkuXzEuXzEpLm1hcChqID0+IChqLCBpLl8xLl8yKSAtPiBpLl8yKSkuZ3JvdXBCeShfLl8xKS50cmFuc2Zvcm0oKGssIHYpID0+IHYubWFwKF8uXzIpKQovLyAgICAgIC50b1NlcQovLyAgICAgIC5tYXAoaSA9PiBpLl8xIC0+aS5fMi5mbGF0dGVuLmRpc3RpbmN0KQovLyAgICB2Qm9yZGVyU2ltcGxlTGluZU9yaS50b01hcA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRvU2VxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZihhbGxMYi5leGlzdHMoXy5pZC51bmRlcmx5aW5nID09IDIwNjE1KSl7CiAgICAgICAgICB2YWwgYSA9IDEKICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigia2tra2tra2trIikK</text>
+        <text encoding="base64">ICAgICAgLnRvU2VxCg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
