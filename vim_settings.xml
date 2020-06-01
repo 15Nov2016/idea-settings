@@ -63,8 +63,10 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591002752932">
-        <mark key="[" line="262" column="20" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591005372338">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
@@ -114,7 +116,7 @@
         <mark key="[" line="362" column="102" />
         <mark key="]" line="362" column="102" />
         <mark key="." line="362" column="102" />
-        <mark key="^" line="363" column="25" />
+        <mark key="^" line="362" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -161,10 +163,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlcGxlbmlzaFNwYXRpYWxpemVkVGlsZSA9IFByb2NlZHVyZS5yZXBsZW5pc2goc3BhdGlhbGl6ZVRpbGUsIExpbmtUaWxlLmVtcHR5LCBpZE1hbmFnZXIsIGN0LCBTcGF0aWFsaXplKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0yCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>: Iterable[(Cursor, (Seq[LineOnIr], Seq[LineOnIr]))]</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -173,25 +175,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhzIiR7dExpbmV9XG4ke29yaX1cbiR7Y3Vyc29yfVxuJHtuZXh0TGluZUluZGV4ID09IDB9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlcGxlbmlzaFNwYXRpYWxpemVkVGlsZSA9IFByb2NlZHVyZS5yZXBsZW5pc2goc3BhdGlhbGl6ZVRpbGUsIExpbmtUaWxlLmVtcHR5LCBpZE1hbmFnZXIsIGN0LCBTcGF0aWFsaXplKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHlsb25BcmdzLmlyU3RvcmVkKSB7CiAgICAgICAgIAogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIGRlZiBzZXBhcmF0ZVRMaW5lKHRMaW5lOiBMaW5lT25Jcik6IFNlcVtMaW5lT25Jcl0gPSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAobGFuZWdyb3VwVGlsZSwgbGlua1RpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlcGxlbmlzaFNwYXRpYWxpemVkVGlsZSA9IFByb2NlZHVyZS5yZXBsZW5pc2goc3BhdGlhbGl6ZVRpbGUsIExpbmtUaWxlLmVtcHR5LCBpZE1hbmFnZXIsIGN0LCBTcGF0aWFsaXplKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHlsb25BcmdzLmlyU3RvcmVkKSB7CiAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAobGFuZWdyb3VwVGlsZSwgbGlua1RpbGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICB2YWwgc3RyMyA9IE9TTVNlcmlhbGl6YWJsZS5zZXJpYWxpemUocmVwbGVuaXNoVGlsZSkKICAgICAgICAgIHNlcmlhbGl6ZVRvRmlsZShzdHIzLCAib3V0X2xhbmVncm91cHRpbGVfcmVwbGVuaXNoZWQub3NtIik=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
