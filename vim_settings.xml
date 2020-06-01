@@ -64,11 +64,10 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591014721399">
-        <mark key="[" line="541" column="15" />
-        <mark key="]" line="538" column="57" />
-        <mark key="." line="538" column="56" />
-        <mark key="^" line="538" column="57" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591016467979">
+        <mark key="[" line="507" column="9" />
+        <mark key="]" line="507" column="9" />
+        <mark key="." line="507" column="9" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
@@ -105,7 +104,7 @@
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591014427714">
+      <file name="/fragment.java" timestamp="1591017328153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591000869473" />
@@ -164,11 +163,13 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0yCg==</text>
+      <register name="&quot;" type="4">
+        <text>else{
+          
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>: Iterable[(Cursor, (Seq[LineOnIr], Seq[LineOnIr]))]</text>
+        <text>inLines</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -176,32 +177,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhzIiR7dExpbmV9XG4ke29yaX1cbiR7Y3Vyc29yfVxuJHtuZXh0TGluZUluZGV4ID09IDB9IikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0yCg==</text>
+      <register name="1" type="4">
+        <text>else{
+          
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXBhcmF0ZVRMaW5lKHRMaW5lOiBMaW5lT25Jcik6IFNlcVtMaW5lT25Jcl0gPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3Vyc29ycy5zaXplID09IDQgJiYgb3JpZW50YXRpb24gPT0gT3JpZW50YXRpb24uUklHSFQpIHsKICAgICAgICAgIHZhbCBhID0gMQogICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlcGxlbmlzaFNwYXRpYWxpemVkVGlsZSA9IFByb2NlZHVyZS5yZXBsZW5pc2goc3BhdGlhbGl6ZVRpbGUsIExpbmtUaWxlLmVtcHR5LCBpZE1hbmFnZXIsIGN0LCBTcGF0aWFsaXplKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHlsb25BcmdzLmlyU3RvcmVkKSB7CiAgICAgICAgIAogICAgICAgIH0=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKHMiJHt0TGluZX1cbiR7b3JpfVxuJHtjdXJzb3J9XG4ke2ZhbHNlfSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAobGFuZWdyb3VwVGlsZSwgbGlua1RpbGUpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIHByaW50bG4obmV4dExpbmVJbmRleCA9PSBvdXRMaW5lcy5zaXplIC0gMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIHByaW50bG4obmV4dExpbmVJblxuJHtvcml9XG4ke2N1cnNvcn1cbiR7bmV4dExpbmVJbmRleCA9PSAwfSIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>dex == 0)
+//              logger.info(s&quot;${tLine}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
