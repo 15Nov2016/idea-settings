@@ -59,15 +59,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/LaneChange.scala" timestamp="1590406757433">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591016467979">
-        <mark key="[" line="507" column="9" />
-        <mark key="]" line="507" column="9" />
-        <mark key="." line="507" column="9" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591018877768">
+        <mark key="[" line="569" column="0" />
+        <mark key="]" line="569" column="0" />
+        <mark key="." line="569" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
@@ -79,13 +74,16 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591003237206">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591018892943">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1590550420896">
         <mark key="[" line="137" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1591019236266">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1591002351811">
         <mark key="[" line="520" column="29" />
@@ -104,7 +102,10 @@
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591017328153">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591019075613">
+        <mark key="[" line="419" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591018706616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591000869473" />
@@ -163,13 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>else{
-          
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>inLines</text>
+        <text encoding="base64">Z2VuVkJvcmRlclBvbHlMaW5lKGN1clNpbXBsZUxpbmUsIG9yaWVudGF0aW9uKSArKyA=</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -177,35 +176,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhzIiR7dExpbmV9XG4ke29yaX1cbiR7Y3Vyc29yfVxuJHtuZXh0TGluZUluZGV4ID09IDB9IikK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpZih0TGluZS5wb2ludHMuc2l6ZSA9PSA0ICYmIG9yaWVudGF0aW9uID09IE9yaWVudGF0aW9uLkxFRlQpewovLyAgICAgICAgdmFsIGEgPSAxCi8vICAgICAgfQovLyAgICAgIGxvZ2dlci5pbmZvKHMiJHt0TGluZX1cbiR7b3JpZW50YXRpb259XG5zcGxpdCBjdXJzb3I6JHtzcGxpdEN1cnNvcn1cbiR7cmVzfVxuIikKLy8gICAgICByZXM=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="4">
         <text>else{
           
         }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3Vyc29ycy5zaXplID09IDQgJiYgb3JpZW50YXRpb24gPT0gT3JpZW50YXRpb24uUklHSFQpIHsKICAgICAgICAgIHZhbCBhID0gMQogICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKHMiJHt0TGluZX1cbiR7b3JpfVxuJHtjdXJzb3J9XG4ke2ZhbHNlfSIK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIHByaW50bG4obmV4dExpbmVJbmRleCA9PSBvdXRMaW5lcy5zaXplIC0gMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIHByaW50bG4obmV4dExpbmVJblxuJHtvcml9XG4ke2N1cnNvcn1cbiR7bmV4dExpbmVJbmRleCA9PSAwfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3Vyc29ycy5zaXplID09IDQgJiYgb3JpZW50YXRpb24gPT0gT3JpZW50YXRpb24uUklHSFQpIHsKICAgICAgICAgIHZhbCBhID0gMQogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text>dex == 0)
-//              logger.info(s&quot;${tLine}</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKHMiJHt0TGluZX1cbiR7b3JpfVxuJHtjdXJzb3J9XG4ke2ZhbHNlfSIK</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
