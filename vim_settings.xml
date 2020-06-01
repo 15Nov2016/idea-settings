@@ -102,8 +102,10 @@
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591019075613">
-        <mark key="[" line="419" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591020383883">
+        <mark key="[" line="419" column="48" />
+        <mark key="]" line="418" column="25" />
+        <mark key="." line="418" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1591018706616">
         <mark key="[" line="0" column="0" />
@@ -164,11 +166,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>).flatten</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2VuVkJvcmRlclBvbHlMaW5lKGN1clNpbXBsZUxpbmUsIG9yaWVudGF0aW9uKSArKyA=</text>
+        <text>).flatten</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
