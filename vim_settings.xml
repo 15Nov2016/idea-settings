@@ -63,11 +63,11 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590981946808">
-        <mark key="[" line="550" column="73" />
-        <mark key="]" line="551" column="23" />
-        <mark key="^" line="551" column="23" />
-        <mark key="." line="551" column="22" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590982533133">
+        <mark key="[" line="513" column="38" />
+        <mark key="]" line="513" column="39" />
+        <mark key="^" line="513" column="39" />
+        <mark key="." line="513" column="38" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
@@ -153,10 +153,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nextLineIndex == 0</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>nextLineIndex == 0</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
