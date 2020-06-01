@@ -63,8 +63,8 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590998639809">
-        <mark key="[" line="346" column="106" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591002752932">
+        <mark key="[" line="262" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
@@ -76,19 +76,24 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591003237206">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1590550420896">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1590732402962">
-        <mark key="[" line="247" column="17" />
-        <mark key="]" line="247" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1591002351811">
+        <mark key="[" line="520" column="29" />
+        <mark key="]" line="520" column="29" />
         <mark key="^" line="512" column="56" />
-        <mark key="." line="247" column="17" />
+        <mark key="." line="520" column="29" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1590999507592">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591001855461">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1590836843019">
         <mark key="[" line="340" column="0" />
@@ -96,7 +101,7 @@
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591000096160">
+      <file name="/fragment.java" timestamp="1591003200459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591000869473" />
@@ -155,11 +160,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>union</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHJlcGxlbmlzaFNwYXRpYWxpemVkVGlsZSA9IFByb2NlZHVyZS5yZXBsZW5pc2goc3BhdGlhbGl6ZVRpbGUsIExpbmtUaWxlLmVtcHR5LCBpZE1hbmFnZXIsIGN0LCBTcGF0aWFsaXplKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>union</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -167,29 +172,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhzIiR7dExpbmV9XG4ke29yaX1cbiR7Y3Vyc29yfVxuJHtuZXh0TGluZUluZGV4ID09IDB9IikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGVmIGNvbGxhcHNlKHJzOiBTZXFbSW50ZXJ2YWxdLCBzZXA6IFNlcVtJbnRlcnZhbF0gPSBTZXEuZW1wdHkpOiBTZXFbSW50ZXJ2YWxdID0gcnMgbWF0Y2ggewogICAgICBjYXNlIHggOjogeSA6OiByZXN0ID0+CiAgICAgICAgaWYgKHkuc3RhcnQgPiB4LmVuZCkgY29sbGFwc2UoeSA6OiByZXN0LCBTZXEoeCkgKysgc2VwKQogICAgICAgIGVsc2UgY29sbGFwc2UoSW50ZXJ2YWwoeC5zdGFydCwgeC5lbmQgbWF4IHkuZW5kKSA6OiByZXN0LCBzZXApCiAgICAgIGNhc2UgXyA9PgogICAgICAgIChycyArKyBzZXApLnJldmVyc2UKICAgIH0KICAgIGRlZiBtZXJnZShyczogU2VxW0ludGVydmFsXSk6IFNlcVtJbnRlcnZhbF0gPSBjb2xsYXBzZShycy5zb3J0QnkoXy5zdGFydCkpCiAgICBkZWYgZGlmZih3aG9sZUludGVydmFsOiBJbnRlcnZhbCwgdG9EaWZmOiBTZXFbSW50ZXJ2YWxdKTogU2VxW0ludGVydmFsXSA9IHsKCiAgICAgIG1lcmdlKHRvRGlmZikKICAgIH0KICAgIHZhbCBhID0gU2VxKEludGVydmFsKDEsIDMpLCBJbnRlcnZhbCgyLCA0KSwgSW50ZXJ2YWwoNSwgNikpCiAgICBwcmludGxuKG1lcmdlKGEpKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHJlcGxlbmlzaFNwYXRpYWxpemVkVGlsZSA9IFByb2NlZHVyZS5yZXBsZW5pc2goc3BhdGlhbGl6ZVRpbGUsIExpbmtUaWxlLmVtcHR5LCBpZE1hbmFnZXIsIGN0LCBTcGF0aWFsaXplKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHlsb25BcmdzLmlyU3RvcmVkKSB7CiAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjb2xsZWN0aW9uLm11dGFibGUue0xpbmtlZEhhc2hNYXAsIExpbmtlZEhhc2hTZXQsIE1hcCA9PiBNdXRhYmxlTWFwfQogICAgaW1wbGljaXQgY2xhc3MgR3JvdXBCeU9yZGVyZWRJbXBsaWNpdEltcGxbQV0odmFsIHQ6IFRyYXZlcnNhYmxlW0FdKSBleHRlbmRzIEFueVZhbCB7CiAgICAgIGRlZiBncm91cEJ5T3JkZXJlZFtLXShmOiBBID0+IEspOiBNdXRhYmxlTWFwW0ssIExpbmtlZEhhc2hTZXRbQV1dID0gewogICAgICAgIHZhbCBtYXAgPSBMaW5rZWRIYXNoTWFwW0ssTGlua2VkSGFzaFNldFtBXV0oKS53aXRoRGVmYXVsdChfID0+IExpbmtlZEhhc2hTZXRbQV0oKSkKICAgICAgICBmb3IgKGkgPC0gdCkgewogICAgICAgICAgdmFsIGtleSA9IGYoaSkKICAgICAgICAgIG1hcChrZXkpID0gbWFwKGtleSkgKyBpCiAgICAgICAgfQogICAgICAgIG1hcAogICAgICB9CiAgICB9</text>
+        <text encoding="base64">ICAgICAgICAobGFuZWdyb3VwVGlsZSwgbGlua1RpbGUpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyU2V0Lm5vbkVtcHR5KQogICAgICAgICAgICBsb2dnZXIuaW5mbyhzInRvSXI6IGZpbHRlciBtaXMtcmVmZXJlbmNlZCBsYW5lIGJvcmRlciAke3JTZXR9IGZyb20gJHtsaW5lfSIp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZhbHNlKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICB2YWwgc3RyMyA9IE9TTVNlcmlhbGl6YWJsZS5zZXJpYWxpemUocmVwbGVuaXNoVGlsZSkKICAgICAgICAgIHNlcmlhbGl6ZVRvRmlsZShzdHIzLCAib3V0X2xhbmVncm91cHRpbGVfcmVwbGVuaXNoZWQub3NtIik=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
