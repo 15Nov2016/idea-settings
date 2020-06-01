@@ -63,10 +63,18 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1590998639809">
+        <mark key="[" line="346" column="106" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/GroupByOrderedImplicit.scala" timestamp="1590998329513">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1590550420896">
         <mark key="[" line="137" column="0" />
@@ -83,13 +91,18 @@
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1590996952136">
+      <file name="/fragment.java" timestamp="1590998204494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Utils.scala" timestamp="1590493294992">
         <mark key="[" line="25" column="77" />
         <mark key="]" line="25" column="77" />
         <mark key="." line="25" column="77" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1590998992902">
+        <mark key="[" line="291" column="66" />
+        <mark key="]" line="289" column="0" />
+        <mark key="." line="289" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -136,10 +149,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Traversable</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Traversable</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -151,28 +164,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyU2V0Lm5vbkVtcHR5KQogICAgICAgICAgICBsb2dnZXIuaW5mbyhzInRvSXI6IGZpbHRlciBtaXMtcmVmZXJlbmNlZCBsYW5lIGJvcmRlciAke3JTZXR9IGZyb20gJHtsaW5lfSIp</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjb2xsZWN0aW9uLm11dGFibGUue0xpbmtlZEhhc2hNYXAsIExpbmtlZEhhc2hTZXQsIE1hcCA9PiBNdXRhYmxlTWFwfQogICAgaW1wbGljaXQgY2xhc3MgR3JvdXBCeU9yZGVyZWRJbXBsaWNpdEltcGxbQV0odmFsIHQ6IFRyYXZlcnNhYmxlW0FdKSBleHRlbmRzIEFueVZhbCB7CiAgICAgIGRlZiBncm91cEJ5T3JkZXJlZFtLXShmOiBBID0+IEspOiBNdXRhYmxlTWFwW0ssIExpbmtlZEhhc2hTZXRbQV1dID0gewogICAgICAgIHZhbCBtYXAgPSBMaW5rZWRIYXNoTWFwW0ssTGlua2VkSGFzaFNldFtBXV0oKS53aXRoRGVmYXVsdChfID0+IExpbmtlZEhhc2hTZXRbQV0oKSkKICAgICAgICBmb3IgKGkgPC0gdCkgewogICAgICAgICAgdmFsIGtleSA9IGYoaSkKICAgICAgICAgIG1hcChrZXkpID0gbWFwKGtleSkgKyBpCiAgICAgICAgfQogICAgICAgIG1hcAogICAgICB9CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyU2V0Lm5vbkVtcHR5KQogICAgICAgICAgICBsb2dnZXIuaW5mbyhzInRvSXI6IGZpbHRlciBtaXMtcmVmZXJlbmNlZCBsYW5lIGJvcmRlciAke3JTZXR9IGZyb20gJHtsaW5lfSIp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGZhbHNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
+        <text encoding="base64">ICAgICAgZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKGkgPT4gaS5fMSAtPmkuXzIuZmxhdHRlbi5kaXN0aW5jdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
