@@ -46,6 +46,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/bind/BindSuite.scala" timestamp="1591038617940">
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="/Dummy.scala" timestamp="1591022331252">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,11 +62,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590839524587">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/strategy/AdasCalc.scala" timestamp="1591005847531" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/reSortEdges.scala" timestamp="1591031402642">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/reSortEdges.scala" timestamp="1591038046493">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -83,6 +83,11 @@
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1591037460931">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591036293042">
         <mark key="[" line="243" column="14" />
@@ -160,10 +165,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>: Boolean</text>
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>: Boolean</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
