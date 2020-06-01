@@ -50,6 +50,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591030234324" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalJunction.scala" timestamp="1591037173554" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalHighway.scala" timestamp="1591035165023">
         <mark key="[" line="35" column="86" />
       </file>
@@ -94,12 +95,6 @@
         <mark key="]" line="414" column="20" />
         <mark key="^" line="514" column="56" />
         <mark key="." line="414" column="20" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1590836843019">
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="^" line="230" column="25" />
-        <mark key="." line="340" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591031543102">
         <mark key="[" line="2" column="0" />
