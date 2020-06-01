@@ -48,12 +48,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/strategy/AdasCalc.scala" timestamp="1591005847531" />
-      <file name="$USER_HOME$/WorkSpace/nexus/build.gradle" timestamp="1590548431078">
-        <mark key="[" line="145" column="23" />
-        <mark key="]" line="145" column="23" />
-        <mark key="^" line="145" column="27" />
-        <mark key="." line="145" column="23" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/partition/Link.scala" timestamp="1590586641481">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -82,6 +76,7 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1590550420896">
         <mark key="[" line="137" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParsePartition.scala" timestamp="1591023992200" />
       <file name="/Dummy.scala" timestamp="1591022331252">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,15 +102,10 @@
         <mark key="]" line="418" column="25" />
         <mark key="." line="418" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1591021525971">
+      <file name="/fragment.java" timestamp="1591023764110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591000869473" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Utils.scala" timestamp="1590493294992">
-        <mark key="[" line="25" column="77" />
-        <mark key="]" line="25" column="77" />
-        <mark key="." line="25" column="77" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1590999882753">
         <mark key="[" line="362" column="102" />
         <mark key="]" line="362" column="102" />
@@ -167,10 +157,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>).flatten</text>
+        <text>length - 10</text>
       </register>
       <register name="-" type="4">
-        <text>).flatten</text>
+        <text>length - 10</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
