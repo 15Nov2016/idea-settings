@@ -50,6 +50,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591030234324" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalHighway.scala" timestamp="1591035165023">
+        <mark key="[" line="35" column="86" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591001855461">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -69,27 +72,28 @@
         <mark key="]" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1590732369417">
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1591036215593">
+        <mark key="[" line="75" column="126" />
+        <mark key="]" line="75" column="126" />
+        <mark key="." line="75" column="126" />
+        <mark key="^" line="75" column="114" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/GroupByOrderedImplicit.scala" timestamp="1591000382838">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591032280358">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591036293042">
+        <mark key="[" line="243" column="14" />
+        <mark key="]" line="274" column="104" />
+        <mark key="." line="274" column="104" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParsePartition.scala" timestamp="1591023992200" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1591002351811">
-        <mark key="[" line="520" column="29" />
-        <mark key="]" line="520" column="29" />
-        <mark key="^" line="512" column="56" />
-        <mark key="." line="520" column="29" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1591036369272">
+        <mark key="[" line="414" column="20" />
+        <mark key="]" line="414" column="20" />
+        <mark key="^" line="514" column="56" />
+        <mark key="." line="414" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1590836843019">
         <mark key="[" line="340" column="0" />
@@ -105,7 +109,11 @@
       <file name="/fragment.java" timestamp="1591031340189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591000869473" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591036160498">
+        <mark key="[" line="62" column="100" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="6" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1591030938806">
         <mark key="[" line="362" column="102" />
         <mark key="]" line="362" column="102" />
@@ -156,11 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>: Boolean</text>
       </register>
       <register name="-" type="4">
-        <text>Sectiong</text>
+        <text>: Boolean</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -169,32 +177,32 @@
         <text encoding="base64">ICAgICAgICB2YWwgcGwgPSBnZXR0ZXIoTGFuZUNlbnRlcklkKDM1MTYzLCBUaWxlSWQuVEhFX1dIT0xFX1dPUkxEKSwgZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
+        <text encoding="base64">ICAgICAgcHJvY2VkdXJlOiBQcm9jZWR1cmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text>import ai.momenta.hdmap.nexus.pylon.procedure.Procedure
-import ai.momenta.hdmap.nexus.pylon.procedure.lanegrouping.Lanegrouping</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmVz</text>
+        <text>import ai.momenta.hdmap.nexus.pylon.procedure.Procedure
+import ai.momenta.hdmap.nexus.pylon.procedure.lanegrouping.Lanegrouping</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzID0gaWYgKHByb2NlZHVyZSAhPSBMYW5lZ3JvdXBpbmcpIHsKICAgICAgICAgIHZhbCBtaWQ6IFNlcVsoT3B0aW9uW1BvbHlMaW5lXSwgU2VxW0xhbmVCb3JkZXJJZF0pXSA9IG5vTGJJbnRlcnZhbC5tYXAoaSA9PiBnZW5lcmF0ZVZCUGwoaSwgbGJPZmZzZXRJbnRlcnZhbCkpCiAgICAgICAgICB2YWwgcGxzID0gbWlkLmZsYXRNYXAoXy5fMSkKICAgICAgICAgIHZhbCByZWZlcmVkTGNzID0gbWlkLmZsYXRNYXAoXy5fMikuZmxhdE1hcChnZXRSZWYpLmRpc3RpbmN0CiAgICAgICAgICAocGxzLCByZWZlcmVkTGNzKQogICAgICAgIH0gZWxzZSB7</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmVz</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGMuaWQudW5kZXJseWluZyA9PSAyNzY2NSAmJiBwcm9jZWR1cmUgPT0gTGFuZWdyb3VwaW5nKSB7CiAgICAgICAgICB2YWwgYSA9IDEKICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzID0gaWYgKHByb2NlZHVyZSAhPSBMYW5lZ3JvdXBpbmcpIHsKICAgICAgICAgIHZhbCBtaWQ6IFNlcVsoT3B0aW9uW1BvbHlMaW5lXSwgU2VxW0xhbmVCb3JkZXJJZF0pXSA9IG5vTGJJbnRlcnZhbC5tYXAoaSA9PiBnZW5lcmF0ZVZCUGwoaSwgbGJPZmZzZXRJbnRlcnZhbCkpCiAgICAgICAgICB2YWwgcGxzID0gbWlkLmZsYXRNYXAoXy5fMSkKICAgICAgICAgIHZhbCByZWZlcmVkTGNzID0gbWlkLmZsYXRNYXAoXy5fMikuZmxhdE1hcChnZXRSZWYpLmRpc3RpbmN0CiAgICAgICAgICAocGxzLCByZWZlcmVkTGNzKQogICAgICAgIH0gZWxzZSB7</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
