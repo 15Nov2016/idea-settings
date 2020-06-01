@@ -102,12 +102,12 @@
         <mark key="^" line="230" column="25" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591020383883">
-        <mark key="[" line="419" column="48" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591020438802">
+        <mark key="[" line="424" column="12" />
         <mark key="]" line="418" column="25" />
         <mark key="." line="418" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1591018706616">
+      <file name="/fragment.java" timestamp="1591021525971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591000869473" />
