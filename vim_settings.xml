@@ -41,9 +41,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/SimpleSpatializeSuite.scala" timestamp="1591092410460">
-        <mark key="[" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591032361684">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -95,11 +92,11 @@
         <mark key="." line="340" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1591092223868">
-        <mark key="[" line="725" column="0" />
-        <mark key="]" line="725" column="0" />
-        <mark key="." line="725" column="0" />
+        <mark key="[" line="724" column="0" />
+        <mark key="]" line="724" column="0" />
+        <mark key="." line="724" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591092524803">
+      <file name="/fragment.java" timestamp="1591092866303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591036160498">
