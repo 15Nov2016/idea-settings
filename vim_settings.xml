@@ -54,18 +54,19 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/bind/BindSuite.scala" timestamp="1591038617940">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591030234324" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591255889117" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalJunction.scala" timestamp="1591037173554" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalHighway.scala" timestamp="1591035165023">
         <mark key="[" line="35" column="86" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591255810435">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="15" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591039057551">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Utils.scala" timestamp="1591025366991">
-        <mark key="[" line="9" column="71" />
-        <mark key="]" line="8" column="57" />
-        <mark key="." line="8" column="57" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1591036215593">
         <mark key="[" line="75" column="126" />
@@ -159,11 +160,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyByZW1vdmUgdGhlIHdyb25nIExiIHJlZmVyZW5jZQovLyAgICB2YWwgcmVtb3ZlV3JvbmdMYlJlZlJwID0gZm9yIHsgcnAgPC0gcmVtb3ZlQ3RvcnNScCB9IHlpZWxkIHJlbW92ZVdyb25nTGJSZWYocnAsIGNvbm5lY3RvcnMsIHRpbGUucG9ydHMp</text>
+      <register name="&quot;" type="4">
+        <text>PolyLineImpl</text>
       </register>
       <register name="-" type="4">
-        <text>connectors</text>
+        <text>PolyLineImpl</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
