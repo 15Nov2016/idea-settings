@@ -46,10 +46,10 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591271038687">
-        <mark key="[" line="332" column="6" />
-        <mark key="]" line="332" column="6" />
-        <mark key="." line="332" column="6" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591272478996">
+        <mark key="[" line="590" column="0" />
+        <mark key="]" line="590" column="0" />
+        <mark key="." line="590" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/bind/BindSuite.scala" timestamp="1591038617940">
         <mark key="[" line="19" column="0" />
@@ -164,11 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>endLine</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmZsYXRNYXAoaSA9PiBpLl8xLm1hcChwbCA9PiBwbCAtPiBpLl8yKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>endLine</text>
+        <text encoding="base64">IC0+IChsLCBPcmllbnRhdGlvbi5SSUdIVCk=</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -177,31 +177,31 @@
         <text encoding="base64">ICAgICAgYXNzZXJ0KGxjZ2VvMSA9PSBsY2dlbzIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxiID0gcGFydGl0aW9uLmdldExhbmVCb3JkZXIobGJJZCkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgLmZsYXRNYXAoaSA9PiBpLl8xLm1hcChwbCA9PiBwbCAtPiBpLl8yKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxiID0gc3BhY2UuY3R4LnJwLmdldExhbmVCb3JkZXIobGJJZCkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBhc3NlcnQoPT0gc2VjVGlsZS5wYXJ0aXRpb25zLnZhbHVlcy5mbGF0TWFwKGkgPT4gaS5sYW5lQ2VudGVycy50b1NlcSkudG9TZXQpCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICBTZXEoCiAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxiID0gcGFydGl0aW9uLmdldExhbmVCb3JkZXIobGJJZCkuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxiID0gc3BhY2UuY3R4LnJwLmdldExhbmVCb3JkZXIobGJJZCkuZ2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBhc3NlcnQoPT0gc2VjVGlsZS5wYXJ0aXRpb25zLnZhbHVlcy5mbGF0TWFwKGkgPT4gaS5sYW5lQ2VudGVycy50b1NlcSkudG9TZXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBsZWZ0TGluZSA9IHRoaXNMaW5lT3AuZXh0cmFjdExpbmUodGhpc0xpbmVPcC5nZXRTdGFydEluZGV4LCBpbmRleCkuYXNJbnN0YW5jZU9mW0p0c0xpbmVTdHJpbmddCiAgICAgICAgICB2YWwgcmlnaHRMaW5lID0gdGhpc0xpbmVPcC5leHRyYWN0TGluZShpbmRleCwgdGhpc0xpbmVPcC5nZXRFbmRJbmRleCkuYXNJbnN0YW5jZU9mW0p0c0xpbmVTdHJpbmddCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
