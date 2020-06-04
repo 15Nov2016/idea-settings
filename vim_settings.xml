@@ -46,10 +46,10 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591262017956">
-        <mark key="[" line="40" column="91" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591271038687">
+        <mark key="[" line="332" column="6" />
+        <mark key="]" line="332" column="6" />
+        <mark key="." line="332" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/bind/BindSuite.scala" timestamp="1591038617940">
         <mark key="[" line="19" column="0" />
@@ -77,8 +77,8 @@
       <file name="/PolyLine.scala" timestamp="1591258583724">
         <mark key="[" line="142" column="26" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1591269776777">
-        <mark key="[" line="75" column="126" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1591269814191">
+        <mark key="[" line="83" column="18" />
         <mark key="]" line="75" column="126" />
         <mark key="." line="75" column="126" />
         <mark key="^" line="75" column="114" />
@@ -112,13 +112,13 @@
         <mark key="." line="474" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1591258613176" />
-      <file name="/fragment.java" timestamp="1591261384419">
+      <file name="/fragment.java" timestamp="1591271468853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591036160498">
-        <mark key="[" line="62" column="100" />
-        <mark key="]" line="51" column="6" />
-        <mark key="." line="51" column="6" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591269972456">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -164,11 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICBhc3NlcnQoPT0gc2VjVGlsZS5wYXJ0aXRpb25zLnZhbHVlcy5mbGF0TWFwKGkgPT4gaS5sYW5lQ2VudGVycy50b1NlcSkudG9TZXQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>endLine</text>
       </register>
       <register name="-" type="4">
-        <text>laneCenters</text>
+        <text>endLine</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -177,31 +177,31 @@
         <text encoding="base64">ICAgICAgYXNzZXJ0KGxjZ2VvMSA9PSBsY2dlbzIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBhc3NlcnQoPT0gc2VjVGlsZS5wYXJ0aXRpb25zLnZhbHVlcy5mbGF0TWFwKGkgPT4gaS5sYW5lQ2VudGVycy50b1NlcSkudG9TZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxiID0gcGFydGl0aW9uLmdldExhbmVCb3JkZXIobGJJZCkuZ2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxiID0gc3BhY2UuY3R4LnJwLmdldExhbmVCb3JkZXIobGJJZCkuZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
+        <text encoding="base64">Ly8gICAgICBhc3NlcnQoPT0gc2VjVGlsZS5wYXJ0aXRpb25zLnZhbHVlcy5mbGF0TWFwKGkgPT4gaS5sYW5lQ2VudGVycy50b1NlcSkudG9TZXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBsZWZ0TGluZSA9IHRoaXNMaW5lT3AuZXh0cmFjdExpbmUodGhpc0xpbmVPcC5nZXRTdGFydEluZGV4LCBpbmRleCkuYXNJbnN0YW5jZU9mW0p0c0xpbmVTdHJpbmddCiAgICAgICAgICB2YWwgcmlnaHRMaW5lID0gdGhpc0xpbmVPcC5leHRyYWN0TGluZShpbmRleCwgdGhpc0xpbmVPcC5nZXRFbmRJbmRleCkuYXNJbnN0YW5jZU9mW0p0c0xpbmVTdHJpbmddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICB2YWwgbGVmdExpbmUgPSB0aGlzTGluZU9wLmV4dHJhY3RMaW5lKHRoaXNMaW5lT3AuZ2V0U3RhcnRJbmRleCwgaW5kZXgpLmFzSW5zdGFuY2VPZltKdHNMaW5lU3RyaW5nXQogICAgICAgICAgdmFsIHJpZ2h0TGluZSA9IHRoaXNMaW5lT3AuZXh0cmFjdExpbmUoaW5kZXgsIHRoaXNMaW5lT3AuZ2V0RW5kSW5kZXgpLmFzSW5zdGFuY2VPZltKdHNMaW5lU3RyaW5nXQ==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBsZWZ0TGluZSA9IHRoaXNMaW5lT3AuZXh0cmFjdExpbmUodGhpc0xpbmVPcC5nZXRTdGFydEluZGV4LCBpbmRleCkuYXNJbnN0YW5jZU9mW0p0c0xpbmVTdHJpbmddCiAgICAgICAgICB2YWwgcmlnaHRMaW5lID0gdGhpc0xpbmVPcC5leHRyYWN0TGluZShpbmRleCwgdGhpc0xpbmVPcC5nZXRFbmRJbmRleCkuYXNJbnN0YW5jZU9mW0p0c0xpbmVTdHJpbmddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNvbWUocG9pbnQuZ2V0Q29vcmRpbmF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>183</text>
