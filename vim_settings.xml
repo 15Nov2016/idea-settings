@@ -59,8 +59,11 @@
         <mark key="]" line="347" column="0" />
         <mark key="." line="347" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalJunction.scala" timestamp="1591264212204">
-        <mark key="[" line="215" column="34" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalJunction.scala" timestamp="1591266532572">
+        <mark key="[" line="215" column="88" />
+        <mark key="]" line="215" column="82" />
+        <mark key="^" line="215" column="82" />
+        <mark key="." line="215" column="81" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591258155592">
         <mark key="[" line="42" column="12" />
