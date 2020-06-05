@@ -17,6 +17,7 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>183</entry>
+        <entry>3316</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -194,7 +195,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgU29tZShwb2ludC5nZXRDb29yZGluYXRlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>183</text>
+        <text>3316</text>
       </register>
     </registers>
   </component>
