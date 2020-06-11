@@ -4,7 +4,7 @@
     <property name="created">2020-06-04T15:33:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2020-06-04T15:33:35</property>
+    <property name="modified">2020-06-11T13:47:24</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2068,7 +2068,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="303a45" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
