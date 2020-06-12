@@ -58,11 +58,11 @@
         <mark key="^" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591940551121">
-        <mark key="[" line="81" column="59" />
-        <mark key="]" line="81" column="65" />
-        <mark key="." line="81" column="64" />
-        <mark key="^" line="81" column="65" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591942032852">
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="83" column="48" />
+        <mark key="^" line="83" column="68" />
+        <mark key="." line="83" column="48" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591258917235">
         <mark key="[" line="347" column="0" />
@@ -156,10 +156,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cursors</text>
+        <text>, jsonObject</text>
       </register>
       <register name="-" type="4">
-        <text>cursors</text>
+        <text>, jsonObject</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -168,31 +168,32 @@
         <text encoding="base64">ICAgICAgYnlEaXN0YW5jZShkaXZlcmdlbnRBcmVhTGluZS5oZWFkLCBkaXZlcmdlbnRBcmVhTGluZS5sYXN0LCBzdHJhaWdodExpbmUuaGVhZCwgZ2V0U3BsaXRBbmdsZShfLCBmYWxzZSksIHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNvbWUocGxPcHQuZ2V0LmRpcmVjdGlvbkF0KHBsT3B0LmdldC5nZXRFbmRMb2NhdGlvbiwgY3QpKQo=</text>
+        <text encoding="base64">ICAgIGpzb25PYmplY3QucmVtb3ZlKCJnZW8K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
+      <register name="2" type="4">
+        <text>Json&quot;)
+    jsonObject.remove(&quot;points&quot;)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpc0hlYWQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldmVyc2VkOiBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBsaW5lID0gTGluZU9uSXIoU2VxKGRpdkFyZWEubGFuZUNoYW5nZSkgKysgZGl2QXJlYS5sYW5lRm9ybWluZ0VuZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNvbWUocGxPcHQuZ2V0LmRpcmVjdGlvbkF0KHBsT3B0LmdldC5nZXRFbmRMb2NhdGlvbiwgY3QpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgIHBvaW50MSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChpc0hlYWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldmVyc2VkOiBCb29sZWFuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBpbnRlclNlYzEgPSBwbDEuc3BsaXRUb0JlRml4ZWQoZ2VuZXJhdGVQb2x5TGluZShwLCBhbmdsZSwgTElORV9FWFRFTkRfTEVOR1RIX0lOX1dHUzg0KSkKICAgICAgICAgIHZhbCBpbnRlclNlYzIgPSBwbDIuc3BsaXRUb0JlRml4ZWQoZ2VuZXJhdGVQb2x5TGluZShwLCBhbmdsZSwgTElORV9FWFRFTkRfTEVOR1RIX0lOX1dHUzg0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
