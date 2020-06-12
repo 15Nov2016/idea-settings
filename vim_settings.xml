@@ -43,51 +43,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/strategy/AdasCalc.scala" timestamp="1591861382709">
-        <mark key="[" line="139" column="29" />
-        <mark key="]" line="139" column="31" />
-        <mark key="^" line="139" column="31" />
-        <mark key="." line="139" column="30" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivertgentAear.scala" timestamp="1591861616303">
         <mark key="[" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/SimpleSpatializeSuite.scala" timestamp="1591240178694">
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1591855876204">
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="6" />
         <mark key="." line="348" column="6" />
       </file>
-      <file name="/PolyLine.scala" timestamp="1591258583724">
-        <mark key="[" line="142" column="26" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1591862648850">
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1591865646962" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591862619519">
-        <mark key="[" line="239" column="12" />
-        <mark key="]" line="239" column="12" />
-        <mark key="." line="239" column="12" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591939512157">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591933317931">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="91" />
-        <mark key="^" line="27" column="91" />
-        <mark key="." line="27" column="90" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591940551121">
+        <mark key="[" line="81" column="59" />
+        <mark key="]" line="81" column="65" />
+        <mark key="." line="81" column="64" />
+        <mark key="^" line="81" column="65" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1591868866983" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591933412145">
-        <mark key="[" line="75" column="3" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Geometry.scala" timestamp="1591863482210" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591258917235">
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="0" />
@@ -99,9 +75,37 @@
         <mark key="^" line="220" column="29" />
         <mark key="." line="221" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1591940514713">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/SplitSearch.scala" timestamp="1591866943784" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591861006307" />
-      <file name="/fragment.java" timestamp="1591860955879">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/strategy/AdasCalc.scala" timestamp="1591861382709">
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="139" column="31" />
+        <mark key="^" line="139" column="31" />
+        <mark key="." line="139" column="30" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Cursor.scala" timestamp="1591940377326" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1591862648850">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1591940065245">
+        <mark key="[" line="55" column="54" />
+        <mark key="]" line="55" column="25" />
+        <mark key="^" line="55" column="25" />
+        <mark key="." line="55" column="24" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591862619519">
+        <mark key="[" line="239" column="12" />
+        <mark key="]" line="239" column="12" />
+        <mark key="." line="239" column="12" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1591868866983" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Geometry.scala" timestamp="1591863482210" />
+      <file name="/fragment.java" timestamp="1591940082675">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -152,10 +156,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>cursors</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cursors</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
