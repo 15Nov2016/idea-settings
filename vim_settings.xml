@@ -77,11 +77,11 @@
         <mark key="]" line="239" column="12" />
         <mark key="." line="239" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591869484837">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="68" column="15" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591930501600">
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="67" column="52" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1591868866983" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Geometry.scala" timestamp="1591863482210" />
@@ -153,10 +153,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNwYWNlLnByb2plY3QobDEuc3RhcnQsIGwxLmVuZCwgcDEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGwxOiBQb2x5TGluZSwgcGwyOiBQb2x5TGluZSwg</text>
+        <text encoding="base64">cGwxLCBwbDIsIA==</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -165,31 +165,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcGwxID0gcGwxT3B0LmdldAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNwYWNlLnByb2plY3QobDEuc3RhcnQsIGwxLmVuZCwgcDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGwxID0gZ2V0UGwobDEpCiAgICAgICAgdmFsIHBsMiA9IGdldFBsKGwyKQ==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgTEFORV9XSURUSDogRG91YmxlID0gMy41Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Q6IENvb3JkaW5hdGVUcmFuc2Zvcm0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbmUuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlZiBnZXRQbChsaW5lOiBMaW5lT25JcikgPSB7CiAgICAgICAgICB2YWwgcG9seUxpbmUgPSBsaW5lLmdldFBvbHlMaW5lKHNwYWNlKS5nZXQKICAgICAgICAgIGlmIChyZXZlcnNlZCkgewogICAgICAgICAgICBwb2x5TGluZS5yZXZlcnNlCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBwb2x5TGluZQogICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGJ5RGlzdGFuY2UobGluZTE6IExpbmVPbklyLCBsaW5lMjogTGluZU9uSXIsIHNwbGl0QW5nbGU6IFZlY3RvcjJELCByZXZlcnNlZDogQm9vbGVhbikgPSB7CgogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZ3RyZmRlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGwxID0gZ2V0UGwobDEpCiAgICAgICAgdmFsIHBsMiA9IGdldFBsKGwyKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgZGVmIGZpbmREaXNTdGFydFBvaW50KGxhbmVXaWR0aDogRG91YmxlKTogT3B0aW9uW1BvaW50XSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Q6IENvb3JkaW5hdGVUcmFuc2Zvcm0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpbmUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
