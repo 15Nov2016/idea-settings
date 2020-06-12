@@ -52,11 +52,11 @@
         <mark key="." line="348" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591943753534">
-        <mark key="[" line="50" column="77" />
-        <mark key="]" line="142" column="26" />
-        <mark key="^" line="142" column="26" />
-        <mark key="." line="142" column="25" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591945313638">
+        <mark key="[" line="129" column="23" />
+        <mark key="]" line="129" column="23" />
+        <mark key="^" line="174" column="114" />
+        <mark key="." line="129" column="23" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591942032852">
         <mark key="[" line="83" column="48" />
@@ -75,8 +75,10 @@
         <mark key="^" line="220" column="29" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1591943642178">
+      <file name="/Dummy.scala" timestamp="1591945227783">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/SplitSearch.scala" timestamp="1591866943784" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591861006307" />
@@ -156,10 +158,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, jsonObject</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>, jsonObject</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
