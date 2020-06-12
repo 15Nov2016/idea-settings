@@ -52,12 +52,6 @@
         <mark key="." line="348" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591949639664">
-        <mark key="[" line="150" column="101" />
-        <mark key="]" line="150" column="107" />
-        <mark key="^" line="150" column="107" />
-        <mark key="." line="150" column="106" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591942032852">
         <mark key="[" line="83" column="48" />
         <mark key="]" line="83" column="48" />
@@ -158,44 +152,44 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGwyID0gcGwyT3B0LmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LANE_WIDTH_MIN</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGwxID0gaWYoIWlzUmV2ZXJzZWQpIHBsMU9wdC5nZXQgZWxzZSBwbDFPcHQuZ2V0LnJldmVyc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBTb21lKHBsT3B0LmdldC5kaXJlY3Rpb25BdChwbE9wdC5nZXQuZ2V0U3RhcnRMb2NhdGlvbiwgY3QpLnJvdGF0ZShtYXRoLlBpIC8gMikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGwyID0gcGwyT3B0LmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHBwCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcGwyID0gcGwyT3B0LmdldAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGpzb25PYmplY3QucmVtb3ZlKCJnZW8K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Json&quot;)
     jsonObject.remove(&quot;points&quot;)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbCBsaW5lID0gTGluZU9uSXIoU2VxKGRpdkFyZWEubGFuZUNoYW5nZSkgKysgZGl2QXJlYS5sYW5lRm9ybWluZ0VuZCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNvbWUocGxPcHQuZ2V0LmRpcmVjdGlvbkF0KHBsT3B0LmdldC5nZXRFbmRMb2NhdGlvbiwgY3QpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpc0hlYWQpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldmVyc2VkOiBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
