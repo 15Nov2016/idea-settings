@@ -52,11 +52,11 @@
         <mark key="." line="348" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591945313638">
-        <mark key="[" line="129" column="23" />
-        <mark key="]" line="129" column="23" />
-        <mark key="^" line="174" column="114" />
-        <mark key="." line="129" column="23" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591948194213">
+        <mark key="[" line="106" column="31" />
+        <mark key="]" line="106" column="31" />
+        <mark key="^" line="153" column="46" />
+        <mark key="." line="106" column="31" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591942032852">
         <mark key="[" line="83" column="48" />
@@ -75,10 +75,10 @@
         <mark key="^" line="220" column="29" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1591945227783">
+      <file name="/Dummy.scala" timestamp="1591948092294">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/SplitSearch.scala" timestamp="1591866943784" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Test.scala" timestamp="1591861006307" />
@@ -158,10 +158,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>LANE_WIDTH_MIN</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>LANE_WIDTH_MIN</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
