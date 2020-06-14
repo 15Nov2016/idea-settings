@@ -52,11 +52,11 @@
         <mark key="." line="348" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592143504446">
-        <mark key="[" line="274" column="5" />
-        <mark key="]" line="274" column="5" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592144779699">
+        <mark key="[" line="234" column="11" />
+        <mark key="]" line="217" column="23" />
         <mark key="^" line="274" column="5" />
-        <mark key="." line="274" column="4" />
+        <mark key="." line="217" column="23" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592144019759">
         <mark key="[" line="118" column="13" />
@@ -158,10 +158,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>section.star</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>section.star</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -173,29 +173,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNwbGl0UG9seUxpbmVPcHQgPQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeCA9Z2V0VHJhdmVyc2VMaW5lcygKICAgICAgICAgIHZpc2l0b3IsCiAgICAgICAgICBDdXJzb3JHcm91cChTZXEoc3RhcnQpKSwKICAgICAgICAgIHRydWUsCiAgICAgICAgICBsYW5lQ2hhbmdlQm9yZGVyLmRpZmYoU2V0KEN1cnNvckdyb3VwKFNlcShzdGFydCkpKSkKICAgICAgICApLl8xLmhlYWRPcHRpb24ubWFwKF8ucG9pbnRzKSA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZvcm1pbmdFbmRDdXJzb3JzPSBkaXZlcmdlbnRBcmVhLmxhbmVGb3JtaW5nRW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHNwbGl0UG9seUxpbmVPcHQgPQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGZvcm1pbmdFbmRDdXJzb3JzPSBkaXZlcmdlbnRBcmVhLmxhbmVGb3JtaW5nRW5kCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>val startCg = sec.start
          val endCg = sec.end</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgY29vcmRpbmF0ZVRyYW5zZm9ybSA9IGN0eC5ycC5sYW5lQ2VudGVycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
