@@ -52,11 +52,11 @@
         <mark key="." line="348" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1591972469180">
-        <mark key="[" line="229" column="5" />
-        <mark key="]" line="229" column="6" />
-        <mark key="^" line="229" column="6" />
-        <mark key="." line="229" column="5" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592139152606">
+        <mark key="[" line="231" column="9" />
+        <mark key="]" line="237" column="14" />
+        <mark key="^" line="237" column="14" />
+        <mark key="." line="237" column="13" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591942032852">
         <mark key="[" line="83" column="48" />
@@ -164,10 +164,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>val angle =</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>val angle =</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
