@@ -52,11 +52,11 @@
         <mark key="." line="348" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592139152606">
-        <mark key="[" line="231" column="9" />
-        <mark key="]" line="237" column="14" />
-        <mark key="^" line="237" column="14" />
-        <mark key="." line="237" column="13" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592141236082">
+        <mark key="[" line="245" column="38" />
+        <mark key="]" line="244" column="10" />
+        <mark key="^" line="243" column="43" />
+        <mark key="." line="244" column="10" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1591942032852">
         <mark key="[" line="83" column="48" />
@@ -68,12 +68,6 @@
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="0" />
         <mark key="." line="347" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalJunction.scala" timestamp="1591267952724">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="^" line="220" column="29" />
-        <mark key="." line="221" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1591949724251">
         <mark key="[" line="0" column="0" />
@@ -116,6 +110,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1591970375299" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Utils.scala" timestamp="1592141168977" />
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
@@ -164,16 +159,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>val angle =</text>
+        <text>extendBothSides</text>
       </register>
       <register name="-" type="4">
-        <text>val angle =</text>
+        <text>extendBothSides</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgdmFsIHN0YXJ0Q2cgPSBzZWMuc3RhcnQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcG9pbnRPcHQxID0gc3BhY2UuZ2V0UG9pbnQoY3Vyc29yMSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
