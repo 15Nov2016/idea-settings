@@ -48,12 +48,13 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592191078072" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592200590298">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592201288339">
         <mark key="a" line="339" column="26" />
-        <mark key="[" line="343" column="74" />
-        <mark key="]" line="343" column="51" />
-        <mark key="^" line="343" column="51" />
-        <mark key="." line="343" column="50" />
+        <mark key="'" line="344" column="144" />
+        <mark key="[" line="350" column="0" />
+        <mark key="]" line="350" column="0" />
+        <mark key="^" line="345" column="8" />
+        <mark key="." line="350" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592144019759">
         <mark key="[" line="118" column="13" />
@@ -153,15 +154,16 @@
       <jump line="38" column="24" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" />
       <jump line="45" column="96" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" />
       <jump line="59" column="18" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" />
+      <jump line="344" column="144" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -170,32 +172,31 @@
         <text encoding="base64">ICAgIHZhbCBsYW5lQ2hhbmdlQ3Vyc29ycyA9IGRpdmVyZ2VudEFyZWFDdXJzb3JHcm91cC5mbGF0TWFwKF8uXzIuXzEuY3Vyc29ycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ID17CgogICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBlbHNlewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXNDdXJzb3JHcm91cAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ID17CgogICAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Lm1hcChsID0+IGwgbWF0Y2h7CiAgICAgICAgICAgIGNhc2UgCiAgICAgICAgICB9KSA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>getTraverseLines(visitor, inSection.start, false, Set(inSection.end))._1
-          return allLines</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXNDdXJzb3JHcm91cAo=</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
