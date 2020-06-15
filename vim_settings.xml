@@ -48,11 +48,12 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592191078072" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592198251821">
-        <mark key="[" line="282" column="24" />
-        <mark key="]" line="283" column="31" />
-        <mark key="^" line="283" column="31" />
-        <mark key="." line="283" column="30" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592200590298">
+        <mark key="a" line="339" column="26" />
+        <mark key="[" line="343" column="74" />
+        <mark key="]" line="343" column="51" />
+        <mark key="^" line="343" column="51" />
+        <mark key="." line="343" column="50" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592144019759">
         <mark key="[" line="118" column="13" />
@@ -156,45 +157,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>thatCursorGroup</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcG9pbnRPcHQxID0gc3BhY2UuZ2V0UG9pbnQoY3Vyc29yMSkK</text>
+        <text encoding="base64">ICAgIHZhbCBsYW5lQ2hhbmdlQ3Vyc29ycyA9IGRpdmVyZ2VudEFyZWFDdXJzb3JHcm91cC5mbGF0TWFwKF8uXzIuXzEuY3Vyc29ycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Lm1hcChsID0+IGwgbWF0Y2h7CiAgICAgICAgICAgIGNhc2UgCiAgICAgICAgICB9KSA=</text>
+        <text encoding="base64">ID17CgogICAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text>getTraverseLines(visitor, inSection.start, false, Set(inSection.end))._1
-          return allLines</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXNDdXJzb3JHcm91cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeCA9Z2V0VHJhdmVyc2VMaW5lcygKICAgICAgICAgIHZpc2l0b3IsCiAgICAgICAgICBDdXJzb3JHcm91cChTZXEoc3RhcnQpKSwKICAgICAgICAgIHRydWUsCiAgICAgICAgICBsYW5lQ2hhbmdlQm9yZGVyLmRpZmYoU2V0KEN1cnNvckdyb3VwKFNlcShzdGFydCkpKSkKICAgICAgICApLl8xLmhlYWRPcHRpb24ubWFwKF8ucG9pbnRzKSA=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNwbGl0UG9seUxpbmVPcHQgPQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Lm1hcChsID0+IGwgbWF0Y2h7CiAgICAgICAgICAgIGNhc2UgCiAgICAgICAgICB9KSA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZvcm1pbmdFbmRDdXJzb3JzPSBkaXZlcmdlbnRBcmVhLmxhbmVGb3JtaW5nRW5kCg==</text>
+      <register name="9" type="4">
+        <text>getTraverseLines(visitor, inSection.start, false, Set(inSection.end))._1
+          return allLines</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
