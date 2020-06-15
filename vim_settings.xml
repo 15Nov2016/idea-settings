@@ -43,10 +43,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592214322953">
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="367" column="6" />
-        <mark key="." line="367" column="6" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592221424693">
+        <mark key="[" line="331" column="10" />
+        <mark key="]" line="331" column="10" />
+        <mark key="." line="331" column="10" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1591868879986" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" timestamp="1592216804201">
@@ -107,12 +107,6 @@
         <mark key="]" line="99" column="2" />
         <mark key="." line="99" column="2" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592219357045">
-        <mark key="[" line="159" column="138" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
-        <mark key="^" line="344" column="38" />
-      </file>
       <file name="/fragment.java" timestamp="1592211242496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,11 +166,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdGVTdGFydExpbmUgPQo=</text>
+      <register name="&quot;" type="4">
+        <text>Seq</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>Seq</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -185,33 +179,33 @@
         <text encoding="base64">ICAgICAgICB2YWwgc0xpbmUgPSBVdGlscy5jdXJzb3JHcm91cFRvUG9seUxpbmUoc3BhY2UsIHNlYy5zdGFydCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdGVTdGFydExpbmUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgPSB2aXJ0dWFsTGJzLmdldE9yRWxzZSgobGluZSBtYXRjaCB7IGNhc2UgbDogTGluZU9uSXIgPT4gbCB9LCBzaWRlKSwgU2V0LmVtcHR5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWxsTGIuZXhpc3RzKF8uaWQudW5kZXJseWluZyA9PSAyMDYxNSkpIHsKICAgICAgICAgIHZhbCBhID0gMQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdmlydHVhbExicwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VuZXJhdGVTdGFydExpbmUgPQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYWxsTGIuZXhpc3RzKF8uaWQudW5kZXJseWluZyA9PSAyMDYxNSkpIHsKICAgICAgICAgIHZhbCBhID0gMQogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIHZhbCBzTGluZSA9IFV0aWxzLmN1cnNvckdyb3VwVG9Qb2x5TGluZShzcGFjZSwgc2VjLnN0YXJ0KQovLyAgICAgICAgdmFsIGVMaW5lID0gVXRpbHMuY3Vyc29yR3JvdXBUb1BvbHlMaW5lKHNwYWNlLCBzZWMuZW5kKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>else {
        None
      }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBkZWYgY3Vyc29yR3JvdXBUb1BvbHlMaW5lKHNwYWNlOiBDdXJzb3JTcGFjZU9uSXIsIGNnOiBDdXJzb3JHcm91cCk6IE9wdGlvbltQb2x5TGluZV0gPSB7CiAgIHZhbCBjdXJzb3JzID0gY2cuY3Vyc29ycwogICBpZihjdXJzb3JzLnNpemUgPT0gMSl7CiAgICAgdmFsIGN1cnNvciA9IGN1cnNvcnMuaGVhZAogICAgIHZhbCBhbmdsZU9wdCA9IHNwYWNlLmdldERpcmVjdGlvbihjdXJzb3IpLm1hcChhID0+IGEucm90YXRlKG1hdGguUGkgLyAyKSkKICAgICB2YWwgcG9pbnRPcHQgPSBzcGFjZS5nZXRQb2ludChjdXJzb3IpCiAgICAgaWYgKGFuZ2xlT3B0LmlzRGVmaW5lZCAmJiBwb2ludE9wdC5pc0RlZmluZWQpIHsKICAgICAgIFNvbWUoZ2VuZXJhdGVQb2x5TGluZShwb2ludE9wdC5nZXQsIGFuZ2xlT3B0LmdldCwgTElORV9FWFRFTkRfTEVOR1RIX0lOX1dHUzg0KSkKICAgICB9IGVsc2UgewogICAgICAgTm9uZQogICAgIH0KICAgfQogICBlbHNlIGlmIChjdXJzb3JzLnNpemUgPiAxKXsKICAgICB2YWwgcG9pbnRzID0gY3Vyc29ycy5mbGF0TWFwKHNwYWNlLmdldFBvaW50KQogICAgIGlmKHBvaW50cy5zaXplID4gMSl7CiAgICAgICBpbXBvcnQgYWkubW9tZW50YS5oZG1hcC5uZXh1cy5weWxvbi5nZW9tZXRyeS57VXRpbHMgPT4gR2VvVXRpbHN9CiAgICAgICBTb21lKEdlb1V0aWxzLmV4dGVuZEJvdGhTaWRlcyhQb2x5TGluZShTZXEocG9pbnRPcHRmbGF0dGVuKSwgRVhURU5TSU9OLCBzcGFjZS5jdHguY3QpKSAKICAgICB9CiAgIH0KICB9Cn0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICB2YWwgcGwgPSAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
