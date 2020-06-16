@@ -86,10 +86,11 @@
         <mark key="^" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Cursor.scala" timestamp="1591940377326" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592227402913">
-        <mark key="[" line="92" column="10" />
-        <mark key="]" line="92" column="10" />
-        <mark key="." line="92" column="10" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592275653305">
+        <mark key="[" line="134" column="7" />
+        <mark key="]" line="134" column="7" />
+        <mark key="." line="134" column="6" />
+        <mark key="^" line="134" column="7" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1591966812446">
         <mark key="[" line="239" column="12" />
@@ -167,10 +168,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
