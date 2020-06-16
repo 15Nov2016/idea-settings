@@ -119,7 +119,11 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="153" column="33" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592278409452" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592279494646">
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
@@ -170,10 +174,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGVuZCAK</text>
+        <text encoding="base64">ICAgICAgaWYoZWxlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>doesn't have</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -182,31 +186,31 @@
         <text encoding="base64">ICAgICAgdmFsIGxhbmVDaGFuZ2VQb3J0ID0gY2cyUG9ydElkLmdldChkLl8yLl8xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGVuZCAK</text>
+        <text encoding="base64">ICAgICAgaWYoZWxlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYobGFuZUNoYW5nZVBvcnQuaXNEKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGVuZCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYobGFuZUNoYW5nZVBvcnQuaXNEKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJ0aXRpb25HcmFwaCA9IEdyYXBoW1BvcnRJZCwgUGFydGl0aW9uSWRdKGxpbmtzLm1hcChsID0+IEVkZ2UobC5pZCwgbC5oZWFkLCBsLnRhaWwpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXJ0aXRpb25HcmFwaCA9IEdyYXBoW1BvcnRJZCwgUGFydGl0aW9uSWRdKGxpbmtzLm1hcChsID0+IEVkZ2UobC5pZCwgbC5oZWFkLCBsLnRhaWwpKSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZTEK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGNhc2UgKF8sIHNlY3Rpb24pID0+CiAgICAgICAgc2VjdGlvbi5lZGdl</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2FzZSAoXywgc2VjdGlvbikgPT4KICAgICAgICBzZWN0aW9uLmVkZ2U=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlbGVuaXNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
