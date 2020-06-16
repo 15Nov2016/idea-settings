@@ -133,10 +133,10 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="153" column="33" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592303437648">
-        <mark key="[" line="257" column="5" />
-        <mark key="]" line="255" column="2" />
-        <mark key="." line="255" column="2" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592304963091">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -187,11 +187,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>void DFS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YWNrLlB1c2goc3RhcnQpCiAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3QuU2l6ZSgpOyBqKyspIHsKICAgIGlmIChzdGFydD09IGVuZCkgey8v5om+5Yiw57uI54K5CiAgICAgIGZvciAoaW50IGk9MDsgaSA8IHN0YWNrLlNpemUoKS0xOyBpKyspIHsKICAgICAgICAvL+i+k+WHuuS7juagiOW6leWIsOagiOmhtueahOWFg+e0oO+8jOWNs+S4uuS4gOadoei3r+W+hAogICAgICB9CiAgICAgIHN0YWNrLlBvcCgpOy8v5Ye65qCICiAgICAgIHZpc2l0ZWRbc3RhcnRdID0gZmFsc2U7CiAgICAgIGJyZWFrOwogICAgfQogICAgaWYgKCF2aXNpdGVkW2pdKSB7Ly/or6XpobbngrnmnKrooqvorr/pl67ov4cKICAgICAgREZTKGosZW5kKTsKICAgIH0KICAgIGlmIChqID09IGxpc3QuU2l6ZSgpIC0gMSApIHsvL+WmguaenOivpemhtueCueaXoOWFtuWug+WHuuW6pgogICAgICBzdGFjay5Qb3AoKTsKICAgICAgdmlzaXRlZFtzdGFydF0gPSBmYWxzZTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>void DFS</text>
+        <text>;//入栈</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -200,31 +200,31 @@
         <text encoding="base64">Y2FzZSBjbGFzcyBEaXZlcmdlbnRBcmVhSVIobGFuZUNoYW5nZTogQ29ubmVjdG9ySWQgLCBsYW5lRm9ybWluZ0VuZDpTZXFbQ29ubmVjdG9ySWRdLCBpc1NwbGl0OiBCb29sZWFuKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjHN1eWUyMzPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9oYWNrZXJzdXllL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzc5MDQ0NTU1</text>
+        <text encoding="base64">ICAgIHN0YWNrLlB1c2goc3RhcnQpCiAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3QuU2l6ZSgpOyBqKyspIHsKICAgIGlmIChzdGFydD09IGVuZCkgey8v5om+5Yiw57uI54K5CiAgICAgIGZvciAoaW50IGk9MDsgaSA8IHN0YWNrLlNpemUoKS0xOyBpKyspIHsKICAgICAgICAvL+i+k+WHuuS7juagiOW6leWIsOagiOmhtueahOWFg+e0oO+8jOWNs+S4uuS4gOadoei3r+W+hAogICAgICB9CiAgICAgIHN0YWNrLlBvcCgpOy8v5Ye65qCICiAgICAgIHZpc2l0ZWRbc3RhcnRdID0gZmFsc2U7CiAgICAgIGJyZWFrOwogICAgfQogICAgaWYgKCF2aXNpdGVkW2pdKSB7Ly/or6XpobbngrnmnKrooqvorr/pl67ov4cKICAgICAgREZTKGosZW5kKTsKICAgIH0KICAgIGlmIChqID09IGxpc3QuU2l6ZSgpIC0gMSApIHsvL+WmguaenOivpemhtueCueaXoOWFtuWug+WHuuW6pgogICAgICBzdGFjay5Qb3AoKTsKICAgICAgdmlzaXRlZFtzdGFydF0gPSBmYWxzZTsKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChkZXB0aCArIDEgPT1kZXB0aExpbWl0KSBTZXEuZW1wdHkK</text>
+        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjHN1eWUyMzPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9oYWNrZXJzdXllL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzc5MDQ0NTU1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChyZXN1bHQuY29udGFpbnMobmV4dCkpIFNlcS5lbXB0eQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChkZXB0aCArIDEgPT1kZXB0aExpbWl0KSBTZXEuZW1wdHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChyZXN1bHQuY29udGFpbnMobmV4dCkpIFNlcS5lbXB0eQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Y29ubmVjdGVkKGN1cnJlbnQpLmZvbGRMZWZ0KGFjYykgeyAocmVzdWx0OiBTZXFbVl0sIG5leHQ6IFYpID0+CiAgICAgICAgaWYoY3VyKSByZXN1bHQ6KyBjdXJyZW50CiAgICAgICAgZWxzZSBpZiAocmVzdWx0LmNvbnRhaW5zKG5leHQpKSBTZXEuZW1wdHkKICAgICAgICBlbHNlIGlmIChkZXB0aCArIDEgPT1kZXB0aExpbWl0KSBTZXEuZW1wdHkKICAgICAgICBlbHNlIGRmc0l0ZXIobmV4dCwgcmVzdWx0IDorIGN1cnJlbnQsIGRlcHRoKzEpOisgY3VycmVudAogICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGRlZiBCRlNlYXJjaFtWXShzdGFydDpWLCBlbmQ6ViwgY29ubmVjdGVkOiBWID0+IEl0ZXJhYmxlW1ZdLCBkZXB0aExpbWl0OiBJbnQpOiBMaXN0W0xpc3RbVl1dID0gewoKICAgIGRlZiBCRlMwKGVsZW1zOiBMaXN0W1ZdLHZpc2l0ZWQ6IExpc3RbTGlzdFtWXV0sIGRlcHRoOiBJbnQpOiBMaXN0W0xpc3RbVl1dID0gewogICAgICB2YWwgbmV3TmVpZ2hib3JzID0gZWxlbXMuZmxhdE1hcChjb25uZWN0ZWQpLmZpbHRlck5vdCh2aXNpdGVkLmZsYXR0ZW4uY29udGFpbnMpLmRpc3RpbmN0CiAgICAgIGlmIChuZXdOZWlnaGJvcnMuaXNFbXB0eSkKICAgICAgICB2aXNpdGVkCiAgICAgIGVsc2UgaWYoZGVwdGggPT0gZGVwdGhMaW1pdCkKICAgICAgICB2aXNpdGVkCiAgICAgIGVsc2UKICAgICAgICBCRlMwKG5ld05laWdoYm9ycywgbmV3TmVpZ2hib3JzIDo6IHZpc2l0ZWQsIGRlcHRoICsgMSkKICAgIH0KCiAgICBCRlMwKExpc3Qoc3RhcnQpLExpc3QoTGlzdChzdGFydCkpKS5yZXZlcnNlCiAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
