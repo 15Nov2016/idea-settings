@@ -133,6 +133,12 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="153" column="33" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592311852143">
+        <mark key="[" line="261" column="19" />
+        <mark key="]" line="261" column="23" />
+        <mark key="." line="261" column="22" />
+        <mark key="^" line="261" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
@@ -182,11 +188,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>head</text>
       </register>
       <register name="-" type="4">
-        <text>mutable.Stack</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
