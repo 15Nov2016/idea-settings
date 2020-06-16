@@ -133,12 +133,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="153" column="33" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592310056897">
-        <mark key="[" line="261" column="42" />
-        <mark key="]" line="261" column="42" />
-        <mark key="^" line="261" column="42" />
-        <mark key="." line="261" column="41" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
@@ -189,10 +183,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWluU3RhY2sgPSBtdXRhYmxlLlN0YWNrW1ZdKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;//入栈</text>
+        <text>mutable.Stack</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -201,31 +195,31 @@
         <text encoding="base64">ICAgIHZhbCBtYWluU3RhY2sgPSBtdXRhYmxlLlN0YWNrW1ZdKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciB2aXNpdGVkID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLlB1c2goc3RhcnQpCiAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3QuU2l6ZSgpOyBqKyspIHsKICAgIGlmIChzdGFydD09IGVuZCkgey8v5om+5Yiw57uI54K5CiAgICAgIGZvciAoaW50IGk9MDsgaSA8IHN0YWNrLlNpemUoKS0xOyBpKyspIHsKICAgICAgICAvL+i+k+WHuuS7juagiOW6leWIsOagiOmhtueahOWFg+e0oO+8jOWNs+S4uuS4gOadoei3r+W+hAogICAgICB9CiAgICAgIHN0YWNrLlBvcCgpOy8v5Ye65qCICiAgICAgIHZpc2l0ZWRbc3RhcnRdID0gZmFsc2U7CiAgICAgIGJyZWFrOwogICAgfQogICAgaWYgKCF2aXNpdGVkW2pdKSB7Ly/or6XpobbngrnmnKrooqvorr/pl67ov4cKICAgICAgREZTKGosZW5kKTsKICAgIH0KICAgIGlmIChqID09IGxpc3QuU2l6ZSgpIC0gMSApIHsvL+WmguaenOivpemhtueCueaXoOWFtuWug+WHuuW6pgogICAgICBzdGFjay5Qb3AoKTsKICAgICAgdmlzaXRlZFtzdGFydF0gPSBmYWxzZTsKICAgIH0=</text>
+        <text encoding="base64">CiAgZGVmIGRmc09uR3JhcGhTZWFyY2hbVl0oc3RhcnQ6IFYsIGVuZDogViAsY29ubmVjdGVkOiBWID0+IEl0ZXJhYmxlW1ZdLCBkZXB0aExpbWl0OiBJbnQpOiBTZXFbVl0gPSB7CiAgICBkZWYgZGZzSXRlcihjdXJyZW50OiBWLCBhY2M6IFNlcVtWXSxkZXB0aDogSW50KTogU2VxW1ZdID0KICAgICAgICBpZihjdXJyZW50ID09IGVuZClhY2MKICAgICAgICBlbHNlIGlmIChkZXB0aCA9PSBkZXB0aExpbWl0KWFjYwogICAgICAgIGVsc2UgaWYgKHJlc3VsdC5jb250YWlucyhuZXh0KSkgU2VxLmVtcHR5CiAgICAgICAgZWxzZSBkZnNJdGVyKG5leHQsIHJlc3VsdCA6KyBjdXJyZW50LCBkZXB0aCsxKTorIGN1cnJlbnQKCiAgICBkZnNJdGVyKHN0YXJ0LCBTZXEuZW1wdHlbVl0sIDApLmRpc3RpbmN0CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjHN1eWUyMzPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9oYWNrZXJzdXllL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzc5MDQ0NTU1</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChkZXB0aCArIDEgPT1kZXB0aExpbWl0KSBTZXEuZW1wdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChyZXN1bHQuY29udGFpbnMobmV4dCkpIFNlcS5lbXB0eQo=</text>
+        <text encoding="base64">ICAgICAgcy5wb3AoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcGF0aC5hZGRPbmUodnRvcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcy5hZGRBbGwoY29ubmVjdGVkKHZ0b3ApKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29ubmVjdGVkKGN1cnJlbnQpLmZvbGRMZWZ0KGFjYykgeyAocmVzdWx0OiBTZXFbVl0sIG5leHQ6IFYpID0+CiAgICAgICAgaWYoY3VyKSByZXN1bHQ6KyBjdXJyZW50CiAgICAgICAgZWxzZSBpZiAocmVzdWx0LmNvbnRhaW5zKG5leHQpKSBTZXEuZW1wdHkKICAgICAgICBlbHNlIGlmIChkZXB0aCArIDEgPT1kZXB0aExpbWl0KSBTZXEuZW1wdHkKICAgICAgICBlbHNlIGRmc0l0ZXIobmV4dCwgcmVzdWx0IDorIGN1cnJlbnQsIGRlcHRoKzEpOisgY3VycmVudAogICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciB2aXNpdGVkID0gTGlzdFtWXSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHZhbCBuZWlnaGJvclN0YWNrID0gbXV0YWJsZS5TdGFja1tWXSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
