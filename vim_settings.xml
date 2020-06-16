@@ -43,11 +43,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592285597801">
-        <mark key="[" line="449" column="11" />
-        <mark key="]" line="455" column="5" />
-        <mark key="." line="455" column="4" />
-        <mark key="^" line="455" column="5" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592292565439">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="68" />
+        <mark key="." line="25" column="68" />
+        <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592278052845" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592221424693">
@@ -55,7 +55,7 @@
         <mark key="]" line="331" column="10" />
         <mark key="." line="331" column="10" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592283595094">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592292548639">
         <mark key="[" line="141" column="39" />
         <mark key="]" line="141" column="39" />
         <mark key="." line="141" column="39" />
@@ -182,10 +182,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>+: next</text>
+        <text encoding="base64">IFBvcnRJZA==</text>
       </register>
       <register name="-" type="4">
-        <text>+: next</text>
+        <text encoding="base64">IFBvcnRJZA==</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
