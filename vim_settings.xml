@@ -43,6 +43,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592372467858">
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="0" />
+        <mark key="." line="485" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592278052845" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592221424693">
         <mark key="[" line="331" column="10" />
@@ -80,7 +85,7 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/LineLocation.scala" timestamp="1592371073243">
         <mark key="[" line="56" column="5" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592367688467">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592372261021">
         <mark key="[" line="140" column="25" />
         <mark key="]" line="140" column="25" />
         <mark key="." line="140" column="24" />
@@ -172,10 +177,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBhZmZlY3RlZExpbmUoQ3Vyc29yT25DdG9yKHNwYWNlLCBDb25uZWN0b3JJZCgxMzc5NDIsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>borderRefEquals(r.laneBorderId, r.tHead, r.tTail)</text>
+        <text>revise all cursorGroups</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -184,31 +189,31 @@
         <text encoding="base64">ICAgIHZhbCBtYWluU3RhY2sgPSBtdXRhYmxlLlN0YWNrW1ZdKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBhZmZlY3RlZExpbmUoQ3Vyc29yT25DdG9yKHNwYWNlLCBDb25uZWN0b3JJZCgxMzc5NDIsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpKSkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0ZXN0ID0gY3Vyc29yMkN0b3JJZC5maWx0ZXIoaSA9PiB7CiAgICAgICAgICAgIHZhbCBjdXJzb3I6IEN1cnNvciA9IGkuXzEKICAgICAgICAgICAgY3Vyc29yIG1hdGNoIHsKICAgICAgICAgICAgICBjYXNlIGM6IEN1cnNvck9uTGMgPT4gYy5sY0lkLnVuZGVybHlpbmcgPT0gMzE3NTIKICAgICAgICAgICAgICBjYXNlIF8gICAgICAgICAgICAgPT4gZmFsc2UKICAgICAgICAgICAgfQogICAgICAgICAgfSk=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGxhbmVDaGFuZ2VDdXJzb3IuYXNJbnN0YW5jZU9mW0N1cnNvck9uQ3Rvcl0uY3RvcklkLnVuZGVybHlpbmcgPT0gMTM3OTQyKSB7CiAgICAgICAgdmFsIGEgPSAxCiAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJydW4iKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBhZmZlY3RlZExpbmUoQ3Vyc29yT25DdG9yKHNwYWNlLCBDb25uZWN0b3JJZCgxMzc5NDIsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpKSkKICAgICAgdmFsIGxhbmVDaGFuZ2VDdXJzb3I6IEN1cnNvciA9IGRpdmVyZ2VudEFyZWEubGFuZUNoYW5nZQogICAgICBpZiAobGFuZUNoYW5nZUN1cnNvci5hc0luc3RhbmNlT2ZbQ3Vyc29yT25DdG9yXS5jdG9ySWQudW5kZXJseWluZyA9PSAxMzc5NDIpIHsKICAgICAgICB2YWwgYSA9IDEKICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBhZmZlY3RlZExpbmUoQ3Vyc29yT25DdG9yKHNwYWNlLCBDb25uZWN0b3JJZCgxMzc5NDIsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpKSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGxhbmVDaGFuZ2VDdXJzb3IuYXNJbnN0YW5jZU9mW0N1cnNvck9uQ3Rvcl0uY3RvcklkLnVuZGVybHlpbmcgPT0gMTM3OTQyKSB7CiAgICAgICAgdmFsIGEgPSAxCiAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBib3JkZXJSZWZFcXVhbHMoaWQ6IExhbmVCb3JkZXJJZCwgaGVhZDogRG91YmxlLCB0YWlsOiBEb3VibGUpOiBCb29sZWFuID0gewogICAgICB2YWwgaGVhZEludCA9IHByZWNpc2lvblRyYW5zZm9ybShoZWFkKQogICAgICB2YWwgdGFpbEludCA9IHByZWNpc2lvblRyYW5zZm9ybSh0YWlsKQogICAgICB2YWwgdEhlYWRJbnQgPSBwcmVjaXNpb25UcmFuc2Zvcm0odEhlYWQpCiAgICAgIHZhbCB0VGFpbEludCA9IHByZWNpc2lvblRyYW5zZm9ybSh0VGFpbCkKICAgICAgaWQgPT0gbGFuZUJvcmRlcklkICYmIGhlYWRJbnQgPT0gdEhlYWRJbnQgJiYgdGFpbEludCA9PSB0VGFpbEludAogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwYWNlID09IHRoYXQuc3BhY2UgJiYgbGNJZCA9PSB0aGF0LmxjSWQKICB9IAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBhZmZlY3RlZExpbmUoQ3Vyc29yT25DdG9yKHNwYWNlLCBDb25uZWN0b3JJZCgxMzc5NDIsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpKSkKICAgICAgdmFsIGxhbmVDaGFuZ2VDdXJzb3I6IEN1cnNvciA9IGRpdmVyZ2VudEFyZWEubGFuZUNoYW5nZQogICAgICBpZiAobGFuZUNoYW5nZUN1cnNvci5hc0luc3RhbmNlT2ZbQ3Vyc29yT25DdG9yXS5jdG9ySWQudW5kZXJseWluZyA9PSAxMzc5NDIpIHsKICAgICAgICB2YWwgYSA9IDEKICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
