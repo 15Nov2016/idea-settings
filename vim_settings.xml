@@ -60,8 +60,10 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1592371517051" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneCenter.scala" timestamp="1592370959315" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/guidance_object.proto" timestamp="1592391823724">
-        <mark key="[" line="21" column="1" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/guidance_object.proto" timestamp="1592397910061">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1592392049385">
         <mark key="[" line="0" column="0" />
@@ -71,15 +73,15 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/base.proto" timestamp="1592389701795">
         <mark key="[" line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/topology.proto" timestamp="1592393607560">
-        <mark key="[" line="68" column="27" />
-        <mark key="]" line="68" column="27" />
-        <mark key="." line="68" column="27" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/topology.proto" timestamp="1592398993921">
+        <mark key="[" line="68" column="37" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1592395328985">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1592398311188">
+        <mark key="[" line="548" column="70" />
+        <mark key="]" line="548" column="70" />
+        <mark key="." line="548" column="70" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/LineLocation.scala" timestamp="1592371073243">
         <mark key="[" line="56" column="5" />
@@ -152,11 +154,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIubGF5ZXIuTXVsdGlEaWdpdGl6ZWRSb2FkVGlsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>GuidanceObject</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFNldFtEaXZlcmdlbnRBcmVhTURNXQ==</text>
+        <text>GuidanceObject</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -165,32 +167,31 @@
         <text encoding="base64">ICAgIHJlcGVhdGVkIExhbmVBdHRyaWJ1dGUgbGFuZV9hdHRyaWJ1dGUgPSAyMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIubGF5ZXIuTXVsdGlEaWdpdGl6ZWRSb2FkVGlsZQo=</text>
+        <text encoding="base64">ICAgIHJlcGVhdGVkIERpdmVyZ2VudEFyZWEgZGl2ZXJnZW50X2FyZWEgPSAxMTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcudmlzdHVhbGl6ZS5WaXN0dWFsaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcuZGl2ZXJnZW50QXJlYS5EaXZlcmdlbnRBcmVhTURNCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIubGF5ZXIuRGl2ZXJnZW50QXJlYVRpbGUK</text>
+        <text encoding="base64">ICAgIERpdmVyZ2VudEFyZWFJZCBpZCA9IDE7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.toSet, idManager), dvaTile.tileId)
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIubGF5ZXIuTXVsdGlEaWdpdGl6ZWRSb2FkVGlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgY2FzZSBfID0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcudmlzdHVhbGl6ZS5WaXN0dWFsaXplCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgY2FzZSBkdmE6IERpdmVyZ2VudEFyZWFNRE0gPT5kdmEuYXJlYXMK</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcuZGl2ZXJnZW50QXJlYS5EaXZlcmdlbnRBcmVhTURNCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGkgIG1hdGNoIHsK</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIubGF5ZXIuRGl2ZXJnZW50QXJlYVRpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
