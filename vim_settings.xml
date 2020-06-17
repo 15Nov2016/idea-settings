@@ -43,8 +43,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592362680115">
-        <mark key="[" line="461" column="20" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592370362884">
+        <mark key="[" line="464" column="11" />
+        <mark key="]" line="464" column="12" />
+        <mark key="." line="464" column="12" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592278052845" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592221424693">
@@ -53,10 +55,11 @@
         <mark key="." line="331" column="10" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592300224583" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592365687291">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592367688467">
         <mark key="[" line="140" column="25" />
         <mark key="]" line="140" column="25" />
-        <mark key="." line="140" column="25" />
+        <mark key="." line="140" column="24" />
+        <mark key="^" line="140" column="25" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592223847252">
         <mark key="[" line="140" column="37" />
@@ -88,15 +91,10 @@
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1591966721011">
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="347" column="0" />
-        <mark key="." line="347" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1592363726088">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.scala" timestamp="1592370067492">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/partition/Partition.scala" timestamp="1592281132864">
         <mark key="[" line="8" column="6" />
@@ -120,6 +118,11 @@
         <mark key="]" line="9" column="8" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592368151067">
+        <mark key="[" line="222" column="73" />
+        <mark key="]" line="222" column="73" />
+        <mark key="." line="222" column="73" />
       </file>
       <file name="/fragment.java" timestamp="1592287085741">
         <mark key="[" line="0" column="0" />
@@ -185,10 +188,15 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>toRelenish</text>
+        <text>if(cursor.i){
+              cursor.asInstanceOf[CursorOnLc].lcId.underlying == 31752
+            }
+            else{
+              false
+            }</text>
       </register>
       <register name="-" type="4">
-        <text>toRelenish</text>
+        <text>isInstanceOf</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -196,32 +204,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBtYWluU3RhY2sgPSBtdXRhYmxlLlN0YWNrW1ZdKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aXNpdGVkID0gTGlzdEJ1ZmZlcltWXSgpCg==</text>
+      <register name="1" type="4">
+        <text>if(cursor.i){
+              cursor.asInstanceOf[CursorOnLc].lcId.underlying == 31752
+            }
+            else{
+              false
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZpc2l0ZWQuYWRkT25lKG52KQo=</text>
+        <text encoding="base64">ICBjdXJzb3IgbWF0Y2ggewogICAgY2FzZSBjOkN1cnNvck9uTGMgPT4gIGMKICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgZGZzT25HcmFwaChlbmQsIHByZXYuZ2V0T3JFbHNlKF8sIFNlcS5lbXB0eSkpIAo=</text>
+        <text>((Tuple2)d)._2</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIGdldFByZXYoY3VyOiBWKTogU2VxW1NlcVtWXV09IHsKICAgICAgcHJldi5nZXRPckVsc2UoY3VyLCBTZXEuZW1wdHkpLmZsYXRNYXAoaSA9PiBnZXRQcmV2KGkpKS5tYXAoaiA9PiBqICsrIFNlcShjdXIpKQogICAgfQ==</text>
+      <register name="4" type="2">
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcS5lbXB0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzID0gcm9hZENoYW5nZUN1cnNvckdyb3VwLnRvU2VxICsrIGR2QXJlYUN1cnNvckdyb3Vwcy50b1NlcQogICAgaWYgKHMuZXhpc3RzKGkgPT4gaS5jdXJzb3JzLmRpc3RpbmN0LnNpemUgIT0gaS5jdXJzb3JzLnNpemUpKSB7CiAgICAgIHZhbCBhID0gMQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB2aXNpdGVkID0gTGlzdEJ1ZmZlcltWXSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZpc2l0ZWQuYWRkT25lKG52KQo=</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
