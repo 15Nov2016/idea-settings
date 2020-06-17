@@ -43,11 +43,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592297682043">
-        <mark key="[" line="475" column="30" />
-        <mark key="]" line="475" column="33" />
-        <mark key="." line="475" column="32" />
-        <mark key="^" line="475" column="33" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592362680115">
+        <mark key="[" line="461" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592278052845" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592221424693">
@@ -133,10 +130,11 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="153" column="33" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592362412758">
-        <mark key="[" line="255" column="91" />
-        <mark key="]" line="280" column="0" />
-        <mark key="." line="280" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1592363226828">
+        <mark key="[" line="279" column="41" />
+        <mark key="]" line="279" column="14" />
+        <mark key="." line="279" column="13" />
+        <mark key="^" line="279" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -187,11 +185,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNlcS5lbXB0eQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsrIFNlcShjdXIp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VxKGkpKysg</text>
+        <text encoding="base64">ICsrIFNlcShjdXIp</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
