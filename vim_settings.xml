@@ -43,13 +43,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592400567500">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592401082821">
         <mark key="[" line="523" column="97" />
         <mark key="]" line="523" column="97" />
         <mark key="." line="523" column="97" />
         <mark key="^" line="344" column="44" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592383119718">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592401110506">
         <mark key="[" line="59" column="78" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/layer/DivergentAreaTile.scala" timestamp="1592394359245">
@@ -59,7 +59,6 @@
         <mark key="^" line="5" column="85" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/visitor/LineOnIr.scala" timestamp="1592371517051" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneCenter.scala" timestamp="1592370959315" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/guidance_object.proto" timestamp="1592397910061">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -83,6 +82,7 @@
         <mark key="]" line="548" column="70" />
         <mark key="." line="548" column="70" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Utils.scala" timestamp="1592401101178" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/LineLocation.scala" timestamp="1592371073243">
         <mark key="[" line="56" column="5" />
       </file>
@@ -92,6 +92,11 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/layer/MultiDigitizedTile.scala" timestamp="1592389823731" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1592401152375">
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592393452825">
         <mark key="[" line="222" column="73" />
         <mark key="]" line="222" column="73" />
