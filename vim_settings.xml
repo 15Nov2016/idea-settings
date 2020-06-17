@@ -43,11 +43,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592390889930">
-        <mark key="[" line="340" column="68" />
-        <mark key="]" line="340" column="68" />
-        <mark key="." line="340" column="68" />
-        <mark key="^" line="340" column="44" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592392610388">
+        <mark key="[" line="343" column="14" />
+        <mark key="]" line="344" column="68" />
+        <mark key="." line="344" column="68" />
+        <mark key="^" line="344" column="44" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592278052845" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592383119718">
@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/guidance_object.proto" timestamp="1592391823724">
         <mark key="[" line="21" column="1" />
       </file>
-      <file name="/Dummy.scala" timestamp="1592387755562">
+      <file name="/Dummy.scala" timestamp="1592392049385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
