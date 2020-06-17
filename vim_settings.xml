@@ -43,10 +43,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592383885706">
-        <mark key="[" line="144" column="40" />
-        <mark key="]" line="145" column="29" />
-        <mark key="." line="145" column="28" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592384483562">
         <mark key="^" line="145" column="29" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592278052845" />
@@ -116,7 +113,7 @@
         <mark key="]" line="222" column="73" />
         <mark key="." line="222" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1592381251946">
+      <file name="/fragment.java" timestamp="1592384347050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Section.scala" timestamp="1592227373886">
@@ -179,11 +176,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>last</text>
       </register>
       <register name="-" type="4">
-        <text>revise all cursorGroups</text>
+        <text>last</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
