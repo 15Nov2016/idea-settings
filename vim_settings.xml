@@ -19,6 +19,7 @@
         <entry>3316</entry>
         <entry>wq</entry>
         <entry>42</entry>
+        <entry>343</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -101,11 +102,11 @@
         <mark key="^" line="437" column="54" />
         <mark key="." line="438" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592470497170">
-        <mark key="[" line="227" column="40" />
-        <mark key="]" line="227" column="40" />
-        <mark key="." line="227" column="40" />
-        <mark key="^" line="245" column="7" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592472783331">
+        <mark key="[" line="362" column="35" />
+        <mark key="]" line="362" column="38" />
+        <mark key="." line="362" column="37" />
+        <mark key="^" line="362" column="38" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/extrastrategy/ByDiscontinuity.scala" timestamp="1592463037693">
         <mark key="[" line="6" column="0" />
@@ -175,16 +176,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGxlZnQy</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxlZnQy</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYXJlKGxlZnQxLCBsZWZ0MikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc0xpbmUgPSBjZ1RvUGwuZ2V0KHNlYy5zdGFydCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFsIGxlZnQxID0gbGMxLmxhbmVCb3JkZXJMZWZ0Lm1hcChpID0+IChpLnRIZWFkLCBpLnRUYWlsKSkK</text>
@@ -214,7 +215,7 @@
         <text encoding="base64">ICAgICAgaWYoY3Vyc29yID09IEN1cnNvck9uQ3RvcihzcGFjZSwgQ29ubmVjdG9ySWQoNDAyODgzLCBUaWxlSWQuVEhFX1dIT0xFX1dPUkxEKSkpewogICAgICAgIHZhbCBhID0gMQogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>42</text>
+        <text>343</text>
       </register>
     </registers>
   </component>
