@@ -43,10 +43,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592455821465">
-        <mark key="^" line="35" column="1" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592459311361">
+        <mark key="[" line="477" column="11" />
+        <mark key="]" line="476" column="3" />
+        <mark key="^" line="476" column="3" />
+        <mark key="." line="476" column="2" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592401960205">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592458925769">
         <mark key="[" line="331" column="10" />
         <mark key="]" line="331" column="10" />
         <mark key="." line="331" column="10" />
@@ -60,14 +63,13 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592456848744">
-        <mark key="[" line="18" column="13" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592458869044">
+        <mark key="[" line="15" column="24" />
         <mark key="]" line="18" column="13" />
         <mark key="^" line="226" column="26" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592457376059">
-        <mark key="[" line="19" column="18" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592458475304">
         <mark key="]" line="92" column="17" />
         <mark key="." line="92" column="17" />
       </file>
@@ -75,11 +77,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1592392049385">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/topology.proto" timestamp="1592398993921">
         <mark key="[" line="68" column="37" />
@@ -92,11 +89,7 @@
         <mark key="." line="548" column="70" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Utils.scala" timestamp="1592401101178" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592457399047">
-        <mark key="[" line="119" column="45" />
-        <mark key="]" line="119" column="45" />
-        <mark key="." line="119" column="45" />
-      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592458733721" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1592401152375">
         <mark key="[" line="493" column="0" />
         <mark key="]" line="271" column="0" />
@@ -107,6 +100,12 @@
         <mark key="]" line="227" column="40" />
         <mark key="." line="227" column="40" />
         <mark key="^" line="245" column="7" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/SectioningVisPack.scala" timestamp="1592458714571">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1592448737734">
         <mark key="[" line="0" column="0" />
@@ -162,46 +161,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>toGeoJson</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgdHlwZU1hcC5tYXAoaT0+IHJlcGxhY2VtZW50LmdldE9yRWxzZShpLl8xLCBpLl8xKSAtPiBpLl8yKS5ncm91cEJ5KF8uXzEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>toGeoJson</text>
+        <text encoding="base64">dHlwZU1hcC50b1NlcS5tYXAoaSA9PiByZXBsYWNlbWVudC5nZXRPckVsc2UoaS5fMSxpLl8xKSAtPiBpLl8yKS5ncm91cEJ5KF8uXzEp</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgUkNfSU5URVJTRUNUSU9OLCBSQ19ST0FEX0JPUkRFUiwgUkNfVFVSTl9ST0FELCBSQ19VTktOT1dOID0gVmFsdWUK</text>
+        <text encoding="base64">ICAgICAgdmFsIGZzMSA9IEZlYXR1cmVDb2xsZWN0aW9uLmZyb21Kc29uKGdzb24xKS5mZWF0dXJlcygpLmFzU2NhbGEudG9TZXEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzb25PYmplY3QucmVtb3ZlKCJnZW9Kc29uIikK</text>
+        <text encoding="base64">ICAgdHlwZU1hcC5tYXAoaT0+IHJlcGxhY2VtZW50LmdldE9yRWxzZShpLl8xLCBpLl8xKSAtPiBpLl8yKS5ncm91cEJ5KF8uXzEpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAganNvbk9iamVjdC5yZW1vdmUoImN1cnNvcnMiKQogICAgICBqc29uT2JqZWN0LigiZ2VvSnNvbiIpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bWFwKGogPT4gewogICAgIGouCiAgIH0pIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGpzb25PYmplY3Q6IEpzb25PYmplY3QgPSBnc29uLnRvSnNvblRyZWUoY2cpLmdldEFzSnNvbk9iamVjdAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">dmFsIGEgPSBTcGxpdFR5cGUuVU5LTk9XTgogICAgdmFsIGIgPSBTcGxpdFR5cGUuTENfTEFORV9DSEFOR0UKICAgIHZhbCBjID0gYSArIGIg</text>
       </register>
       <register name="4" type="2">
-        <text>object SplitType extends Enumeration{
-  
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHRlc3QgPSBEaXZlcmdlbnRBcmVhLmdldERpdmVyZ2VudEFyZWFNRE0oZHZBcmVhSXJzLCBwYXJ0aXRpb25HcmFwaCkK</text>
+        <text encoding="base64">Cm9iamVjdCBTZWN0aW9uaW5nVmlzUGFja3sKICBkZWYgYXBwbHkoKT0gewogICAgdmFsIGRBcmVhQ3Vyc29yR3JvdXBHZW9Kc29uID0gVmlzdHVhbGl6ZS5jZ3NUb0dlb0pzb24oCiAgICAgIGRpdmVyZ2VudEFyZWFDdXJzb3JHcm91cHMubWFwKF8uXzIpLmZsYXRNYXAoaSA9PiBTZXEoaS5fMSwgaS5fMikpLnRvU2VxICsrIHNwbGl0Qm9yZGVycy50b1NlcSwKICAgICAgY3Vyc29yR3JvdXBUeXBlICsrIHNwbGl0Qm9yZGVyVHlwZXMKICAgICkKICB9Cn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcGVhdGVkIERpdmVyZ2VudEFyZWEgZGl2ZXJnZW50X2FyZWEgPSAxMTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpzb25PYmplY3QucmVtb3ZlKCJnZW9Kc29uIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERpdmVyZ2VudEFyZWFJZCBpZCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAganNvbk9iamVjdC5yZW1vdmUoImN1cnNvcnMiKQogICAgICBqc29uT2JqZWN0LigiZ2VvSnNvbiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
