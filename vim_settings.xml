@@ -56,22 +56,18 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592458925769">
-        <mark key="[" line="331" column="10" />
-        <mark key="]" line="331" column="10" />
-        <mark key="." line="331" column="10" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/bind/BindSuite.scala" timestamp="1592467478968" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592475917034">
+        <mark key="[" line="125" column="48" />
+        <mark key="]" line="125" column="52" />
+        <mark key="^" line="125" column="52" />
+        <mark key="." line="125" column="51" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/TestTransform.scala" timestamp="1592467788488" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592466729985">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592461760558">
-        <mark key="[" line="114" column="91" />
-        <mark key="]" line="92" column="17" />
-        <mark key="." line="92" column="17" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneCenter.scala" timestamp="1592469030800" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalJunction.scala" timestamp="1592467605052" />
@@ -83,14 +79,16 @@
       <file name="/Dummy.txt" timestamp="1592474872593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592474784148">
-        <mark key="[" line="172" column="20" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592462879802">
         <mark key="[" line="252" column="29" />
         <mark key="]" line="252" column="0" />
         <mark key="^" line="252" column="0" />
         <mark key="." line="252" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1592476065260">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/multidigitized/TypicalMultiDigitized.scala" timestamp="1592474888261">
         <mark key="[" line="54" column="31" />
@@ -105,10 +103,10 @@
         <mark key="." line="438" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592475297742">
-        <mark key="[" line="362" column="35" />
-        <mark key="]" line="362" column="38" />
-        <mark key="." line="362" column="37" />
-        <mark key="^" line="362" column="38" />
+        <mark key="[" line="359" column="35" />
+        <mark key="]" line="359" column="38" />
+        <mark key="." line="359" column="37" />
+        <mark key="^" line="359" column="38" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/extrastrategy/ByDiscontinuity.scala" timestamp="1592463037693">
         <mark key="[" line="6" column="0" />
@@ -119,7 +117,7 @@
         <mark key="^" line="73" column="140" />
         <mark key="." line="73" column="139" />
       </file>
-      <file name="/fragment.java" timestamp="1592466902984">
+      <file name="/fragment.java" timestamp="1592476324442">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
