@@ -44,10 +44,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/supplement/Supplement.scala" timestamp="1592488471483">
-        <mark key="[" line="287" column="4" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/supplement/Supplement.scala" timestamp="1592488605567">
+        <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/DebugUtils.scala" timestamp="1592471457531">
         <mark key="[" line="12" column="3" />
@@ -75,6 +73,9 @@
         <mark key="^" line="73" column="140" />
         <mark key="." line="73" column="139" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/laneTypeSplit/LaneTypeSplitSearch.scala" timestamp="1592489516563">
+        <mark key="[" line="63" column="13" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneCenter.scala" timestamp="1592486251368" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/TypicalHighway.scala" timestamp="1592474215628">
         <mark key="[" line="33" column="0" />
@@ -83,9 +84,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1592484205887">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/MisreferenceLbSuite.scala" timestamp="1592467556740">
-        <mark key="[" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/SectioningVisPack.scala" timestamp="1592481760793">
         <mark key="[" line="15" column="36" />
