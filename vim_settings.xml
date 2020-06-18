@@ -60,11 +60,16 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592456008272">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="224" column="28" />
-        <mark key="." line="224" column="28" />
-        <mark key="^" line="116" column="29" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592456848744">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="226" column="26" />
+        <mark key="." line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592457376059">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="92" column="17" />
+        <mark key="." line="92" column="17" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/guidance_object.proto" timestamp="1592397910061">
         <mark key="[" line="23" column="0" />
@@ -75,9 +80,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/base.proto" timestamp="1592389701795">
-        <mark key="[" line="83" column="1" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/topology.proto" timestamp="1592398993921">
         <mark key="[" line="68" column="37" />
@@ -90,13 +92,11 @@
         <mark key="." line="548" column="70" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Utils.scala" timestamp="1592401101178" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592455918158">
-        <mark key="[" line="113" column="42" />
-        <mark key="]" line="113" column="42" />
-        <mark key="^" line="113" column="50" />
-        <mark key="." line="113" column="42" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592457399047">
+        <mark key="[" line="119" column="45" />
+        <mark key="]" line="119" column="45" />
+        <mark key="." line="119" column="45" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/layer/MultiDigitizedTile.scala" timestamp="1592389823731" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1592401152375">
         <mark key="[" line="493" column="0" />
         <mark key="]" line="271" column="0" />
@@ -112,6 +112,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/SplitType.scala" timestamp="1592449670486" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/1b9adea7bbe0b251818f42fde0bd2988d7e5f20a/gson-2.8.6-sources.jar!/com/google/gson/JsonObject.java" timestamp="1592456909208" />
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
@@ -162,45 +163,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RW51bWVyYXRpbyA=</text>
+        <text>toGeoJson</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RW51bWVyYXRpbyA=</text>
+        <text>toGeoJson</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcGVhdGVkIExhbmVBdHRyaWJ1dGUgbGFuZV9hdHRyaWJ1dGUgPSAyMTsK</text>
+        <text encoding="base64">ICB2YWwgUkNfSU5URVJTRUNUSU9OLCBSQ19ST0FEX0JPUkRFUiwgUkNfVFVSTl9ST0FELCBSQ19VTktOT1dOID0gVmFsdWUK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGpzb25PYmplY3QucmVtb3ZlKCJnZW9Kc29uIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAganNvbk9iamVjdC5yZW1vdmUoImN1cnNvcnMiKQogICAgICBqc29uT2JqZWN0LigiZ2VvSnNvbiIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGpzb25PYmplY3Q6IEpzb25PYmplY3QgPSBnc29uLnRvSnNvblRyZWUoY2cpLmdldEFzSnNvbk9iamVjdAo=</text>
+      </register>
+      <register name="4" type="2">
         <text>object SplitType extends Enumeration{
   
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgdmFsIHRlc3QgPSBEaXZlcmdlbnRBcmVhLmdldERpdmVyZ2VudEFyZWFNRE0oZHZBcmVhSXJzLCBwYXJ0aXRpb25HcmFwaCkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJlcGVhdGVkIERpdmVyZ2VudEFyZWEgZGl2ZXJnZW50X2FyZWEgPSAxMTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIERpdmVyZ2VudEFyZWFJZCBpZCA9IDE7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIubGF5ZXIuTXVsdGlEaWdpdGl6ZWRSb2FkVGlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcudmlzdHVhbGl6ZS5WaXN0dWFsaXplCg==</text>
+        <text encoding="base64">ICAgIERpdmVyZ2VudEFyZWFJZCBpZCA9IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
