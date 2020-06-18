@@ -43,10 +43,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592460031686">
-        <mark key="[" line="489" column="32" />
-        <mark key="]" line="489" column="32" />
-        <mark key="." line="489" column="32" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592461817583">
+        <mark key="[" line="484" column="137" />
+        <mark key="]" line="484" column="137" />
+        <mark key="." line="484" column="137" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592458925769">
         <mark key="[" line="331" column="10" />
@@ -62,13 +62,14 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592458869044">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="226" column="26" />
-        <mark key="." line="18" column="13" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592461631805">
+        <mark key="[" line="177" column="39" />
+        <mark key="]" line="177" column="39" />
+        <mark key="^" line="226" column="41" />
+        <mark key="." line="177" column="39" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592458475304">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1592461760558">
+        <mark key="[" line="114" column="91" />
         <mark key="]" line="92" column="17" />
         <mark key="." line="92" column="17" />
       </file>
@@ -88,13 +89,14 @@
         <mark key="." line="548" column="70" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Utils.scala" timestamp="1592401101178" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592460898146">
-        <mark key="[" line="117" column="135" />
-        <mark key="]" line="117" column="111" />
-        <mark key="." line="117" column="111" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592462862726">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="146" column="20" />
+        <mark key="." line="146" column="20" />
+        <mark key="^" line="104" column="92" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592461261662">
-        <mark key="[" line="254" column="34" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592462879802">
+        <mark key="[" line="252" column="29" />
         <mark key="]" line="252" column="0" />
         <mark key="^" line="252" column="0" />
         <mark key="." line="252" column="0" />
@@ -104,11 +106,20 @@
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1592462768565">
+        <mark key="[" line="427" column="21" />
+        <mark key="]" line="438" column="20" />
+        <mark key="^" line="437" column="54" />
+        <mark key="." line="438" column="20" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592448674808">
         <mark key="[" line="227" column="40" />
         <mark key="]" line="227" column="40" />
         <mark key="." line="227" column="40" />
         <mark key="^" line="245" column="7" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/extrastrategy/ByDiscontinuity.scala" timestamp="1592463037693">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/SectioningVisPack.scala" timestamp="1592458714571">
         <mark key="[" line="14" column="0" />
@@ -116,7 +127,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1592448737734">
+      <file name="/fragment.java" timestamp="1592463205015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/SplitType.scala" timestamp="1592449670486" />
@@ -171,10 +182,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>beforeReviseCg</text>
+        <text>.filter(_.cursors.nonEmpty)</text>
       </register>
       <register name="-" type="4">
-        <text>beforeReviseCg</text>
+        <text>.filter(_.cursors.nonEmpty)</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
