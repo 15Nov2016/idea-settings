@@ -43,10 +43,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592461817583">
-        <mark key="[" line="484" column="137" />
-        <mark key="]" line="484" column="137" />
-        <mark key="." line="484" column="137" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592464924291">
+        <mark key="[" line="188" column="51" />
+        <mark key="]" line="188" column="73" />
+        <mark key="." line="188" column="73" />
+        <mark key="^" line="188" column="73" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592458925769">
         <mark key="[" line="331" column="10" />
@@ -182,10 +183,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.filter(_.cursors.nonEmpty)</text>
+        <text>, 402883</text>
       </register>
       <register name="-" type="4">
-        <text>.filter(_.cursors.nonEmpty)</text>
+        <text>, 402883</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
