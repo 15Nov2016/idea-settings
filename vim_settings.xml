@@ -44,10 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592467091960">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592475460696">
+        <mark key="[" line="281" column="65" />
+        <mark key="]" line="281" column="75" />
+        <mark key="." line="281" column="74" />
+        <mark key="^" line="281" column="75" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/DebugUtils.scala" timestamp="1592471457531">
         <mark key="[" line="12" column="3" />
@@ -79,14 +80,19 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592474603589" />
+      <file name="/Dummy.txt" timestamp="1592474872593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592474784148">
+        <mark key="[" line="172" column="20" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592462879802">
         <mark key="[" line="252" column="29" />
         <mark key="]" line="252" column="0" />
         <mark key="^" line="252" column="0" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/multidigitized/TypicalMultiDigitized.scala" timestamp="1592467493802">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/multidigitized/TypicalMultiDigitized.scala" timestamp="1592474888261">
         <mark key="[" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/MisreferenceLbSuite.scala" timestamp="1592467556740">
@@ -98,7 +104,7 @@
         <mark key="^" line="437" column="54" />
         <mark key="." line="438" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592474410988">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592475297742">
         <mark key="[" line="362" column="35" />
         <mark key="]" line="362" column="38" />
         <mark key="." line="362" column="37" />
@@ -112,12 +118,6 @@
         <mark key="]" line="73" column="140" />
         <mark key="^" line="73" column="140" />
         <mark key="." line="73" column="139" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/SectioningVisPack.scala" timestamp="1592458714571">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1592466902984">
         <mark key="[" line="0" column="0" />
@@ -171,44 +171,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sec.start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sec.start</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc0xpbmUgPSBjZ1RvUGwuZ2V0KHNlYy5zdGFydCkK</text>
+        <text encoding="base64">ICAgICAgIFV0aWxzLmN1cnNvckdyb3VwVG9Qb2x5TGluZShzcGFjZSwgQ3Vyc29yR3JvdXAoU2VxKGN1cnNvcikpKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGEgPSBEZWJ1Z1V0aWxzLmRpZmYob3V0U2VjVGlsZSwgc2VjVGlsZSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxlZnQxID0gbGMxLmxhbmVCb3JkZXJMZWZ0Lm1hcChpID0+IChpLnRIZWFkLCBpLnRUYWlsKSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZXF1YWxzKGE6IEJvcmRlclJlZk9uTEMsIGI6IEJvcmRlclJlZk9uTEMpOiBVbml0ID17CiAgICBpZihhLnRIZWFkID09ICkKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcG9pbnRPcHQxID0gc3BhY2UuZ2V0UG9pbnQoY3Vyc29yMSkKICAgICAgICB2YWwgcG9pbnRPcHQyID0gc3BhY2UuZ2V0UG9pbnQoY3Vyc29yMikKICAgICAgICBpZiAocG9pbnRPcHQxLmlzRGVmaW5lZCAmJiBwb2ludE9wdDIuaXNEZWZpbmVkKSB7CiAgICAgICAgICB2YWwgcGwgPSBQb2x5TGluZShTZXEocG9pbnRPcHQxLCBwb2ludE9wdDIpLmZsYXR0ZW4pCiAgICAgICAgICBTb21lKEdlb1V0aWxzLmV4dGVuZEJvdGhTaWRlcyhwbCwgRVhURU5TSU9OLCBzcGFjZS5jdHguY3QpKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBOb25lCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dmFsIGFuZ2xlT3B0ID0gc3BhY2UuZ2V0RGlyZWN0aW9uKGN1cnNvcikubWFwKGEgPT4gYS5yb3RhdGUobWF0aC5QaSAvIDIpKQogICAgICAgIHZhbCBwb2ludE9wdCA9IHNwYWNlLmdldFBvaW50KGN1cnNvcikKICAgICAgICBpZiAoYW5nbGVPcHQuaXNEZWZpbmVkICYmIHBvaW50T3B0LmlzRGVmaW5lZCkgewogICAgICAgICAgU29tZShnZW5lcmF0ZVBvbHlMaW5lKHBvaW50T3B0LmdldCwgYW5nbGVPcHQuZ2V0LCBMSU5FX0VYVEVORF9MRU5HVEhfSU5fV0dTODQpKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBOb25lCiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIuYmFzZS57Qm9yZGVyUmVmT25MQywgRWRnZSwgTGFuZUF0dHJpYnV0ZXMsIExhbmVDZW50ZXJJZH0KaW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIuYmFzZS5MYW5lQ2VudGVyLkxhbmVDZW50ZXJSYXcKaW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIucGFydGl0aW9uLntDb25uZWN0b3JJZCwgUGFydGl0aW9uVGlsZX0KCmNhc2UgY2xhc3MgbGFuZUNlbnRlckRpZmYoCiAgICBlZGdlOiBPcHRpb25bKEFueSwgQW55KV0sCiAgICBhdHRyOiBPcHRpb25bKEFueSwgQW55KV0sCiAgICBsYW5lQm9yZGVyTGVmdDogT3B0aW9uWyhBbnksIEFueSldLAogICAgbGFuZUJvcmRlclJpZ2h0OiBPcHRpb25bKEFueSwgQW55KV0KKQpvYmplY3QgRGVidWdVdGlscyB7CgogIGRlZiBjb21wYXJlKGE6IEFueSwgYjogQW55KSA9IHsKICAgIGlmIChhID09IGIpIE5vbmUKICAgIGVsc2UgU29tZSgoYSwgYikpCiAgfQogIGRlZiBkaWZmKHB0MTogUGFydGl0aW9uVGlsZSwgcHQyOiBQYXJ0aXRpb25UaWxlKSA9IHsKICAgIHZhbCBwdHMxID0gcHQxLnBhcnRpdGlvbnMudmFsdWVzLnRvU2VxCiAgICB2YWwgcHRzMiA9IHB0Mi5wYXJ0aXRpb25zLnZhbHVlcy50b1NlcQogICAgZm9yIHsKICAgICAgcGEgPC0gcHRzMQogICAgICBwYiA8LSBwdHMyCiAgICAgIGxjMSA8LSBwYS5sYW5lQ2VudGVycy52YWx1ZXMudG9TZXEKICAgICAgbGMyIDwtIHBiLmxhbmVDZW50ZXJzLmdldChsYzEuaWQpCiAgICAgIGlmIGxjMSAhPSBsYzIKICAgICAgdmFsIHggPSBsYW5lQ2VudGVyRGlmZigKICAgICAgICBjb21wYXJlKGxjMS5lZGdlLCBsYzIuZWRnZSksCiAgICAgICAgY29tcGFyZShsYzEuYXR0ciwgbGMyLmF0dHIpLAogICAgICAgIGNvbXBhcmUobGMxLmxhbmVCb3JkZXJMZWZ0LCBsYzIubGFuZUJvcmRlckxlZnQpLAogICAgICAgIGNvbXBhcmUobGMxLmxhbmVCb3JkZXJSaWdodCwgbGMyLmxhbmVCb3JkZXJSaWdodCkKICAgICAgKQogICAgfSB5aWVsZCAobGMxLCBsYzIsIHgpCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBEZWJ1Z1V0aWxzLmRpZmYob3V0U2VjVGlsZSwgc2VjVGlsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFuZUJvcmRlckxlZnQ6IFNldFtCb3JkZXJSZWZPbkxDXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFuZUJvcmRlclJpZ2h0OiBTZXRbQm9yZGVyUmVmT25MQ10K</text>
+        <text encoding="base64">ICAgICAgdmFsIGxlZnQxID0gbGMxLmxhbmVCb3JkZXJMZWZ0Lm1hcChpID0+IChpLnRIZWFkLCBpLnRUYWlsKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCAodXBkYXRlZERBQ3Vyc29yR3JvdXAsIHVwZGF0ZWRSb2FkQ3Vyc29yR3JvdXApID0KICAgICAgRGl2ZXJnZW50QXJlYS51cGRhdGVDdXJzb3JHcm91cChkaXZlcmdlbnRBcmVhQ3Vyc29yR3JvdXBzLCBzcGxpdEJ5Um9hZEJvcmRlciwgcmV2aXNlZEN1cnNvckdyb3Vwcy5fMi50b01hcCkK</text>
+        <text encoding="base64">ICBkZWYgZXF1YWxzKGE6IEJvcmRlclJlZk9uTEMsIGI6IEJvcmRlclJlZk9uTEMpOiBVbml0ID17CiAgICBpZihhLnRIZWFkID09ICkKICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3Vyc29yID09IEN1cnNvck9uQ3RvcihzcGFjZSwgQ29ubmVjdG9ySWQoNDAyODgzLCBUaWxlSWQuVEhFX1dIT0xFX1dPUkxEKSkpIHsKICAgICAgICAgIHZhbCBhID0gMQogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIuYmFzZS57Qm9yZGVyUmVmT25MQywgRWRnZSwgTGFuZUF0dHJpYnV0ZXMsIExhbmVDZW50ZXJJZH0KaW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIuYmFzZS5MYW5lQ2VudGVyLkxhbmVDZW50ZXJSYXcKaW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uaXIucGFydGl0aW9uLntDb25uZWN0b3JJZCwgUGFydGl0aW9uVGlsZX0KCmNhc2UgY2xhc3MgbGFuZUNlbnRlckRpZmYoCiAgICBlZGdlOiBPcHRpb25bKEFueSwgQW55KV0sCiAgICBhdHRyOiBPcHRpb25bKEFueSwgQW55KV0sCiAgICBsYW5lQm9yZGVyTGVmdDogT3B0aW9uWyhBbnksIEFueSldLAogICAgbGFuZUJvcmRlclJpZ2h0OiBPcHRpb25bKEFueSwgQW55KV0KKQpvYmplY3QgRGVidWdVdGlscyB7CgogIGRlZiBjb21wYXJlKGE6IEFueSwgYjogQW55KSA9IHsKICAgIGlmIChhID09IGIpIE5vbmUKICAgIGVsc2UgU29tZSgoYSwgYikpCiAgfQogIGRlZiBkaWZmKHB0MTogUGFydGl0aW9uVGlsZSwgcHQyOiBQYXJ0aXRpb25UaWxlKSA9IHsKICAgIHZhbCBwdHMxID0gcHQxLnBhcnRpdGlvbnMudmFsdWVzLnRvU2VxCiAgICB2YWwgcHRzMiA9IHB0Mi5wYXJ0aXRpb25zLnZhbHVlcy50b1NlcQogICAgZm9yIHsKICAgICAgcGEgPC0gcHRzMQogICAgICBwYiA8LSBwdHMyCiAgICAgIGxjMSA8LSBwYS5sYW5lQ2VudGVycy52YWx1ZXMudG9TZXEKICAgICAgbGMyIDwtIHBiLmxhbmVDZW50ZXJzLmdldChsYzEuaWQpCiAgICAgIGlmIGxjMSAhPSBsYzIKICAgICAgdmFsIHggPSBsYW5lQ2VudGVyRGlmZigKICAgICAgICBjb21wYXJlKGxjMS5lZGdlLCBsYzIuZWRnZSksCiAgICAgICAgY29tcGFyZShsYzEuYXR0ciwgbGMyLmF0dHIpLAogICAgICAgIGNvbXBhcmUobGMxLmxhbmVCb3JkZXJMZWZ0LCBsYzIubGFuZUJvcmRlckxlZnQpLAogICAgICAgIGNvbXBhcmUobGMxLmxhbmVCb3JkZXJSaWdodCwgbGMyLmxhbmVCb3JkZXJSaWdodCkKICAgICAgKQogICAgfSB5aWVsZCAobGMxLCBsYzIsIHgpCiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
