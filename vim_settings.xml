@@ -44,7 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592492657146" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592496255290">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592490834996">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -59,14 +63,17 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1592476065260">
         <mark key="[" line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/multidigitized/TypicalMultiDigitized.scala" timestamp="1592474888261">
-        <mark key="[" line="54" column="31" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/laneTypeSplit/LaneTypeSplitSearch.scala" timestamp="1592490122423" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/laneTypeSplit/LaneTypeSplit.scala" timestamp="1592495917014">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneCenter.scala" timestamp="1592486251368" />
       <file name="/Dummy.txt" timestamp="1592484205887">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/lane.proto" timestamp="1592495173701" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592494673327">
         <mark key="]" line="442" column="16" />
         <mark key="^" line="442" column="16" />
@@ -132,10 +139,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -144,31 +151,31 @@
         <text encoding="base64">ICAgICAgICAgIHNlcmlhbGl6ZVRvRmlsZSh2aXNQYWNrLmFmdGVyUmV2aXNlQ2csICJvdXRfYWZ0ZXJfcmV2aXNlX2Nncy5nZW9qc29uIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsYW5lQ2VudGVyczogU2VxW0xhbmVDZW50ZXJSYXddID0gcGFydGl0aW9ucy5mbGF0TWFwKF8ubGFuZUNlbnRlcnMudmFsdWVzLnRvU2VxKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGFuZUNlbnRlckdyYXBoCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXMgPSBnZXREaXZlcmdlbnRBcmVhTURNKGR2YUlycykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBsYW5lQ2VudGVyczogU2VxW0xhbmVDZW50ZXJSYXddID0gcGFydGl0aW9ucy5mbGF0TWFwKF8ubGFuZUNlbnRlcnMudmFsdWVzLnRvU2VxKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbGFuZUNlbnRlckdyYXBoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXMgPSBnZXREaXZlcmdlbnRBcmVhTURNKGR2YUlycykK</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICB2YWwgZHZBcmVhSXJzID0gRGl2ZXJnZW50QXJlYS5nZXREaXZlcmdlbnRBcmVhSXJMYygKICAgIGRpdmVyZ2VudEFyZWFDdXJzb3JHcm91cHMsCiAgICBjdXJzb3IyQ3RvcklkLAogICAgbGFuZUNlbnRlckdyYXBoCiAgKQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgIHR1cm5EaXJlY3Rpb24uaGVhZA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgLmNvbGxlY3QgewogICAgICAgICAgICBjYXNlIChfLCBfLCAobGFuZVR5cGUsIGxhbmVNYXJrRGlycyksIF8pIGlmIGxhbmVUeXBlID09IExhbmVUeXBlLklOX0lOVEVSU0VDVElPTiA9PgogICAgICAgICAgICAgIGxhbmVNYXJrRGlycwogICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHR1cm5EaXJlY3Rpb24uc2l6ZSAhPSAxKQogICAgICAgIGxvZ2dlci5lcnJvcihzImxhbmUgJHtsYW5lLmlkfSBpbiBpbnRlcnNlY3Rpb24gc2hvdWxkIGhhcyBvbmx5IG9uZSBndWlkZSBkaXJlY3Rpb24gYWZ0ZXIgdHJhY2luZyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
