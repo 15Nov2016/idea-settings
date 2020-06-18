@@ -101,6 +101,12 @@
         <mark key="^" line="437" column="54" />
         <mark key="." line="438" column="20" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592470409007">
+        <mark key="[" line="227" column="40" />
+        <mark key="]" line="227" column="40" />
+        <mark key="." line="227" column="40" />
+        <mark key="^" line="245" column="7" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/extrastrategy/ByDiscontinuity.scala" timestamp="1592463037693">
         <mark key="[" line="6" column="0" />
       </file>
@@ -119,7 +125,6 @@
       <file name="/fragment.java" timestamp="1592466902984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/1b9adea7bbe0b251818f42fde0bd2988d7e5f20a/gson-2.8.6-sources.jar!/com/google/gson/JsonObject.java" timestamp="1592456909208" />
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
