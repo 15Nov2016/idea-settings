@@ -49,6 +49,11 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592585592782">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1592490834996">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -60,11 +65,8 @@
         <mark key="." line="12" column="81" />
         <mark key="^" line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1592476065260">
-        <mark key="[" line="268" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592584990275">
-        <mark key="[" line="289" column="78" />
+        <mark key="[" line="286" column="78" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/laneTypeSplit/LaneTypeSplitSearch.scala" timestamp="1592497378455">
         <mark key="[" line="121" column="9" />
@@ -146,11 +148,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -162,28 +164,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>//          if (lb.entityData.laneLineType == LaneLineType.REPLENISH_VIRTUAL_LINE) {
+//            return Some(lb)
+//          }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBsYW5lQ2VudGVyczogU2VxW0xhbmVDZW50ZXJSYXddID0gcGFydGl0aW9ucy5mbGF0TWFwKF8ubGFuZUNlbnRlcnMudmFsdWVzLnRvU2VxKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGFuZUNlbnRlckdyYXBoCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXMgPSBnZXREaXZlcmdlbnRBcmVhTURNKGR2YUlycykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBsYW5lQ2VudGVyczogU2VxW0xhbmVDZW50ZXJSYXddID0gcGFydGl0aW9ucy5mbGF0TWFwKF8ubGFuZUNlbnRlcnMudmFsdWVzLnRvU2VxKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbGFuZUNlbnRlckdyYXBoCg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXMgPSBnZXREaXZlcmdlbnRBcmVhTURNKGR2YUlycykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICB2YWwgZHZBcmVhSXJzID0gRGl2ZXJnZW50QXJlYS5nZXREaXZlcmdlbnRBcmVhSXJMYygKICAgIGRpdmVyZ2VudEFyZWFDdXJzb3JHcm91cHMsCiAgICBjdXJzb3IyQ3RvcklkLAogICAgbGFuZUNlbnRlckdyYXBoCiAgKQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIHR1cm5EaXJlY3Rpb24uaGVhZA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgLmNvbGxlY3QgewogICAgICAgICAgICBjYXNlIChfLCBfLCAobGFuZVR5cGUsIGxhbmVNYXJrRGlycyksIF8pIGlmIGxhbmVUeXBlID09IExhbmVUeXBlLklOX0lOVEVSU0VDVElPTiA9PgogICAgICAgICAgICAgIGxhbmVNYXJrRGlycwogICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
