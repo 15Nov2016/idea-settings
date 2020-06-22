@@ -44,10 +44,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592819066468">
-        <mark key="[" line="401" column="78" />
-        <mark key="]" line="400" column="96" />
-        <mark key="." line="400" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/supplement/Supplement.scala" timestamp="1592819145149">
+        <mark key="[" line="208" column="47" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592819273169">
+        <mark key="[" line="349" column="92" />
+        <mark key="]" line="349" column="92" />
+        <mark key="." line="349" column="92" />
         <mark key="^" line="399" column="25" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/intersection/IntersectionGenerator.scala" timestamp="1592814285268">
@@ -66,7 +69,7 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" timestamp="1592812178600" />
-      <file name="/Dummy.scala" timestamp="1592815763114">
+      <file name="/Dummy.scala" timestamp="1592820197123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
@@ -155,11 +158,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlcGxhY2VtZW50VGhpcyA9IHJlcGxhY2VhYmxlVGhpc0N1cnNvclBhaXIubWFwKHAgPT4gZ2V0UmVwbGFjZW1lbnQocC5fMSwgcC5fMikpLnRvTWFwCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsrIGQubGFuZUZvcm1pbmdFbmQ=</text>
       </register>
       <register name="-" type="4">
-        <text>thatCursorGroup</text>
+        <text encoding="base64">ICsrIGQubGFuZUZvcm1pbmdFbmQ=</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
