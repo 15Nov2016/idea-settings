@@ -44,10 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592496255290">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="18" />
-        <mark key="." line="50" column="18" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592819066468">
+        <mark key="[" line="401" column="78" />
+        <mark key="]" line="400" column="96" />
+        <mark key="." line="400" column="0" />
+        <mark key="^" line="399" column="25" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/intersection/IntersectionGenerator.scala" timestamp="1592814285268">
         <mark key="]" line="25" column="11" />
@@ -102,7 +103,7 @@
         <mark key="." line="442" column="15" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1592815516563" />
-      <file name="/fragment.java" timestamp="1592816790869">
+      <file name="/fragment.java" timestamp="1592818951477">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -155,16 +156,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlcGxhY2VtZW50VGhpcyA9IHJlcGxhY2VhYmxlVGhpc0N1cnNvclBhaXIubWFwKHAgPT4gZ2V0UmVwbGFjZW1lbnQocC5fMSwgcC5fMikpLnRvTWFwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>thatCursorGroup</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcmlhbGl6ZVRvRmlsZSh2aXNQYWNrLmFmdGVyUmV2aXNlQ2csICJvdXRfYWZ0ZXJfcmV2aXNlX2Nncy5nZW9qc29uIikK</text>
+        <text encoding="base64">ICAgICAgdmFsIHJlcGxhY2VtZW50VGhpcyA9IHJlcGxhY2VhYmxlVGhpc0N1cnNvclBhaXIubWFwKHAgPT4gZ2V0UmVwbGFjZW1lbnQocC5fMSwgcC5fMikpLnRvTWFwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
