@@ -52,10 +52,10 @@
         <mark key="]" line="88" column="17" />
         <mark key="." line="88" column="17" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592902399134">
-        <mark key="[" line="403" column="75" />
-        <mark key="]" line="403" column="75" />
-        <mark key="." line="403" column="75" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1592902652070">
+        <mark key="[" line="402" column="15" />
+        <mark key="]" line="402" column="15" />
+        <mark key="." line="402" column="15" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/intersection/IntersectionGenerator.scala" timestamp="1592814285268">
         <mark key="]" line="25" column="11" />
@@ -75,10 +75,10 @@
         <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592880757396" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592902517018">
-        <mark key="[" line="122" column="51" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1592902623387">
+        <mark key="[" line="125" column="40" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/Split.scala" timestamp="1592882521416">
         <mark key="[" line="5" column="62" />
@@ -149,10 +149,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
