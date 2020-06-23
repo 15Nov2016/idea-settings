@@ -91,10 +91,10 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="17" column="86" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592894595465">
-        <mark key="[" line="159" column="88" />
-        <mark key="]" line="159" column="88" />
-        <mark key="." line="159" column="88" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592897028081">
+        <mark key="[" line="153" column="5" />
+        <mark key="]" line="153" column="6" />
+        <mark key="." line="153" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592882917987">
         <mark key="]" line="11" column="17" />
@@ -103,7 +103,7 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1592815516563" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/OSMFixture.scala" timestamp="1592827642650" />
-      <file name="/fragment.java" timestamp="1592894464203">
+      <file name="/fragment.java" timestamp="1592897259941">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -156,7 +156,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsrIHNwbGl0Qm9yZGVycy5kaWZmKAogICAgICBzcGxpdEJ5Um9hZEJvcmRlcgogICAgKQ==</text>
+        <text>splitByRoadBorder</text>
       </register>
       <register name="-" type="4">
         <text>splitByRoadBorder</text>
