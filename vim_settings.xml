@@ -83,9 +83,15 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="17" column="86" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592912968863">
+        <mark key="[" line="155" column="25" />
+        <mark key="]" line="155" column="26" />
+        <mark key="^" line="155" column="26" />
+        <mark key="." line="155" column="25" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1592815516563" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/OSMFixture.scala" timestamp="1592827642650" />
-      <file name="/fragment.java" timestamp="1592910835672">
+      <file name="/fragment.java" timestamp="1592911810264">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -138,10 +144,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>cs</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>cs</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
