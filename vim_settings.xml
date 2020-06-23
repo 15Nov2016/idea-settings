@@ -81,28 +81,14 @@
         <mark key="." line="12" column="81" />
         <mark key="^" line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/IdManager.scala" timestamp="1592880572902">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="140" column="7" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592882071411">
-        <mark key="[" line="338" column="95" />
-        <mark key="]" line="338" column="61" />
-        <mark key="." line="338" column="60" />
-        <mark key="^" line="338" column="61" />
-      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/IdManager.scala" timestamp="1592880572902" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/Component.scala" timestamp="1592882397255">
-        <mark key="[" line="28" column="20" />
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592880757396" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/Split.scala" timestamp="1592882521416">
-        <mark key="[" line="533" column="62" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+        <mark key="[" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ReviseCursorGroupSuite.scala" timestamp="1592828355973">
         <mark key="[" line="17" column="86" />
@@ -114,13 +100,13 @@
         <mark key="[" line="180" column="101" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592882917987">
-        <mark key="]" line="422" column="17" />
-        <mark key="^" line="422" column="17" />
-        <mark key="." line="422" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1592815516563" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/OSMFixture.scala" timestamp="1592827642650" />
-      <file name="/fragment.java" timestamp="1592881136699">
+      <file name="/fragment.java" timestamp="1592891927785">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
