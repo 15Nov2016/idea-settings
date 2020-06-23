@@ -63,11 +63,6 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1592585592782">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" timestamp="1592812178600" />
       <file name="/Dummy.scala" timestamp="1592820197123">
         <mark key="[" line="0" column="0" />
@@ -90,16 +85,22 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
-        <mark key="^" line="141" column="7" />
+        <mark key="^" line="140" column="7" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592880523538">
-        <mark key="[" line="77" column="17" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1592882071411">
+        <mark key="[" line="338" column="95" />
+        <mark key="]" line="338" column="61" />
+        <mark key="." line="338" column="60" />
+        <mark key="^" line="338" column="61" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/Component.scala" timestamp="1592882397255">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1592880757396" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/Split.scala" timestamp="1592880492575">
-        <mark key="[" line="29" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/Split.scala" timestamp="1592882521416">
+        <mark key="[" line="533" column="62" />
         <mark key="]" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
@@ -112,10 +113,10 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1592815552279">
         <mark key="[" line="180" column="101" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592815430000">
-        <mark key="]" line="442" column="16" />
-        <mark key="^" line="442" column="16" />
-        <mark key="." line="442" column="15" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1592882917987">
+        <mark key="]" line="422" column="17" />
+        <mark key="^" line="422" column="17" />
+        <mark key="." line="422" column="16" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1592815516563" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/OSMFixture.scala" timestamp="1592827642650" />
@@ -172,10 +173,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>IdManager</text>
+        <text>lc: LaneCenterRaw</text>
       </register>
       <register name="-" type="4">
-        <text>IdManager</text>
+        <text>lc: LaneCenterRaw</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
