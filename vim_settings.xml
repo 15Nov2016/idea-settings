@@ -44,9 +44,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/supplement/Supplement.scala" timestamp="1592819145149">
-        <mark key="[" line="208" column="47" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lanegrouping/Lanegrouping.scala" timestamp="1592880562057">
         <mark key="[" line="88" column="17" />
         <mark key="]" line="88" column="17" />
@@ -83,6 +80,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" timestamp="1593314720265" />
       <file name="/Dummy.scala" timestamp="1592820197123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="12" />
