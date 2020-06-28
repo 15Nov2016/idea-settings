@@ -75,18 +75,11 @@
         <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1593334377417" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1593344354586" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1593335846328">
-        <mark key="[" line="203" column="46" />
-        <mark key="]" line="203" column="17" />
-        <mark key="." line="203" column="16" />
-        <mark key="^" line="203" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1593347770122">
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1593335356227">
-        <mark key="[" line="133" column="120" />
-        <mark key="]" line="133" column="6" />
-        <mark key="." line="133" column="6" />
-      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1593335846328" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/NaviDirCalculator.scala" timestamp="1593343404317" />
       <file name="/Dummy.scala" timestamp="1593343617771">
         <mark key="[" line="0" column="0" />
@@ -99,10 +92,10 @@
         <mark key="." line="354" column="12" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/ByIntersection.scala" timestamp="1593342612385">
-        <mark key="[" line="94" column="66" />
-        <mark key="]" line="94" column="66" />
-        <mark key="." line="94" column="66" />
-        <mark key="^" line="94" column="67" />
+        <mark key="[" line="55" column="66" />
+        <mark key="]" line="55" column="66" />
+        <mark key="." line="55" column="66" />
+        <mark key="^" line="55" column="67" />
       </file>
       <file name="/fragment.java" timestamp="1593338084588">
         <mark key="[" line="0" column="0" />
@@ -156,11 +149,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>return LaneType.BUS</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -169,28 +162,28 @@
         <text encoding="base64">bGJJZCA=</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogICAgICAgIGNhc2UgKGwsIF8sIHNlZ3MpID0+CiAgICAgICAgICB2YWwgY3Vyc29yOiBPcHRpb25bQ3Vyc29yXSA9IHNlZ3MKICAgICAgICAgICAgLmZpbmQgeyBjYXNlIFNlcShzLCBlKSA9PiBpc0J1c0xhbmUocywgZSkgfHwgaXNOb25Nb3RvckxhbmUocywgZSkgfQogICAgICAgICAgICAubWFwKF8gPT4gaWYgKHJldmVyc2VkKSBsLnN0YXJ0IGVsc2UgbC5lbmQpCiAgICAgICAgICAoCiAgICAgICAgICAgIGwsCiAgICAgICAgICAgIGN1cnNvcgogICAgICAgICAgKQogICAgICB9</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICAgICAgIGNhc2UgKGwsIF8sIHNlZ3MpID0+CiAgICAgICAgICB2YWwgY3Vyc29yOiBPcHRpb25bQ3Vyc29yXSA9IHNlZ3MKICAgICAgICAgICAgLmZpbmQgeyBjYXNlIFNlcShzLCBlKSA9PiBpc0J1c0xhbmUocywgZSkgfHwgaXNOb25Nb3RvckxhbmUocywgZSkgfQogICAgICAgICAgICAubWFwKF8gPT4gaWYgKHJldmVyc2VkKSBsLnN0YXJ0IGVsc2UgbC5lbmQpCiAgICAgICAgICAoCiAgICAgICAgICAgIGwsCiAgICAgICAgICAgIGN1cnNvcgogICAgICAgICAgKQogICAgICB9</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b2JqZWN0IExhbmVCb3VuZGFyeSB7CiAgZGVmIGZsYXR0ZW5JZChsYW5lQm91bmRhcnlHcm91cElkOiBMYW5lQm91bmRhcnlHcm91cElkLCBwYXJhbGxlbEluZGV4OiBJbnQsIGluZGV4OiBJbnQpOiBMb25nID0gewogICAgMHg2MDAwMDAwMCB8IFNlcXVlbnRpYWxMYW5lQm91bmRhcnkuZmxhdHRlbklkKGxhbmVCb3VuZGFyeUdyb3VwSWQsIHBhcmFsbGVsSW5kZXgpIDw8IDQgJiAweGZmZmZmZmYwIHwgaW5kZXggJiAweDAwMDAwMDBmCiAgfQp9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">b2JqZWN0IExhbmVCb3VuZGFyeSB7CiAgZGVmIGZsYXR0ZW5JZChsYW5lQm91bmRhcnlHcm91cElkOiBMYW5lQm91bmRhcnlHcm91cElkLCBwYXJhbGxlbEluZGV4OiBJbnQsIGluZGV4OiBJbnQpOiBMb25nID0gewogICAgMHg2MDAwMDAwMCB8IFNlcXVlbnRpYWxMYW5lQm91bmRhcnkuZmxhdHRlbklkKGxhbmVCb3VuZGFyeUdyb3VwSWQsIHBhcmFsbGVsSW5kZXgpIDw8IDQgJiAweGZmZmZmZmYwIHwgaW5kZXggJiAweDAwMDAwMDBmCiAgfQp9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlIEVJZCA9IExhbmVJZAogIHR5cGUgVklkID0gTGFuZUNvbm5lY3RvcklkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBtc2cgPSBzIlx0QWxpZ25CeVN0b3BMaW5lOiBzdG9wIGxpbmVzICRzdG9wTGluZXMgZG8gbm90IGludGVyc2VjdCBhbGwgdHJhdmVyc2FsIGxpbmVzICRsaW5lcyIKICAgICAgICAgIGxvZ2dlci53YXJuKG1zZykK</text>
+        <text encoding="base64">ICB0eXBlIEVJZCA9IExhbmVJZAogIHR5cGUgVklkID0gTGFuZUNvbm5lY3RvcklkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBtc2cgPSBzIlx0QWxpZ25CeVN0b3BMaW5lOiBzdG9wIGxpbmVzICRzdG9wTGluZXMgZG8gbm90IGludGVyc2VjdCBhbGwgdHJhdmVyc2FsIGxpbmVzICRsaW5lcyIKICAgICAgICAgIGxvZ2dlci53YXJuKG1zZykK</text>
