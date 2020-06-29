@@ -44,10 +44,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/road/LaneBoundary.scala" timestamp="1593415897500">
-        <mark key="[" line="34" column="80" />
-        <mark key="]" line="34" column="80" />
-        <mark key="." line="34" column="79" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/road/LaneBoundary.scala" timestamp="1593417756449">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
         <mark key="^" line="34" column="80" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1593416194722">
@@ -74,6 +74,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1593417761976">
+        <mark key="[" line="234" column="55" />
+        <mark key="]" line="234" column="55" />
+        <mark key="." line="234" column="55" />
+        <mark key="^" line="234" column="43" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/ByIntersection.scala" timestamp="1593342612385">
         <mark key="[" line="55" column="66" />
         <mark key="]" line="55" column="66" />
@@ -97,7 +103,9 @@
         <mark key="]" line="223" column="0" />
         <mark key="." line="223" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParsePBFRoad.scala" timestamp="1593411606859" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParsePBFRoad.scala" timestamp="1593417822422">
+        <mark key="[" line="465" column="29" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1593406487089" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/NaviDirCalculator.scala" timestamp="1593343404317" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/IdManager.scala" timestamp="1593416206474">
@@ -156,11 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICJwcm90by9sYW5lLnByb3RvIjsK</text>
+      <register name="&quot;" type="4">
+        <text>laneGroupId</text>
       </register>
       <register name="-" type="4">
-        <text>lane_group_id</text>
+        <text>laneGroupId</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
