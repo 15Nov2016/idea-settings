@@ -58,12 +58,6 @@
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ReviseCursorGroupSuite.scala" timestamp="1592828355973">
-        <mark key="[" line="17" column="86" />
-        <mark key="]" line="17" column="86" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="17" column="86" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/lane.proto" timestamp="1593313782503">
         <mark key="[" line="34" column="6" />
         <mark key="]" line="35" column="24" />
@@ -80,6 +74,10 @@
         <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1593335846328" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1593406487089" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" timestamp="1593406505455">
+        <mark key="[" line="195" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/NaviDirCalculator.scala" timestamp="1593343404317" />
       <file name="/Dummy.scala" timestamp="1593343617771">
         <mark key="[" line="0" column="0" />
