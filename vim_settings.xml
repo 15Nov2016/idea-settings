@@ -103,24 +103,12 @@
         <mark key="]" line="223" column="0" />
         <mark key="." line="223" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParsePBFRoad.scala" timestamp="1593431849215">
-        <mark key="[" line="492" column="64" />
-        <mark key="]" line="492" column="101" />
-        <mark key="^" line="492" column="101" />
-        <mark key="." line="492" column="100" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1593432363636">
-        <mark key="[" line="417" column="103" />
-        <mark key="]" line="417" column="122" />
-        <mark key="^" line="417" column="122" />
-        <mark key="." line="417" column="121" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1593406487089" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/NaviDirCalculator.scala" timestamp="1593343404317" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/IdManager.scala" timestamp="1593416206474">
         <mark key="^" line="209" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1593432115755">
+      <file name="/fragment.java" timestamp="1593433863852">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
