@@ -44,10 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/road/LaneBoundary.scala" timestamp="1593411756291">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/road/LaneBoundary.scala" timestamp="1593414551681">
+        <mark key="[" line="34" column="80" />
+        <mark key="]" line="34" column="80" />
+        <mark key="." line="34" column="79" />
+        <mark key="^" line="34" column="80" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1593412608408">
         <mark key="[" line="197" column="17" />
@@ -154,10 +155,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">ZXh0ZW5kcyBUcmFjZWFibGVJZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">ZXh0ZW5kcyBUcmFjZWFibGVJZCA=</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
