@@ -69,8 +69,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/base.proto" timestamp="1593417189816">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/base.proto" timestamp="1593519732092">
+        <mark key="[" line="34" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -86,11 +86,10 @@
         <mark key="." line="55" column="66" />
         <mark key="^" line="55" column="67" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/lane.proto" timestamp="1593417203246">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/lane.proto" timestamp="1593519721942">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/bitmap/BitmapGenerator.scala" timestamp="1593411493396">
         <mark key="[" line="163" column="30" />
@@ -161,8 +160,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(, TileId.THE_WHOLE_WORLD)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(, TileId.THE_WHOLE_WORLD)</text>
@@ -174,19 +173,19 @@
         <text encoding="base64">ICAgICAgdmFsIHJlcyA9IElkVHJhY2luZy50cmFjZUZpbmFsKExhbmVCb3JkZXJJZCgyODU4MCwgVGlsZUlkLlRIRV9XSE9MRV9XT1JMRCksIGlkTWFuYWdlci50cmFjZVJlY29yZHMudG9NYXAsIHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHBiZlNlcUJvcmRlcnMuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJwcm90by9sYW5lLnByb3RvIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly90aGlzIHNob3VsZCBiZSByZW5hbWVkIHRvIExhbmVCb3VuZGFyeUdyb3VwSWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHBiZlNlcUJvcmRlcnMuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJwcm90by9sYW5lLnByb3RvIjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -198,7 +197,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGFuZUJvcmRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
