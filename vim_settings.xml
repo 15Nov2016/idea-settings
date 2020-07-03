@@ -56,13 +56,30 @@
         <mark key="." line="98" column="41" />
         <mark key="^" line="98" column="42" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/SplitSearch.scala" timestamp="1593335846328" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/lane.proto" timestamp="1593768139659">
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/bitmap/BitmapGenerator.scala" timestamp="1593411493396">
+        <mark key="[" line="163" column="30" />
+        <mark key="]" line="152" column="40" />
+        <mark key="^" line="152" column="40" />
+        <mark key="." line="163" column="40" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1593347770122">
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" timestamp="1593411170688">
         <mark key="'" line="197" column="36" />
         <mark key="[" line="197" column="27" />
         <mark key="]" line="203" column="45" />
         <mark key="^" line="203" column="45" />
         <mark key="." line="203" column="44" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/IdManager.scala" timestamp="1593416206474">
+        <mark key="^" line="209" column="40" />
       </file>
       <file name="/Dummy.scala" timestamp="1593343617771">
         <mark key="[" line="0" column="0" />
@@ -73,10 +90,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1593417761976">
-        <mark key="[" line="234" column="55" />
-        <mark key="]" line="234" column="55" />
-        <mark key="." line="234" column="55" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1593767975722">
+        <mark key="[" line="890" column="12" />
+        <mark key="]" line="890" column="12" />
+        <mark key="." line="890" column="12" />
         <mark key="^" line="234" column="43" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/splitsearch/ByIntersection.scala" timestamp="1593342612385">
@@ -84,27 +101,6 @@
         <mark key="]" line="55" column="66" />
         <mark key="." line="55" column="66" />
         <mark key="^" line="55" column="67" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/lane.proto" timestamp="1593519721942">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/bitmap/BitmapGenerator.scala" timestamp="1593411493396">
-        <mark key="[" line="163" column="30" />
-        <mark key="]" line="152" column="40" />
-        <mark key="^" line="152" column="40" />
-        <mark key="." line="163" column="40" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1593334377417" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1593347770122">
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/store/serialize/OSMSerializable.scala" timestamp="1593406487089" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/NaviDirCalculator.scala" timestamp="1593343404317" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/IdManager.scala" timestamp="1593416206474">
-        <mark key="^" line="209" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1593433863852">
         <mark key="[" line="0" column="0" />
@@ -159,11 +155,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LaneBoundaryId</text>
       </register>
       <register name="-" type="4">
-        <text>(, TileId.THE_WHOLE_WORLD)</text>
+        <text>LaneBoundaryId</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
