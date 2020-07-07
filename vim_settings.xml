@@ -59,10 +59,10 @@
         <mark key="." line="98" column="41" />
         <mark key="^" line="98" column="42" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1594106995382">
-        <mark key="[" line="557" column="0" />
-        <mark key="]" line="521" column="0" />
-        <mark key="." line="521" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1594108135962">
+        <mark key="[" line="544" column="39" />
+        <mark key="]" line="544" column="39" />
+        <mark key="." line="544" column="39" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssemblerSuite.scala" timestamp="1593825095628">
         <mark key="[" line="133" column="109" />
@@ -160,11 +160,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMK</text>
+      <register name="&quot;" type="4">
+        <text>indexOf</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHJlcyA9IA==</text>
+        <text>indexOf</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
