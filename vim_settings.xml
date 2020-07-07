@@ -50,8 +50,9 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="34" column="80" />
       </file>
-      <file name="/a.dummy" timestamp="1594027028837">
-        <mark key="[" line="0" column="10" />
+      <file name="/a.dummy" timestamp="1594110220303">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/Transform.scala" timestamp="1593416194722">
         <mark key="[" line="81" column="50" />
@@ -60,9 +61,9 @@
         <mark key="^" line="98" column="42" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1594108147919">
-        <mark key="[" line="544" column="50" />
-        <mark key="]" line="544" column="39" />
-        <mark key="." line="544" column="39" />
+        <mark key="[" line="532" column="50" />
+        <mark key="]" line="532" column="39" />
+        <mark key="." line="532" column="39" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssemblerSuite.scala" timestamp="1593825095628">
         <mark key="[" line="133" column="109" />
@@ -74,6 +75,7 @@
         <mark key="]" line="83" column="4" />
         <mark key="." line="83" column="4" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Utils.scala" timestamp="1594109574403" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/bitmap/BitmapGenerator.scala" timestamp="1593411493396">
         <mark key="[" line="163" column="30" />
         <mark key="]" line="152" column="40" />
@@ -106,8 +108,12 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1594027369472" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1594024444536" />
-      <file name="/fragment.java" timestamp="1594092866036">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Spatialize.scala" timestamp="1594110482031">
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1594110499036">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -156,15 +162,16 @@
       <jump line="344" column="144" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" />
       <jump line="403" column="60" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/divergentArea.scala" />
       <jump line="198" column="36" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" />
+      <jump line="0" column="8" filename="/a.dummy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>indexOf</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>indexOf</text>
+        <text>lc</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -172,32 +179,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBMYW5lQm91bmRhcnkoCiAgICAgICAgICAgICAgICBMYW5lQm91bmRhcnlJZChTZXF1ZW50aWFsTGFuZUJvdW5kYXJ5SWQoTGFuZUJvdW5kYXJ5R3JvdXBJZChMYW5lR3JvdXBJZCgzLCBmYWxzZSwgMCksIDEpLCAwKSwwKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBMYW5lQm9yZGVyKAogICAgICAgICAgICAgICAgNiwK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZ2V0VHJ1ZUN0b3JJbmRleCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbmV4dExjID0gbmV4dExjT3B0LmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxiZ0lkID1MYW5lQm91bmRhcnlHcm91cElkKGxhbmVHcm91cElkMSwgMCkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHZhbCBleHRlbmRMYk9wdCA9CiAgICAgICAgICAgICAgICAgICAgICAobmV4dExjLmxhbmVCb3JkZXJMZWZ0ICsrIG5leHRMYy5sYW5lQm9yZGVyUmlnaHQpLmZpbmQocmVmID0+IGlzQ29ubmVjdGVkKHJlZi5sYW5lQm9yZGVySWQsIGxiKSkKICAgICAgICAgICAgICAgICAgICBpZiAoZXh0ZW5kTGJPcHQuaXNEZWZpbmVkKSB7CiAgICAgICAgICAgICAgICAgICAgICB2YWwgZXh0ZW5kTGIgPSBleHRlbmRMYk9wdC5nZXQubGFuZUJvcmRlcklk</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxiSWQgPSBMYW5lQm91bmRhcnlJZChTZXF1ZW50aWFsTGFuZUJvdW5kYXJ5SWQoTGFuZUJvdW5kYXJ5R3JvdXBJZChMYW5lR3JvdXBJZChSb2FkSWQoMTgsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpLGZhbHNlLDApLDMpLDApLDApCiAgICAgIHZhbCByZXMgPSBJZFRyYWNpbmcudHJhY2VGaW5hbChMYW5lQm9yZGVySWQoMjg1ODAsIFRpbGVJZC5USEVfV0hPTEVfV09STEQpLCBpZE1hbmFnZXIudHJhY2VSZWNvcmRzLnRvTWFwLCB0cnVlKQogICAgICB2YWwgcmVzMiA9IElkVHJhY2luZy50cmFjZUZpbmFsKGxiSWQsIGlkTWFuYWdlci50cmFjZVJlY29yZHMudG9NYXAsIHRydWUpCiAgICAgIHByaW50bG4ocmVzKQogICAgICBwcmludGxuKHJlczIp</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgbGJSZWYgPSAobGMubGFuZUJvcmRlckxlZnQgKysgbGMubGFuZUJvcmRlclJpZ2h0KS5maW5kKF8ubGFuZUJvcmRlcklkID09IGxiKQogICAgICAgICAgICAgIGlmIChsYlJlZi5pc0RlZmluZWQpIHsKICAgICAgICAgICAgICAgIHZhbCByZWYgPSBsYlJlZi5nZXQKICAgICAgICAgICAgICAgIHZhbCBvcHQgPQogICAgICAgICAgICAgICAgICBpZiAoaXNGb3J3YXJkKQogICAgICAgICAgICAgICAgICAgIChsYy5sYW5lQm9yZGVyTGVmdCArKyBsYy5sYW5lQm9yZGVyUmlnaHQpCiAgICAgICAgICAgICAgICAgICAgICAuZmluZChyID0+IGlzQ29ubmVjdGVkKHIubGFuZUJvcmRlcklkLCBsYikgJiYgcmVmLnRIZWFkIDwgci50SGVhZCkKICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIChsYy5sYW5lQm9yZGVyTGVmdCArKyBsYy5sYW5lQm9yZGVyUmlnaHQpCiAgICAgICAgICAgICAgICAgICAgICAuZmluZChyID0+IGlzQ29ubmVjdGVkKHIubGFuZUJvcmRlcklkLCBsYikgJiYgcmVmLnRIZWFkID4gci50SGVhZCkKICAgICAgICAgICAgICAgIGlmIChvcHQuaXNEZWZpbmVkKSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBTb21lKChsYywgb3B0LmdldC5sYW5lQm9yZGVySWQpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
