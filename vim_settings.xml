@@ -77,10 +77,6 @@
         <mark key="^" line="152" column="40" />
         <mark key="." line="163" column="40" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1593347770122">
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1593774744268">
         <mark key="[" line="419" column="0" />
         <mark key="]" line="419" column="0" />
@@ -98,12 +94,13 @@
       <file name="/Dummy.scala" timestamp="1594106272942">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneBorder.scala" timestamp="1594126470955" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/base.proto" timestamp="1593519732092">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1594027369472" />
-      <file name="/fragment.java" timestamp="1594110499036">
+      <file name="/fragment.java" timestamp="1594124352185">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
