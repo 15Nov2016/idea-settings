@@ -63,6 +63,9 @@
         <mark key="]" line="133" column="110" />
         <mark key="." line="133" column="110" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/LbRefManager.scala" timestamp="1594380224972">
+        <mark key="[" line="21" column="24" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="7" />
@@ -83,11 +86,11 @@
       <file name="/Dummy.scala" timestamp="1594106272942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594375204554">
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="55" />
-        <mark key="." line="40" column="55" />
-        <mark key="^" line="16" column="27" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594380448103">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1594210430100">
         <mark key="[" line="0" column="0" />
@@ -144,48 +147,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBzcGFjZTogQ3Vyc29yU3BhY2VPbklyLCA=</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBzcGFjZTogQ3Vyc29yU3BhY2VPbklyLCA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
-      <register name="0" type="4">
-        <text>VirtualLbCandidate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgY3Vyc29yQ29ubmVjdEluZm8obGluZS5wb2ludHMuaGVhZCkuXzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGoK</text>
+        <text encoding="base64">ICAgICAgY3Q6IENvb3JkaW5hdGVUcmFuc2Zvcm0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhbmVCb3JkZXIuZ2VvbWV0cnkucHRzLmhlYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhbmVCb3JkZXIuZ2VvbWV0cnkucHRzLmxhc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWkubW9tZW50YS5oZG1hcC5uZXh1cy5weWxvbi5pci5DYXN0Q29udGV4dC5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="9" type="2">
-        <text>import ai.momenta.hdmap.nexus.pylon.geometry.{Point, PolyLine}
-import ai.momenta.hdmap.nexus.pylon.ir.base.LaneCenter.LaneCenterRaw
-import ai.momenta.hdmap.nexus.pylon.ir.base._
-import ai.momenta.hdmap.nexus.pylon.ir.partition._
-import ai.momenta.hdmap.nexus.pylon.ir.road.{BorderType, LaneLineColor, LaneLineType}
-import ai.momenta.hdmap.nexus.pylon.procedure.TestTransform</text>
+        <text encoding="base64">ICAgICAgICAgIGxhbmVCb3JkZXIuZ2VvbWV0cnkucHRzLmhlYWQK</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
