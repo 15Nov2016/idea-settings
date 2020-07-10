@@ -74,6 +74,11 @@
         <mark key="." line="419" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594105483455" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/OSMAssembler.scala" timestamp="1594030649880">
         <mark key="'" line="197" column="36" />
         <mark key="[" line="229" column="48" />
@@ -86,10 +91,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneBorder.scala" timestamp="1594126470955" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-binary/src/main/proto/proto/base.proto" timestamp="1593519732092">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/assemble/PBFAssembler.scala" timestamp="1594027369472" />
       <file name="/fragment.java" timestamp="1594210430100">
         <mark key="[" line="0" column="0" />
@@ -145,11 +146,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ReplenishCandidate</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>ReplenishCandidate</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
