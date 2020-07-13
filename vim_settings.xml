@@ -100,14 +100,13 @@
         <mark key="^" line="203" column="45" />
         <mark key="." line="203" column="44" />
       </file>
-      <file name="/Dummy.scala" timestamp="1594626659870">
+      <file name="/Dummy.scala" timestamp="1594628707944">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594628038362">
-        <mark key="[" line="172" column="53" />
-        <mark key="]" line="172" column="53" />
-        <mark key="." line="172" column="53" />
-        <mark key="^" line="135" column="18" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594628482533">
+        <mark key="[" line="139" column="11" />
+        <mark key="]" line="137" column="14" />
+        <mark key="." line="137" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1594610277516">
         <mark key="[" line="0" column="0" />
@@ -164,10 +163,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>419932</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>419932</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
