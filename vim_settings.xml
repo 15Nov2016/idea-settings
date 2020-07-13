@@ -100,13 +100,13 @@
         <mark key="^" line="203" column="45" />
         <mark key="." line="203" column="44" />
       </file>
-      <file name="/Dummy.scala" timestamp="1594628707944">
+      <file name="/Dummy.scala" timestamp="1594630090106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594628482533">
-        <mark key="[" line="139" column="11" />
-        <mark key="]" line="137" column="14" />
-        <mark key="." line="137" column="14" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594629686671">
+        <mark key="[" line="188" column="19" />
+        <mark key="]" line="188" column="19" />
+        <mark key="." line="188" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1594610277516">
         <mark key="[" line="0" column="0" />
@@ -163,10 +163,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -175,33 +175,33 @@
         <text encoding="base64">ICAgICAgdmFsIHNlYzEgPSBzZWN0aW9ucy5maW5kKF8ubGluZXMuY29udGFpbnMobDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bGluZXMKICAgICAgICAuZmxhdE1hcChfLnBvaW50cykKICAgICAgICAuZmlsdGVyKGkgPT4KICAgICAgICAgIGk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnRDdXJzb3IgPSBDdXJzb3JPbkxiKHNwYWNlLCBsYW5lQm9yZGVyLmlkLCBsYW5lQm9yZGVyLmdlb21ldHJ5LmdldFN0YXJ0TG9jYXRpb24pCiAgICAgICAgdmFsIGVuZEN1cnNvciA9IEN1cnNvck9uTGIoc3BhY2UsIGxhbmVCb3JkZXIuaWQsIGxhbmVCb3JkZXIuZ2VvbWV0cnkuZ2V0RW5kTG9jYXRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcuc3BsaXRzZWFyY2guU3BsaXRTZWFyY2gubG9nZ2VyCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">bGluZXMKICAgICAgICAuZmxhdE1hcChfLnBvaW50cykKICAgICAgICAuZmlsdGVyKGkgPT4KICAgICAgICAgIGk=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLnNlY3Rpb25pbmcuc3BsaXRzZWFyY2guU3BsaXRTZWFyY2gubG9nZ2VyCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaWYoaW4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>dexOfLine == -1){
         val a = 1
       }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
