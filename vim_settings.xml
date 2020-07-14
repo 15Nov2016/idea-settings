@@ -67,11 +67,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594710421625">
-        <mark key="[" line="91" column="48" />
-        <mark key="]" line="91" column="47" />
-        <mark key="." line="91" column="46" />
-        <mark key="^" line="91" column="47" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594711687535">
+        <mark key="[" line="100" column="28" />
+        <mark key="]" line="100" column="77" />
+        <mark key="." line="100" column="76" />
+        <mark key="^" line="100" column="77" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
         <mark key="[" line="2" column="7" />
@@ -89,6 +89,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594711103777">
+        <mark key="[" line="189" column="85" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594707315324">
         <mark key="[" line="48" column="28" />
@@ -161,10 +164,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sx = 1</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>sx = 1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
