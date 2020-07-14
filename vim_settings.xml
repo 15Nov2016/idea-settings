@@ -67,10 +67,10 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594715731173">
-        <mark key="[" line="149" column="6" />
-        <mark key="]" line="134" column="8" />
-        <mark key="." line="134" column="8" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594716703495">
+        <mark key="[" line="114" column="17" />
+        <mark key="]" line="114" column="12" />
+        <mark key="." line="114" column="12" />
         <mark key="^" line="135" column="19" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
@@ -164,7 +164,8 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWwgYXV4UG9seUxpbmVzOiBPcHRpb25bUG9seUxpbmVdID0g</text>
+        <text>val y = 1 - 4 / math.pow(length, 2) * math.pow(x - length / 2, 2)
+            y</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWwgYXV4UG9seUxpbmVzOiBPcHRpb25bUG9seUxpbmVdID0g</text>
@@ -175,32 +176,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBzdGFydCA9IHNwYWNlLmdldFBvaW50KGNhbmRpZGF0ZS5zdGFydCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5TGluZVNoYXBlKGJhc2VMaW5lLCBhdXhQb2x5TGluZXMpCg==</text>
+      <register name="1" type="4">
+        <text>val y = 1 - 4 / math.pow(length, 2) * math.pow(x - length / 2, 2)
+            y</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIChTZXEoYmFzZSkgKysgc2hpZnRlZEF1eHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3B5TGluZVNoYXBlKGJhc2VMaW5lLCBhdXhQb2x5TGluZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIChTZXEoYmFzZSkgKysgc2hpZnRlZEF1eHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIG11bHRpcGx5KHY6IERvdWJsZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIG11bHRpcGx5KHY6IERvdWJsZSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>endCursors</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBlID0gdi5wb2ludHMubGFzdAo=</text>
+        <text>endCursors</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29yT3B0ID0gZW5kQ3Vyc29ycy5oZWFkT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBlID0gdi5wb2ludHMubGFzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29ycyA9IGN1cnNvckNvbm5lY3RJbmZvLmtleXMudG9TZXEuZmlsdGVyKGMgPT4gY3Vyc29yQ29ubmVjdEluZm8oYykuXzIuaXNFbXB0eSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29yT3B0ID0gZW5kQ3Vyc29ycy5oZWFkT3B0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
