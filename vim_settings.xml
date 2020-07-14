@@ -67,11 +67,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594712914622">
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="99" column="49" />
-        <mark key="." line="99" column="48" />
-        <mark key="^" line="99" column="49" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594714341146">
+        <mark key="[" line="104" column="85" />
+        <mark key="]" line="99" column="37" />
+        <mark key="." line="99" column="36" />
+        <mark key="^" line="99" column="37" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
         <mark key="[" line="2" column="7" />
@@ -164,10 +164,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>foldLeft</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>foldLeft</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
