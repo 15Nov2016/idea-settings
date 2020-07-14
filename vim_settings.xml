@@ -67,11 +67,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594696764757">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="27" />
-        <mark key="." line="57" column="26" />
-        <mark key="^" line="57" column="27" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594703202952">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
         <mark key="[" line="2" column="7" />
@@ -97,7 +97,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594697133989">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594697340807">
         <mark key="[" line="313" column="71" />
         <mark key="]" line="313" column="71" />
         <mark key="^" line="126" column="78" />
@@ -164,11 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>endCursors</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>toGeoJson</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
