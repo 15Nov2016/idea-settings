@@ -67,11 +67,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594714341146">
-        <mark key="[" line="104" column="85" />
-        <mark key="]" line="99" column="37" />
-        <mark key="." line="99" column="36" />
-        <mark key="^" line="99" column="37" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594715731173">
+        <mark key="[" line="149" column="6" />
+        <mark key="]" line="134" column="8" />
+        <mark key="." line="134" column="8" />
+        <mark key="^" line="135" column="19" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
         <mark key="[" line="2" column="7" />
@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594711103777">
         <mark key="[" line="189" column="85" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594707315324">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594715254340">
         <mark key="[" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594697340807">
@@ -164,10 +164,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>foldLeft</text>
+        <text encoding="base64">YWwgYXV4UG9seUxpbmVzOiBPcHRpb25bUG9seUxpbmVdID0g</text>
       </register>
       <register name="-" type="4">
-        <text>foldLeft</text>
+        <text encoding="base64">YWwgYXV4UG9seUxpbmVzOiBPcHRpb25bUG9seUxpbmVdID0g</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -176,31 +176,31 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCBzdGFydCA9IHNwYWNlLmdldFBvaW50KGNhbmRpZGF0ZS5zdGFydCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICBjb3B5TGluZVNoYXBlKGJhc2VMaW5lLCBhdXhQb2x5TGluZXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text>endCursors</text>
+        <text encoding="base64">ICAgICAgICAgIChTZXEoYmFzZSkgKysgc2hpZnRlZEF1eHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBlID0gdi5wb2ludHMubGFzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29yT3B0ID0gZW5kQ3Vyc29ycy5oZWFkT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIG11bHRpcGx5KHY6IERvdWJsZSk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29ycyA9IGN1cnNvckNvbm5lY3RJbmZvLmtleXMudG9TZXEuZmlsdGVyKGMgPT4gY3Vyc29yQ29ubmVjdEluZm8oYykuXzIuaXNFbXB0eSkK</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text>endCursors</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5kQ3Vyc29ycy5zaXplID4gMSkgewogICAgICAgICAgbG9nZ2VyLndhcm4ocyJWTGJDYW5kaWRhdGU6JHtjYW5kaWRhdGV9J3MgbGluZXM6JHtsaW5lc30gaGF2ZSBtb3JlIHRoYW4gb25lIGVuZEN1cnNvcjoke2VuZEN1cnNvcnN9JyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBlID0gdi5wb2ludHMubGFzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgIC4obGFuZUNlbnRlckdyYXBoLmdldFZlcnRleChzKS5nZXQsIGxhbmVDZW50ZXJHcmFwaC5nZXRWZXJ0ZXgoZSkuZ2V0LCBERVBUSF9MSU1JVCkuaGVhZE9wdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29yT3B0ID0gZW5kQ3Vyc29ycy5oZWFkT3B0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3JhcGggPUdyYXBkaC5hcHBseShsaW5lcy5tYXAobGluZSA9PiAobGluZSwgKGxpbmUucG9pbnRzLmhlYWQsIGxpbmUucG9pbnRzLmxhc3QpKSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29ycyA9IGN1cnNvckNvbm5lY3RJbmZvLmtleXMudG9TZXEuZmlsdGVyKGMgPT4gY3Vyc29yQ29ubmVjdEluZm8oYykuXzIuaXNFbXB0eSkK</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
