@@ -91,10 +91,10 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594780086873">
-        <mark key="[" line="124" column="12" />
-        <mark key="]" line="124" column="12" />
-        <mark key="." line="124" column="12" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594781787738">
+        <mark key="[" line="130" column="40" />
+        <mark key="]" line="130" column="40" />
+        <mark key="." line="130" column="40" />
         <mark key="^" line="139" column="55" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
@@ -161,10 +161,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMA==</text>
+        <text>/length</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>/length</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
