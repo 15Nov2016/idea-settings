@@ -91,11 +91,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594732527342">
-        <mark key="[" line="134" column="43" />
-        <mark key="]" line="136" column="84" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="135" column="35" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594780086873">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="12" />
+        <mark key="." line="124" column="12" />
+        <mark key="^" line="139" column="55" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594697340807">
@@ -160,11 +160,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHMpLmRpc3RpbmN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMA==</text>
       </register>
       <register name="-" type="4">
-        <text>Option[PolyLine]</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -173,32 +173,32 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHMpLmRpc3RpbmN0Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">aWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYoeDw9IGxlbmd0aCAvMikKICAgICAgICAgICAgICB4L2xlbmd0aC8yCiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAobGVuZ3RoIC0geCkvbGVuZ3RoLzI=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHMpLmRpc3RpbmN0Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>val y = 1 - 4 / math.pow(length, 2) * math.pow(x - length / 2, 2)
             y</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb3B5TGluZVNoYXBlKGJhc2VMaW5lLCBhdXhQb2x5TGluZXMpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIChTZXEoYmFzZSkgKysgc2hpZnRlZEF1eHMpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmIG11bHRpcGx5KHY6IERvdWJsZSk6Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
-      </register>
-      <register name="7" type="2">
-        <text>endCursors</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBlID0gdi5wb2ludHMubGFzdAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW5kQ3Vyc29yT3B0ID0gZW5kQ3Vyc29ycy5oZWFkT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
