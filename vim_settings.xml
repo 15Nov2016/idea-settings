@@ -91,11 +91,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594791565494">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="96" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="151" column="116" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594792187414">
+        <mark key="[" line="181" column="78" />
+        <mark key="]" line="181" column="88" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="177" column="51" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594697340807">
@@ -161,16 +161,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgZGVsdGFzOiBTZXFbUG9pbnRdID0gc2hpZnRlZEF1eHNIZWFkLm1hcChwbCA9PiBwbC5nZXRQb2ludChwbC5wcm9qZWN0KHApKSAtIHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHNIZWFkKS5kaXN0aW5jdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgZGVsdGFzOiBTZXFbUG9pbnRdID0gc2hpZnRlZEF1eHNIZWFkLm1hcChwbCA9PiBwbC5nZXRQb2ludChwbC5wcm9qZWN0KHApKSAtIHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHNIZWFkKS5kaXN0aW5jdAo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">aWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMA==</text>
