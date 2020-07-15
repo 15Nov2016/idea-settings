@@ -47,31 +47,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594177589380">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1594110220303">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="0" column="8" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1594643220258" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1594642428306" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/LbRefManager.scala" timestamp="1594630673466">
         <mark key="[" line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/reSortEdges.scala" timestamp="1594622713705" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Utils.scala" timestamp="1594622424795" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1594641971171">
-        <mark key="[" line="190" column="73" />
-        <mark key="]" line="190" column="72" />
-        <mark key="^" line="190" column="72" />
-        <mark key="." line="190" column="71" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594716703495">
-        <mark key="[" line="114" column="17" />
-        <mark key="]" line="114" column="12" />
-        <mark key="." line="114" column="12" />
-        <mark key="^" line="135" column="19" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
         <mark key="[" line="2" column="7" />
@@ -84,7 +63,6 @@
         <mark key="." line="78" column="6" />
         <mark key="^" line="77" column="25" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="/Dummy.scala" timestamp="1594646651819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -96,6 +74,30 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594715254340">
         <mark key="[" line="48" column="28" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/test.java" timestamp="1594731921534" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/performVLbCandidate.scala" timestamp="1594640624026">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594177589380">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/reSortEdges.scala" timestamp="1594622713705" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Utils.scala" timestamp="1594622424795" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1594641971171">
+        <mark key="[" line="190" column="73" />
+        <mark key="]" line="190" column="72" />
+        <mark key="^" line="190" column="72" />
+        <mark key="." line="190" column="71" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594732527342">
+        <mark key="[" line="134" column="43" />
+        <mark key="]" line="136" column="84" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="135" column="35" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594697340807">
         <mark key="[" line="313" column="71" />
         <mark key="]" line="313" column="71" />
@@ -105,11 +107,6 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1594644444638" />
       <file name="/fragment.java" timestamp="1594610277516">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/performVLbCandidate.scala" timestamp="1594640624026">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1594645217015" />
     </filemarks>
@@ -163,18 +160,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>val y = 1 - 4 / math.pow(length, 2) * math.pow(x - length / 2, 2)
-            y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHMpLmRpc3RpbmN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWwgYXV4UG9seUxpbmVzOiBPcHRpb25bUG9seUxpbmVdID0g</text>
+        <text>Option[PolyLine]</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzdGFydCA9IHNwYWNlLmdldFBvaW50KGNhbmRpZGF0ZS5zdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHMpLmRpc3RpbmN0Cg==</text>
       </register>
       <register name="1" type="4">
         <text>val y = 1 - 4 / math.pow(length, 2) * math.pow(x - length / 2, 2)
