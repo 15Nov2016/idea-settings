@@ -85,11 +85,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594886337394">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="2" column="65" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594887080409">
+        <mark key="[" line="154" column="15" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="153" column="15" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594882781525">
@@ -161,11 +161,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Orientation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwICsgZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Orientation</text>
+        <text>val d =</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -173,32 +173,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uZ2VvbWV0cnkuR2VvbWV0cnkuT3JpZW50YXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwICsgZAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CmltcG9ydCBhaS5tb21lbnRhLmhkbWFwLm5leHVzLnB5bG9uLmdlb21ldHJ5Lg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBmdW5jMSh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICB2YWwgeSA9IDEgLSA0IC8gbWF0aC5wb3cobGVuZ3RoLCAyKSAqIG1hdGgucG93KHggLSBsZW5ndGggLyAyLCAyKQogICAgICAgICAgICB5CiAgICAgICAgICB9CiAgICAgICAgICBkZWYgZnVuYzIoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgeAogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmMzKHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIGlmKHg8PSBsZW5ndGggLzIpCiAgICAgICAgICAgICAgeC9sZW5ndGgvMgogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgKGxlbmd0aCAtIHgpL2xlbmd0aC8yCiAgICAgICAgICB9CiAgICAgICAgICBkZWYgZnVuYzQoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgaWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMAogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmM1KHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIC0gbWF0aC5wb3coeCwyKSAvIG1hdGgucG93KGxlbmd0aCwyKSArMQogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmM2KHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIC0gbWF0aC5wb3cobWF0aC5FLCh4LWxlbmd0aCkvbGVuZ3RoKSAgKzEKICAgICAgICAgIH0KICAgICAgICAgIGRlZiBmdW5jNyh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICAtIG1hdGgucG93KG1hdGguRSwoeC1sZW5ndGgpKSAgKzEKICAgICAgICAgIH0KICAgICAgICAgIGRlZiBmdW5jOCh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICAtIG1hdGgucG93KG1hdGguRSwoeC1sZW5ndGgpL21hdGguRSkgICsxCiAgICAgICAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBmdW5jMSh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICB2YWwgeSA9IDEgLSA0IC8gbWF0aC5wb3cobGVuZ3RoLCAyKSAqIG1hdGgucG93KHggLSBsZW5ndGggLyAyLCAyKQogICAgICAgICAgICB5CiAgICAgICAgICB9CiAgICAgICAgICBkZWYgZnVuYzIoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgeAogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmMzKHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIGlmKHg8PSBsZW5ndGggLzIpCiAgICAgICAgICAgICAgeC9sZW5ndGgvMgogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgKGxlbmd0aCAtIHgpL2xlbmd0aC8yCiAgICAgICAgICB9CiAgICAgICAgICBkZWYgZnVuYzQoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgaWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMAogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmM1KHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIC0gbWF0aC5wb3coeCwyKSAvIG1hdGgucG93KGxlbmd0aCwyKSArMQogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmM2KHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIC0gbWF0aC5wb3cobWF0aC5FLCh4LWxlbmd0aCkvbGVuZ3RoKSAgKzEKICAgICAgICAgIH0KICAgICAgICAgIGRlZiBmdW5jNyh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICAtIG1hdGgucG93KG1hdGguRSwoeC1sZW5ndGgpKSAgKzEKICAgICAgICAgIH0KICAgICAgICAgIGRlZiBmdW5jOCh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICAtIG1hdGgucG93KG1hdGguRSwoeC1sZW5ndGgpL21hdGguRSkgICsxCiAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBmdW5jMTIoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgMAogICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxic2RkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBmdW5jMTIoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgMAogICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text>tLine.geoJson</text>
+        <text encoding="base64">ICAgIGxic2RkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9UT0RPOiBMYlJlZk1hbmFnZXIgbmVlZCBNaXNSZWZMYnMK</text>
+        <text>tLine.geoJson</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzogc2xpZGluZygyKQo=</text>
+        <text encoding="base64">ICAgICAgLy9UT0RPOiBMYlJlZk1hbmFnZXIgbmVlZCBNaXNSZWZMYnMK</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
