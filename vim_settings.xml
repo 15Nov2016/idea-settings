@@ -65,10 +65,10 @@
         <mark key="." line="78" column="6" />
         <mark key="^" line="77" column="25" />
       </file>
-      <file name="/Dummy.scala" timestamp="1594817721124">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.scala" timestamp="1594882653272">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594711103777">
         <mark key="[" line="189" column="85" />
@@ -97,11 +97,11 @@
         <mark key="^" line="144" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594880022876">
-        <mark key="[" line="325" column="77" />
-        <mark key="]" line="325" column="77" />
-        <mark key="^" line="178" column="125" />
-        <mark key="." line="325" column="77" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594882781525">
+        <mark key="[" line="312" column="56" />
+        <mark key="]" line="312" column="63" />
+        <mark key="^" line="312" column="63" />
+        <mark key="." line="312" column="62" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1594644444638" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/misreference/RemoveMisRef.scala" timestamp="1594879567289">
@@ -166,10 +166,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG1pc1JlZkxiTWFwcw==</text>
+        <text>33624</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1pc1JlZkxiTWFwcw==</text>
+        <text>33624</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -178,31 +178,31 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHNIZWFkKS5kaXN0aW5jdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy9UT0RPOiBMYlJlZk1hbmFnZXIgbmVlZCBNaXNSZWZMYnMK</text>
+        <text>tLine.geoJson</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzogc2xpZGluZygyKQo=</text>
+        <text encoding="base64">ICAgICAgLy9UT0RPOiBMYlJlZk1hbmFnZXIgbmVlZCBNaXNSZWZMYnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXJOb3QobCA9PiByZW1vdmVNaXNSZWZMYnMuY29udGFpbnMobCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzogc2xpZGluZygyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVtb3ZlTWlzUmVmTGJzID0gZmlsdGVyTGJzKHRMaW5lKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZmlsdGVyTGJzKGxpbmU6IExpbmUpOiBTZXRbTGFuZUJvcmRlcl0gPSB7CiAgICAgICAgICB2YWwgclNldCA9IGxpbmUucG9pbnRzCiAgICAgICAgICAgIC5zbGlkaW5nKDIpCiAgICAgICAgICAgIC5mbGF0TWFwIHsKICAgICAgICAgICAgICBjYXNlIFNlcShzLCBlKSA9PiBtaXNSZWZMYnMuZ2V0KHMsIGUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgLmZsYXR0ZW4KICAgICAgICAgICAgLnRvU2V0CiAgICAgICAgICByU2V0CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNvdXJjZWNvZGUuTGluZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIC5maWx0ZXJOb3QobCA9PiByZW1vdmVNaXNSZWZMYnMuY29udGFpbnMobCkpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcmVtb3ZlTWlzUmVmTGJzID0gZmlsdGVyTGJzKHRMaW5lKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgZmlsdGVyTGJzKGxpbmU6IExpbmUpOiBTZXRbTGFuZUJvcmRlcl0gPSB7CiAgICAgICAgICB2YWwgclNldCA9IGxpbmUucG9pbnRzCiAgICAgICAgICAgIC5zbGlkaW5nKDIpCiAgICAgICAgICAgIC5mbGF0TWFwIHsKICAgICAgICAgICAgICBjYXNlIFNlcShzLCBlKSA9PiBtaXNSZWZMYnMuZ2V0KHMsIGUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgLmZsYXR0ZW4KICAgICAgICAgICAgLnRvU2V0CiAgICAgICAgICByU2V0CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHNvdXJjZWNvZGUuTGluZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXJOb3QobCA9PiByZW1vdmVNaXNSZWZMYnMuY29udGFpbnMobCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
