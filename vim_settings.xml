@@ -65,7 +65,7 @@
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594897569617">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594900177320">
         <mark key="[" line="189" column="85" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594715254340">
@@ -85,11 +85,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594899200824">
-        <mark key="[" line="146" column="15" />
-        <mark key="]" line="140" column="24" />
-        <mark key="." line="140" column="23" />
-        <mark key="^" line="140" column="24" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594900647154">
+        <mark key="[" line="148" column="112" />
+        <mark key="]" line="139" column="27" />
+        <mark key="." line="139" column="26" />
+        <mark key="^" line="139" column="27" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594882781525">
@@ -162,10 +162,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>castLoc</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>castLoc</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
