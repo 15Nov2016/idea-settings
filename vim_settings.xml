@@ -54,11 +54,6 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishCandidate.scala" timestamp="1594351493110">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594646127510">
         <mark key="[" line="78" column="6" />
         <mark key="]" line="78" column="6" />
@@ -70,7 +65,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594711103777">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1594885893995">
         <mark key="[" line="189" column="85" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594715254340">
@@ -90,11 +85,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594879933731">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="144" column="20" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594886337394">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="2" column="65" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594882781525">
@@ -110,10 +105,11 @@
         <mark key="." line="107" column="3" />
         <mark key="^" line="98" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1594884439383">
+      <file name="/fragment.java" timestamp="1594884589502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/Graph.scala" timestamp="1594645217015" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Utils.scala" timestamp="1594886405461" />
     </filemarks>
     <jumps>
       <jump line="3" column="40" filename="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/test.scala" />
@@ -165,44 +161,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxic2RkCg==</text>
+      <register name="&quot;" type="4">
+        <text>Orientation</text>
       </register>
       <register name="-" type="4">
-        <text>33624</text>
+        <text>Orientation</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBwdHMgPSBjb3B5U2hhcGUoc3BhY2luZyhiYXNlLCBTUEFDSU5HX0RJU1RBTkNFKSwgc2hpZnRlZEF1eHNIZWFkKS5kaXN0aW5jdAo=</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uZ2VvbWV0cnkuR2VvbWV0cnkuT3JpZW50YXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxic2RkCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmltcG9ydCBhaS5tb21lbnRhLmhkbWFwLm5leHVzLnB5bG9uLmdlb21ldHJ5Lg==</text>
       </register>
       <register name="2" type="2">
-        <text>tLine.geoJson</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy9UT0RPOiBMYlJlZk1hbmFnZXIgbmVlZCBNaXNSZWZMYnMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzogc2xpZGluZygyKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXJOb3QobCA9PiByZW1vdmVNaXNSZWZMYnMuY29udGFpbnMobCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVtb3ZlTWlzUmVmTGJzID0gZmlsdGVyTGJzKHRMaW5lKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlZiBmdW5jMSh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICB2YWwgeSA9IDEgLSA0IC8gbWF0aC5wb3cobGVuZ3RoLCAyKSAqIG1hdGgucG93KHggLSBsZW5ndGggLyAyLCAyKQogICAgICAgICAgICB5CiAgICAgICAgICB9CiAgICAgICAgICBkZWYgZnVuYzIoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgeAogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmMzKHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIGlmKHg8PSBsZW5ndGggLzIpCiAgICAgICAgICAgICAgeC9sZW5ndGgvMgogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgKGxlbmd0aCAtIHgpL2xlbmd0aC8yCiAgICAgICAgICB9CiAgICAgICAgICBkZWYgZnVuYzQoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgaWYoeCA8PSAwLjkqbGVuZ3RoKSAxCiAgICAgICAgICAgIGVsc2UgKGxlbmd0aCAtIHgpL2xlbmd0aC8xMAogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmM1KHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIC0gbWF0aC5wb3coeCwyKSAvIG1hdGgucG93KGxlbmd0aCwyKSArMQogICAgICAgICAgfQogICAgICAgICAgZGVmIGZ1bmM2KHg6IERvdWJsZSkobGVuZ3RoOiBEb3VibGUpOiBEb3VibGUgPSB7CiAgICAgICAgICAgIC0gbWF0aC5wb3cobWF0aC5FLCh4LWxlbmd0aCkvbGVuZ3RoKSAgKzEKICAgICAgICAgIH0KICAgICAgICAgIGRlZiBmdW5jNyh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICAtIG1hdGgucG93KG1hdGguRSwoeC1sZW5ndGgpKSAgKzEKICAgICAgICAgIH0KICAgICAgICAgIGRlZiBmdW5jOCh4OiBEb3VibGUpKGxlbmd0aDogRG91YmxlKTogRG91YmxlID0gewogICAgICAgICAgICAtIG1hdGgucG93KG1hdGguRSwoeC1sZW5ndGgpL21hdGguRSkgICsxCiAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlZiBmdW5jMTIoeDogRG91YmxlKShsZW5ndGg6IERvdWJsZSk6IERvdWJsZSA9IHsKICAgICAgICAgICAgMAogICAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxic2RkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text>tLine.geoJson</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZmlsdGVyTGJzKGxpbmU6IExpbmUpOiBTZXRbTGFuZUJvcmRlcl0gPSB7CiAgICAgICAgICB2YWwgclNldCA9IGxpbmUucG9pbnRzCiAgICAgICAgICAgIC5zbGlkaW5nKDIpCiAgICAgICAgICAgIC5mbGF0TWFwIHsKICAgICAgICAgICAgICBjYXNlIFNlcShzLCBlKSA9PiBtaXNSZWZMYnMuZ2V0KHMsIGUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgLmZsYXR0ZW4KICAgICAgICAgICAgLnRvU2V0CiAgICAgICAgICByU2V0CiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgLy9UT0RPOiBMYlJlZk1hbmFnZXIgbmVlZCBNaXNSZWZMYnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNvdXJjZWNvZGUuTGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzogc2xpZGluZygyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
