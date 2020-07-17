@@ -54,8 +54,8 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594646127510">
-        <mark key="[" line="78" column="6" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594965465359">
+        <mark key="[" line="118" column="0" />
         <mark key="]" line="78" column="6" />
         <mark key="." line="78" column="6" />
         <mark key="^" line="77" column="25" />
@@ -85,11 +85,11 @@
         <mark key="^" line="190" column="72" />
         <mark key="." line="190" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594956483254">
-        <mark key="[" line="216" column="5" />
-        <mark key="]" line="216" column="6" />
-        <mark key="." line="216" column="5" />
-        <mark key="^" line="216" column="6" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594965001522">
+        <mark key="[" line="206" column="8" />
+        <mark key="]" line="206" column="8" />
+        <mark key="." line="206" column="8" />
+        <mark key="^" line="202" column="18" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1594646908211" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1594902925811">
@@ -162,10 +162,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
