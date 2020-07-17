@@ -50,9 +50,15 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1594643220258" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1594879474314" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/LbRefManager.scala" timestamp="1594883607330">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594968519300">
+        <mark key="[" line="88" column="52" />
+        <mark key="]" line="88" column="53" />
+        <mark key="." line="88" column="52" />
+        <mark key="^" line="88" column="53" />
       </file>
       <file name="/Dummy.scala" timestamp="1594899434416">
         <mark key="[" line="0" column="0" />
@@ -73,8 +79,10 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/reSortEdges.scala" timestamp="1594622713705" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/spatialize/Utils.scala" timestamp="1594622424795" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1594967094248">
-        <mark key="[" line="189" column="17" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1594968442408">
+        <mark key="]" line="194" column="12" />
+        <mark key="." line="194" column="11" />
+        <mark key="^" line="194" column="12" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1594966571617">
         <mark key="[" line="211" column="0" />
@@ -151,16 +159,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>de</text>
+        <text>hashCode</text>
       </register>
       <register name="-" type="4">
-        <text>de</text>
+        <text>hashCode</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpLl8yLmZpbHRlcihfLl8yID09IE9yaWVudGF0aW9uLkxFRlQpLm1hcChfLl8xKSwK</text>
+        <text encoding="base64">ICAgIGpzb25PYmplY3QuYWRkUHJvcGVydHkoImhhc2hDb2RlIiwgdkxiQ2FuZGkuaGFzaENvZGUoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHBzID0gcG9pbnRzLm1hcChfKQo=</text>
