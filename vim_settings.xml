@@ -81,11 +81,11 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/Point.scala" timestamp="1594715254340">
         <mark key="[" line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595226229805">
-        <mark key="[" line="341" column="5" />
-        <mark key="]" line="341" column="4" />
-        <mark key="^" line="341" column="4" />
-        <mark key="." line="341" column="3" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595227908877">
+        <mark key="[" line="217" column="117" />
+        <mark key="]" line="217" column="36" />
+        <mark key="^" line="217" column="36" />
+        <mark key="." line="217" column="35" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/misreference/RemoveMisRef.scala" timestamp="1594879567289">
         <mark key="]" line="7" column="3" />
@@ -156,8 +156,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -169,31 +169,31 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCBjdXRMUGwgPWN1dFBvbHlMaW5lKGxlZnRQb2x5TGluZSkgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocmVzID09IHBvaW50cy5tYXAoXy5fMSkpewogICAgICAgICAgICAgdmFsIGEgPSAxCiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGVmIGJ5Q29udGludWVTdGF0ZWd5KCkgPSB7CiAgICAgICAgCiAgICAgIH0=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBlbHNlewovLyAgICAgICAgICAgICAgcmV0dXJuIE5vbmUKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocmVzID09IHBvaW50cy5tYXAoXy5fMSkpewogICAgICAgICAgICAgdmFsIGEgPSAxCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBlbHNlewovLyAgICAgICAgICAgICAgcmV0dXJuIE5vbmUKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJlc2QgPSBWaXN0dWFsaXplLnBvbHlMaW5lVG9HZW9KU09OKHBscykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBTZXEoeC5fMSwgeC5fMikuZmxhdHRlbgo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgYmFzZUxpbmUgPSBTb21lKFBvbHlMaW5lKFNlcShzcGFjZS5nZXRQb2ludChpLl8xLnN0YXJ0KS5nZXQsIHNwYWNlLmdldFBvaW50KGkuXzEuZW5kKS5nZXQpKSkKLy8gICAgICBTZXEoYmFzZUxpbmUsIHgpLmZsYXR0ZW4K</text>
+        <text encoding="base64">Ly8gICAgdmFsIHJlc2QgPSBWaXN0dWFsaXplLnBvbHlMaW5lVG9HZW9KU09OKHBscykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICBTZXEoeC5fMSwgeC5fMikuZmxhdHRlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
