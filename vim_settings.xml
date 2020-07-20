@@ -53,10 +53,11 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1594968442408">
-        <mark key="]" line="194" column="12" />
-        <mark key="." line="194" column="11" />
-        <mark key="^" line="194" column="12" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1595222196505">
+        <mark key="[" line="191" column="4" />
+        <mark key="]" line="191" column="72" />
+        <mark key="." line="191" column="71" />
+        <mark key="^" line="191" column="72" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595216965255">
         <mark key="[" line="268" column="7" />
