@@ -47,14 +47,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/idmanager/ObjectTrace.scala" timestamp="1595238805678">
-        <mark key="[" line="35" column="4" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/EntityId.scala" timestamp="1595239182890">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/Replenish.scala" timestamp="1595231042562" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594968519300">
         <mark key="[" line="88" column="52" />
@@ -89,12 +81,6 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1595238966833">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="55" />
-        <mark key="^" line="13" column="55" />
-        <mark key="." line="13" column="54" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595230941837">
         <mark key="[" line="330" column="75" />
         <mark key="]" line="330" column="73" />
@@ -108,8 +94,8 @@
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1595239176509">
-        <mark key="[" line="0" column="36" />
+      <file name="/fragment.java" timestamp="1595241426300">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
