@@ -59,10 +59,10 @@
         <mark key="." line="192" column="35" />
         <mark key="^" line="192" column="36" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595222720638">
-        <mark key="[" line="262" column="11" />
-        <mark key="]" line="262" column="11" />
-        <mark key="." line="262" column="11" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595225687642">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1594968519300">
         <mark key="[" line="88" column="52" />
@@ -156,8 +156,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>: Seq[((Line, Geometry.Orientation.Value), Seq[LaneBorder])]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>: Seq[((Line, Geometry.Orientation.Value), Seq[LaneBorder])]</text>
@@ -169,33 +169,31 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCBjdXRMUGwgPWN1dFBvbHlMaW5lKGxlZnRQb2x5TGluZSkgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGdlblZMYW5lQm9yZGVyKHBvbHlMaW5lOiBQb2x5TGluZSk6IExhbmVCb3JkZXIgPSB7Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHJlc2QgPSBWaXN0dWFsaXplLnBvbHlMaW5lVG9HZW9KU09OKHBscykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gMQo=</text>
+        <text encoding="base64">Ly8gICAgICBTZXEoeC5fMSwgeC5fMikuZmxhdHRlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGIgPSAxCg==</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgYmFzZUxpbmUgPSBTb21lKFBvbHlMaW5lKFNlcShzcGFjZS5nZXRQb2ludChpLl8xLnN0YXJ0KS5nZXQsIHNwYWNlLmdldFBvaW50KGkuXzEuZW5kKS5nZXQpKSkKLy8gICAgICBTZXEoYmFzZUxpbmUsIHgpLmZsYXR0ZW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNMb2NPcHQuaXNEZWZpbmVkICYmIGVMb2NPcHQuaXNEZWZpbmVkKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBhID0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBzID0gcG9pbnRzLm1hcChfKQo=</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgbGVmdHMgPQovLyAgICAgICAgaS5fMi5maWx0ZXIoXy5fMiA9PSBPcmllbnRhdGlvbi5MRUZUKS5tYXAoXy5fMSkKLy8gICAgICB2YWwgcmlnaHRzID0KLy8gICAgICAgIGkuXzIuZmlsdGVyKF8uXzIgPT0gT3JpZW50YXRpb24uUklHSFQpLm1hcChfLl8xKQovLyAgICAgIGlmKGxlZnRzLmlzRW1wdHkgJiYgcmlnaHRzLmlzRW1wdHkpewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-            None
-          }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICB2YWwgbGVmdHMgPQovLyAgICAgICAgaS5fMi5maWx0ZXIoXy5fMiA9PSBPcmllbnRhdGlvbi5MRUZUKS5tYXAoXy5fMSkKLy8gICAgICB2YWwgcmlnaHRzID0KLy8gICAgICAgIGkuXzIuZmlsdGVyKF8uXzIgPT0gT3JpZW50YXRpb24uUklHSFQpLm1hcChfLl8xKQovLyAgICAgIGlmKGxlZnRzLmlzRW1wdHkgJiYgcmlnaHRzLmlzRW1wdHkpewovLyAgICAgICAgdmFsIGEgPSAxCi8vICAgICAgfQogICAgICB2YWwgcGwgPSBnZW5lcmF0ZVBvbHlMaW5lKAogICAgICAgIGkuXzEsCiAgICAgICAgaS5fMi5maWx0ZXIoXy5fMiA9PSBPcmllbnRhdGlvbi5MRUZUKS5tYXAoXy5fMSksCiAgICAgICAgaS5fMi5maWx0ZXIoXy5fMiA9PSBPcmllbnRhdGlvbi5SSUdIVCkubWFwKF8uXzEpCiAgICAgICkKLy8gICAgICB2YWwgYmFzZUxpbmUgPSBTb21lKFBvbHlMaW5lKFNlcShzcGFjZS5nZXRQb2ludChpLl8xLnN0YXJ0KS5nZXQsIHNwYWNlLmdldFBvaW50KGkuXzEuZW5kKS5nZXQpKSkKLy8gICAgICBTZXEoYmFzZUxpbmUsIHgpLmZsYXR0ZW4KCiAgICAgIGkuXzEgLT4gcGwKLy8gICAgICBTZXEoeC5fMSwgeC5fMikuZmxhdHRlbgogICAgfSkubWFwKGkgPT4gaS5fMSAtPiBpLl8yLm1hcCh0b0lyKSkudG9NYXAKCiAgICB2YWwgcmVzOiBTZXFbKChMaW5lLCBPcmllbnRhdGlvbiksIFNlcVtMYW5lQm9yZGVyXSldID0gdkxiQ2FuZGlkYXRlcy5tYXAoaSA9PiBpLl8xIC0+IGkuXzIuZmxhdE1hcChjYW5kaSA9PiB7CiAgICAgIGNhbmRpZGF0ZTJJci5nZXQoY2FuZGkpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUodikgPT4gdgogICAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICAgIH0KICAgIH0pKQoKICAgIHJlcwoKCgovLyAgICB2YWwgcmVzZCA9IFZpc3R1YWxpemUucG9seUxpbmVUb0dlb0pTT04ocGxzKQoKICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
