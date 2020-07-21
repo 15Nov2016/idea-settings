@@ -60,16 +60,22 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/Sectioning.scala" timestamp="1595223300987" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595225779939">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595320959815">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1595232907252" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishUtils.scala" timestamp="1595246103477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595320652084">
+        <mark key="[" line="314" column="16" />
+        <mark key="]" line="314" column="26" />
+        <mark key="^" line="314" column="26" />
+        <mark key="." line="314" column="25" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1595232896666" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1595222568971">
@@ -133,11 +139,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>O</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLW1hdGgucG93KG1hdGguRSwgKHggLSBsZW5ndGgpIC8gKDIpKSArIDEK</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -146,31 +152,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgaGVhZExjSWQgPSBsY0lkcy5oZWFkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLW1hdGgucG93KG1hdGguRSwgKHggLSBsZW5ndGgpIC8gKDIpKSArIDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLW1hdGgucG93KG1hdGguRSwgKC14KSAvICgyKSkgKyAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKHN0YXJ0Q3Vyc29yLmlzRGVmaW5lZCAmJiBlbmRDdXJzb3IuaXNEZWZpbmVkKQogICAgICAgICAgU29tZShWaXJ0dWFsTGJDYW5kaWRhdGUoc3RhcnRDdXJzb3IuZ2V0LCBlbmRDdXJzb3IuZ2V0KSkKICAgICAgICBlbHNlCiAgICAgICAgICBOb25l</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBieUNvbnRpbnVlKGxzbXM6IFNlcVtMYW5lU3BsaXRNZXJnZV0pID0gewogICAgICB2YWwgY29udGludWVMc21zID0gbHNtcy5maWx0ZXIoXy5pbmZvVHlwZSA9PSBTcGxpdE1lcmdlVHlwZS5DT05USU5VRSkKCiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>343</text>
