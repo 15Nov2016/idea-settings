@@ -71,8 +71,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595310875684">
-        <mark key="[" line="207" column="63" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595315296830">
+        <mark key="[" line="153" column="71" />
+        <mark key="]" line="166" column="8" />
+        <mark key="^" line="166" column="8" />
+        <mark key="." line="166" column="7" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1595232896666" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/ToIr.scala" timestamp="1595222568971">
