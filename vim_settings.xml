@@ -47,31 +47,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595323415342">
-        <mark key="[" line="252" column="4" />
-        <mark key="]" line="252" column="5" />
-        <mark key="." line="252" column="4" />
-        <mark key="^" line="252" column="5" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishUtils.scala" timestamp="1595246103477">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1597574188412">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1597575004842">
-        <mark key="[" line="159" column="45" />
-        <mark key="]" line="159" column="45" />
-        <mark key="." line="159" column="45" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/MxfObjectId.scala" timestamp="1595239187110">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1595333733425">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595323415342">
+        <mark key="[" line="252" column="4" />
+        <mark key="]" line="252" column="5" />
+        <mark key="." line="252" column="4" />
+        <mark key="^" line="252" column="5" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseIntersectionArea.scala" timestamp="1597576864550">
+        <mark key="[" line="13" column="53" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/ReplenishUtils.scala" timestamp="1595246103477">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1597575746731">
+        <mark key="[" line="159" column="45" />
+        <mark key="]" line="159" column="45" />
+        <mark key="." line="159" column="45" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1597575966382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -79,14 +82,22 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneBorder.scala" timestamp="1595322034961">
         <mark key="[" line="22" column="26" />
       </file>
+      <file name="/ParseIntersectionArea.scala" timestamp="1597576453646" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1597577153532">
+        <mark key="[" line="60" column="68" />
+        <mark key="]" line="60" column="68" />
+        <mark key="." line="60" column="68" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1595334906390">
         <mark key="[" line="220" column="6" />
         <mark key="]" line="220" column="50" />
         <mark key="." line="220" column="49" />
         <mark key="^" line="220" column="50" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1597575191936">
-        <mark key="[" line="735" column="9" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/Procedure.scala" timestamp="1597576028553">
+        <mark key="]" line="705" column="6" />
+        <mark key="^" line="705" column="6" />
+        <mark key="." line="705" column="5" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/SectioningVisPack.scala" timestamp="1595322658391">
         <mark key="[" line="16" column="42" />
@@ -94,7 +105,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1597574490761">
+      <file name="/fragment.java" timestamp="1597576566402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/MoodyBlues.scala" timestamp="1596425427564">
@@ -156,10 +167,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>3.</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>3.</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
