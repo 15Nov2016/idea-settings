@@ -64,11 +64,11 @@
         <mark key="]" line="237" column="31" />
         <mark key="." line="237" column="31" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595323415342">
-        <mark key="[" line="252" column="4" />
-        <mark key="]" line="252" column="5" />
-        <mark key="." line="252" column="4" />
-        <mark key="^" line="252" column="5" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1598724905869">
+        <mark key="[" line="203" column="37" />
+        <mark key="]" line="203" column="41" />
+        <mark key="." line="203" column="40" />
+        <mark key="^" line="203" column="41" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseIntersectionArea.scala" timestamp="1597576864550">
         <mark key="[" line="13" column="53" />
@@ -114,7 +114,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1597645218438">
+      <file name="/fragment.java" timestamp="1598724945827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/MoodyBlues.scala" timestamp="1596425427564">
@@ -176,16 +176,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, Seq[(LaneBorder, Array[Double])])</text>
+        <text encoding="base64">IHN0YXJ0</text>
       </register>
       <register name="-" type="4">
-        <text>, Seq[(LaneBorder, Array[Double])])</text>
+        <text encoding="base64">IHN0YXJ0</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uZ2VvbWV0cnkuUG9pbnQK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKHMiZ2VuZXJhdGVQb2x5TGluZSBzdGFydDogY2FuZGlkYXRlOiAkVmlydHVhbExiQ2FuZGlkYXRlIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAuZGF0YS5wcm90by5HZW9tZXRyeS5Qb2x5bGluZQo=</text>
