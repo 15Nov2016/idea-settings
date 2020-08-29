@@ -56,6 +56,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1598702420658">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/RealLbManager.scala" timestamp="1598702952131">
+        <mark key="[" line="237" column="31" />
+        <mark key="]" line="237" column="31" />
+        <mark key="." line="237" column="31" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1595323415342">
         <mark key="[" line="252" column="4" />
         <mark key="]" line="252" column="5" />
@@ -80,6 +88,9 @@
         <mark key="]" line="159" column="45" />
         <mark key="." line="159" column="45" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/TransformHelper.scala" timestamp="1598702533863">
+        <mark key="[" line="33" column="0" />
+      </file>
       <file name="/Dummy.scala" timestamp="1597575966382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -88,7 +99,6 @@
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/ir/base/LaneBorder.scala" timestamp="1595322034961">
         <mark key="[" line="22" column="26" />
       </file>
-      <file name="/ParseIntersectionArea.scala" timestamp="1597576453646" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/geometry/PolyLine.scala" timestamp="1597577153532">
         <mark key="[" line="60" column="68" />
         <mark key="]" line="60" column="68" />
@@ -168,10 +178,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>, Seq[(LaneBorder, Array[Double])])</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>, Seq[(LaneBorder, Array[Double])])</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
