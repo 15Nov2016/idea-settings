@@ -54,11 +54,6 @@
       <file name="/a.dummy" timestamp="1598702420658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/RealLbManager.scala" timestamp="1598702952131">
-        <mark key="[" line="237" column="31" />
-        <mark key="]" line="237" column="31" />
-        <mark key="." line="237" column="31" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1598842152143" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseIntersectionArea.scala" timestamp="1597576864550">
         <mark key="[" line="13" column="53" />
@@ -109,7 +104,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1598724945827">
+      <file name="/fragment.java" timestamp="1598844728491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/MoodyBlues.scala" timestamp="1596425427564">
@@ -118,7 +113,7 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/attributeCalc/Interpolation.scala" timestamp="1598843604836">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/attributeCalc/Interpolation.scala" timestamp="1598843910410">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
