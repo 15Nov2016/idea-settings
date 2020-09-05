@@ -53,11 +53,8 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1599275907661">
-        <mark key="[" line="450" column="40" />
-        <mark key="]" line="416" column="0" />
-        <mark key="^" line="415" column="76" />
-        <mark key="." line="416" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Cli.scala" timestamp="1599277229485">
+        <mark key="[" line="125" column="3" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/distibuted/DistributedUnit.scala" timestamp="1599205955848">
         <mark key="[" line="180" column="33" />
@@ -80,8 +77,10 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/TransformHelper.scala" timestamp="1598702533863" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1598842152143" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/CursorSpaceOnIr.scala" timestamp="1599275496055">
-        <mark key="[" line="441" column="0" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1599277255518">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1598842934441">
         <mark key="'" line="26" column="16" />
@@ -156,10 +155,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRoYXRDZ3MgPSBWaXN1YWxpemUuY2dzVG9HZW9Kc29uKHJldmlzZWRUaGF0Q2cpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
@@ -168,31 +167,31 @@
         <text encoding="base64">ICAgICAgdmFsIHRoaXNDZ3MgPSBWaXN1YWxpemUuY2dzVG9HZW9Kc29uKHJldmlzZWRUaGlzQ2cpIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRoYXRDZ3MgPSBWaXN1YWxpemUuY2dzVG9HZW9Kc29uKHJldmlzZWRUaGF0Q2cpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG11dGFibGUuTWFwW0Nvbm5lY3RvcklkLCBTZXFbQ3RvclVTXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLmxhbmVncm91cGluZy5DdG9yVVMK</text>
+        <text encoding="base64">ICB2YWwgbG9nbzogU3RyaW5nID0KICAgICIiIgogICAgICB8CiAgICAgIHzilojilojilZcgICAg4paI4paI4pWX4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4pWXICDilojilojilZfilojilojilZcgICDilojilojilZfilojilojilojilojilojilojilojilZcKICAgICAgfOKWiOKWiOKWiOKWiOKVlyAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWd4pWa4paI4paI4pWX4paI4paI4pWU4pWd4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWdCiAgICAgIHzilojilojilZTilojilojilZcg4paI4paI4pWR4paI4paI4paI4paI4paI4pWXICAg4pWa4paI4paI4paI4pWU4pWdIOKWiOKWiOKVkSAgIOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlwogICAgICB84paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWdICAg4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVkSAgIOKWiOKWiOKVkeKVmuKVkOKVkOKVkOKVkOKWiOKWiOKVkQogICAgICB84paI4paI4pWRIOKVmuKWiOKWiOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVl+KWiOKWiOKVlOKVnSDilojilojilZfilZrilojilojilojilojilojilojilZTilZ3ilojilojilojilojilojilojilojilZEKICAgICAgfOKVmuKVkOKVnSAg4pWa4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWdICDilZrilZDilZ0g4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIOKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVnQogICAgICB8IiIiLnN0cmlwTWFyZ2lu</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGxvZ28pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRoYXRDZ3MgPSBWaXN1YWxpemUuY2dzVG9HZW9Kc29uKHJldmlzZWRUaGF0Q2cpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgbG9nbzogU3RyaW5nID0KICAgICIiIgogICAgICB8CiAgICAgIHzilojilojilZcgICAg4paI4paI4pWXIOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilZcgIOKWiOKWiOKVlyDilojilojilZcgICDilojilojilZcg4paI4paI4paI4paI4paI4paI4paI4pWXCiAgICAgIHzilojilojilojilojilZcgIOKWiOKWiOKVkSDilojilojilZTilZDilZDilZDilZDilZ0g4pWa4paI4paI4pWX4paI4paI4pWU4pWdIOKWiOKWiOKVkSAgIOKWiOKWiOKVkSDilojilojilZTilZDilZDilZDilZDilZ0KICAgICAgfOKWiOKWiOKVlOKWiOKWiOKVlyDilojilojilZEg4paI4paI4paI4paI4paI4pWXICAgIOKVmuKWiOKWiOKWiOKVlOKVnSAg4paI4paI4pWRICAg4paI4paI4pWRIOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlwogICAgICB84paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWRIOKWiOKWiOKVlOKVkOKVkOKVnSAgICDilojilojilZTilojilojilZcgIOKWiOKWiOKVkSAgIOKWiOKWiOKVkSDilZrilZDilZDilZDilZDilojilojilZEKICAgICAgfOKWiOKWiOKVkSDilZrilojilojilojilojilZEg4paI4paI4paI4paI4paI4paI4paI4pWXIOKWiOKWiOKVlOKVnSDilojilojilZcg4pWa4paI4paI4paI4paI4paI4paI4pWU4pWdIOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVkQogICAgICB84pWa4pWQ4pWdICDilZrilZDilZDilZDilZ0g4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIOKVmuKVkOKVnSAg4pWa4pWQ4pWdICDilZrilZDilZDilZDilZDilZDilZ0gIOKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVnQogICAgICB8IiIiLnN0cmlwTWFyZ2lu</text>
+        <text encoding="base64">ICAgICAgICAgIG11dGFibGUuTWFwW0Nvbm5lY3RvcklkLCBTZXFbQ3RvclVTXV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgbG9nZ2VyLmluZm8ocyJcbiR7fV9fXyIsIFJFRCkK</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLmxhbmVncm91cGluZy5DdG9yVVMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGxvZ28pCg==</text>
       </register>
       <register name=":" type="4">
         <text>735</text>
