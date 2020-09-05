@@ -73,12 +73,15 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Modification.scala" timestamp="1599309863898">
-        <mark key="[" line="169" column="29" />
-        <mark key="]" line="169" column="28" />
-        <mark key="." line="169" column="28" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1599312776139" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Modification.scala" timestamp="1599313185038">
+        <mark key="[" line="188" column="28" />
+        <mark key="]" line="188" column="28" />
+        <mark key="." line="188" column="28" />
+        <mark key="^" line="188" column="17" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1598842152143" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1599313076304" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/WriteFile.scala" timestamp="1599313121722" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1598842934441">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="26" column="30" />
@@ -152,16 +155,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>after</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>after</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRoaXNDZ3MgPSBWaXN1YWxpemUuY2dzVG9HZW9Kc29uKHJldmlzZWRUaGlzQ2cpIAo=</text>
+        <text encoding="base64">ICAgICAgc3RyVG9GaWxlKGEsICJtb2RpIiwgImFmdGVyLmdlb2pzb24iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
