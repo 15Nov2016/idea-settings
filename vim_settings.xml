@@ -53,7 +53,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Cli.scala" timestamp="1599277229485" />
+      <file name="$USER_HOME$/WorkSpace/nexus/build.gradle" timestamp="1599320076999">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/distibuted/DistributedUnit.scala" timestamp="1599205955848">
         <mark key="[" line="180" column="33" />
         <mark key="]" line="180" column="34" />
@@ -73,9 +77,9 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/vistualize/Vistualize.scala" timestamp="1599312776139" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1599313076304" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/test/scala/ai/momenta/hdmap/nexus/pylon/WriteFile.scala" timestamp="1599313121722" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1599319937851">
+        <mark key="[" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1598842934441">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="26" column="30" />
@@ -148,44 +152,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>newRoadtile.getRoad(437)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>newRoadtile.getRoad(437)</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RyVG9GaWxlKGEsICJtb2RpIiwgImFmdGVyLmdlb2pzb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgbG9nbzogU3RyaW5nID0KICAgICIiIgogICAgICB8CiAgICAgIHzilojilojilZcgICAg4paI4paI4pWX4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4pWXICDilojilojilZfilojilojilZcgICDilojilojilZfilojilojilojilojilojilojilojilZcKICAgICAgfOKWiOKWiOKWiOKWiOKVlyAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWd4pWa4paI4paI4pWX4paI4paI4pWU4pWd4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWdCiAgICAgIHzilojilojilZTilojilojilZcg4paI4paI4pWR4paI4paI4paI4paI4paI4pWXICAg4pWa4paI4paI4paI4pWU4pWdIOKWiOKWiOKVkSAgIOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlwogICAgICB84paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWdICAg4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVkSAgIOKWiOKWiOKVkeKVmuKVkOKVkOKVkOKVkOKWiOKWiOKVkQogICAgICB84paI4paI4pWRIOKVmuKWiOKWiOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVl+KWiOKWiOKVlOKVnSDilojilojilZfilZrilojilojilojilojilojilojilZTilZ3ilojilojilojilojilojilojilojilZEKICAgICAgfOKVmuKVkOKVnSAg4pWa4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWdICDilZrilZDilZ0g4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIOKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVnQogICAgICB8IiIiLnN0cmlwTWFyZ2lu</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGxvZ28pCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICAgIC5kZWxldGVMYW5lQm91bmRhcnkoNDAzLCAwLCAzLCAwLCAxKQogICAgICAvLyAgICAgICAgLmRlbGV0ZUxhbmVCb3VuZGFyeSg0MzcsIDAsIDEsIDEsIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRoYXRDZ3MgPSBWaXN1YWxpemUuY2dzVG9HZW9Kc29uKHJldmlzZWRUaGF0Q2cpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG11dGFibGUuTWFwW0Nvbm5lY3RvcklkLCBTZXFbQ3RvclVTXV0K</text>
+        <text encoding="base64">ICB2YWwgbG9nbzogU3RyaW5nID0KICAgICIiIgogICAgICB8CiAgICAgIHzilojilojilZcgICAg4paI4paI4pWX4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4pWXICDilojilojilZfilojilojilZcgICDilojilojilZfilojilojilojilojilojilojilojilZcKICAgICAgfOKWiOKWiOKWiOKWiOKVlyAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWd4pWa4paI4paI4pWX4paI4paI4pWU4pWd4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWdCiAgICAgIHzilojilojilZTilojilojilZcg4paI4paI4pWR4paI4paI4paI4paI4paI4pWXICAg4pWa4paI4paI4paI4pWU4pWdIOKWiOKWiOKVkSAgIOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlwogICAgICB84paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWdICAg4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVkSAgIOKWiOKWiOKVkeKVmuKVkOKVkOKVkOKVkOKWiOKWiOKVkQogICAgICB84paI4paI4pWRIOKVmuKWiOKWiOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVl+KWiOKWiOKVlOKVnSDilojilojilZfilZrilojilojilojilojilojilojilZTilZ3ilojilojilojilojilojilojilojilZEKICAgICAgfOKVmuKVkOKVnSAg4pWa4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWdICDilZrilZDilZ0g4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIOKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVnQogICAgICB8IiIiLnN0cmlwTWFyZ2lu</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24ucHJvY2VkdXJlLmxhbmVncm91cGluZy5DdG9yVVMK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGxvZ28pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGxvZ28pCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>735</text>
