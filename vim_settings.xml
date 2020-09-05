@@ -67,8 +67,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseIntersectionArea.scala" timestamp="1597576864550">
-        <mark key="[" line="13" column="53" />
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1599271553902">
+        <mark key="[" line="156" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lborganizer/LbGrouping.scala" timestamp="1598994910497">
         <mark key="[" line="61" column="0" />
@@ -93,7 +93,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1599017156040">
+      <file name="/fragment.java" timestamp="1599271133776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/attributeCalc/Interpolation.scala" timestamp="1598843910410">
