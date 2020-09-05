@@ -56,6 +56,12 @@
       <file name="/a.dummy" timestamp="1598702420658">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/divergentArea/DivergentArea.scala" timestamp="1599273204636">
+        <mark key="[" line="297" column="120" />
+        <mark key="]" line="297" column="15" />
+        <mark key="^" line="297" column="15" />
+        <mark key="." line="297" column="14" />
+      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/distibuted/DistributedUnit.scala" timestamp="1599205955848">
         <mark key="[" line="180" column="33" />
         <mark key="]" line="180" column="34" />
@@ -67,7 +73,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1599271553902">
+      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/sectioning/cursor/Utils.scala" timestamp="1599273098964">
         <mark key="[" line="156" column="20" />
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lborganizer/LbGrouping.scala" timestamp="1598994910497">
@@ -77,11 +83,6 @@
       </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/transform/TransformHelper.scala" timestamp="1598702533863" />
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/PerformVLbCandidate.scala" timestamp="1598842152143" />
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/parser/ParseOsmPartition.scala" timestamp="1597643282431">
-        <mark key="[" line="735" column="10" />
-        <mark key="]" line="735" column="10" />
-        <mark key="." line="735" column="10" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/replenish/VirtualLbCandidate.scala" timestamp="1598842934441">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="26" column="30" />
@@ -155,16 +156,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>printLog</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>printLog</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYWNrR3JvdWRDb2xvcnMoMTYwKSArICLilojilojilZcgICAg4paI4paI4pWXIOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilZcgIOKWiOKWiOKVlyDilojilojilZcgICDilojilojilZcg4paI4paI4paI4paI4paI4paI4paI4pWXIiArIEFOU0lfUkVTRVQpCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmFja0dyb3VkQ29sb3JzKDE2MSkgKyAi4paI4paI4paI4paI4pWXICDilojilojilZEg4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWdIOKVmuKWiOKWiOKVl+KWiOKWiOKVlOKVnSDilojilojilZEgICDilojilojilZEg4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ4pWdIiArIEFOU0lfUkVTRVQpCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmFja0dyb3VkQ29sb3JzKDE2MikgKyAi4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVkSDilojilojilojilojilojilZcgICAg4pWa4paI4paI4paI4pWU4pWdICDilojilojilZEgICDilojilojilZEg4paI4paI4paI4paI4paI4paI4paI4pWXIiArIEFOU0lfUkVTRVQpCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmFja0dyb3VkQ29sb3JzKDE2MykgKyAi4paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWRIOKWiOKWiOKVlOKVkOKVkOKVnSAgICDilojilojilZTilojilojilZcgIOKWiOKWiOKVkSAgIOKWiOKWiOKVkSDilZrilZDilZDilZDilZDilojilojilZEiICsgQU5TSV9SRVNFVCkKICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYWNrR3JvdWRDb2xvcnMoMTY0KSArICLilojilojilZEg4pWa4paI4paI4paI4paI4pWRIOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilZTilZ0g4paI4paI4pWXIOKVmuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVnSDilojilojilojilojilojilojilojilZEiICsgQU5TSV9SRVNFVCkKICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYWNrR3JvdWRDb2xvcnMoMTY1KSArICLilZrilZDilZ0gIOKVmuKVkOKVkOKVkOKVnSDilZrilZDilZDilZDilZDilZDilZDilZ0g4pWa4pWQ4pWdICDilZrilZDilZ0gIOKVmuKVkOKVkOKVkOKVkOKVkOKVnSAg4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIiArIEFOU0lfUkVTRVQpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFpLm1vbWVudGEuaGRtYXAubmV4dXMucHlsb24uZ2VvbWV0cnkub3BzLkRpc3RhbmNlT3AK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIG11dGFibGUuTWFwW0Nvbm5lY3RvcklkLCBTZXFbQ3RvclVTXV0K</text>
