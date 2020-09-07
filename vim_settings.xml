@@ -53,11 +53,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/Pylon.scala" timestamp="1599464337011">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpace/nexus/nexus-pylon/src/main/scala/ai/momenta/hdmap/nexus/pylon/procedure/lborganizer/LbClustering.scala" timestamp="1599000993539">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -160,7 +155,9 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgbG9nZ2VyID0gTG9nZ2VyLm9mW1lvdXJBcHBdCg==</text>
+        <text>class YourApp {
+  private val logger = NewLogger.of[YourApp]
+}</text>
       </register>
       <register name="-" type="4">
         <text>vlet-log</text>
@@ -172,31 +169,33 @@
         <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgbG9nZ2VyID0gTG9nZ2VyLm9mW1lvdXJBcHBdCg==</text>
+        <text>class YourApp {
+  private val logger = NewLogger.of[YourApp]
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBsb2dnZXIgPSBOZXdMb2dnZXIub2ZbUHlsb25dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgbG9nZ2VyID0gTG9nZ2VyLm9mW1lvdXJBcHBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICAgIC5kZWxldGVMYW5lQm91bmRhcnkoNDAzLCAwLCAzLCAwLCAxKQogICAgICAvLyAgICAgICAgLmRlbGV0ZUxhbmVCb3VuZGFyeSg0MzcsIDAsIDEsIDEsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBncm91cDogJ29yZy53dmxldCcsIG5hbWU6ICd3dmxldC1sb2cnLCB2ZXJzaW9uOiAnMS4yLjMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICAgIC5kZWxldGVMYW5lQm91bmRhcnkoNDAzLCAwLCAzLCAwLCAxKQogICAgICAvLyAgICAgICAgLmRlbGV0ZUxhbmVCb3VuZGFyeSg0MzcsIDAsIDEsIDEsIDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>735</text>
