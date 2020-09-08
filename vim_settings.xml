@@ -154,13 +154,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>class YourApp {
-  private val logger = NewLogger.of[YourApp]
-}</text>
+      <register name="&quot;" type="4">
+        <text>LogSuppor</text>
       </register>
       <register name="-" type="4">
-        <text>vlet-log</text>
+        <text>LogSuppor</text>
       </register>
       <register name="/" type="4">
         <text>ctor</text>
